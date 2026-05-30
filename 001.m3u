@@ -7,17 +7,17 @@ http://172.16.29.34/ontest1/ontest1/543.m3u8
 http://172.16.29.34/ontest1/ontest1/526.m3u8
 #EXTINF:-1 tvg-name="ATN News HD" tvg-logo="https://www.timetvplus.com/uploads/tv_image/atn-news.jpg"
 http://172.16.29.34/ontest1/ontest1/536.m3u8
-#EXTINF:-1 tvg-name="Bangla TV  HD" tvg-logo=""
+#EXTINF:-1 tvg-name="Bangla TV  HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"
 http://172.16.29.34/ontest1/ontest1/549.m3u8
-#EXTINF:-1 tvg-name="Banglavision HD" tvg-logo=""
+#EXTINF:-1 tvg-name="Banglavision HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png"
 http://172.16.29.34/ontest1/ontest1/533.m3u8
-#EXTINF:-1 tvg-name="Bijoy TV HD" tvg-logo=""
+#EXTINF:-1 tvg-name="Bijoy TV HD" tvg-logo="http://100.100.100.100/live/assets/images/bijoytv.png"
 http://172.16.29.34/ontest1/ontest1/672.m3u8
-#EXTINF:-1 tvg-name="Boishakhi TV HD" tvg-logo=""
+#EXTINF:-1 tvg-name="Boishakhi TV HD" tvg-logo="https://s3.aynaott.com/storage/58658d4594ca1ff3c5031c9d8e3d9fc0"
 http://172.16.29.34/ontest1/ontest1/532.m3u8
-#EXTINF:-1 tvg-name="BTV Chattagram
+#EXTINF:-1 tvg-name="BTV Chattagram" tvg-logo=""
 http://172.16.29.34/ontest1/ontest1/527.m3u8
-#EXTINF:-1 tvg-name="BTV National HD" tvg-logo=""
+#EXTINF:-1 tvg-name="BTV National HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"
 http://172.16.29.34/ontest1/ontest1/524.m3u8
 #EXTINF:-1 tvg-name="BTV News HD" tvg-logo=""
 http://172.16.29.34/ontest1/ontest1/673.m3u8
@@ -29,7 +29,7 @@ http://172.16.29.34/ontest1/ontest1/528.m3u8
 http://172.16.29.34/ontest1/ontest1/686.m3u8
 #EXTINF:-1 tvg-name="Channel 1 4K" tvg-logo=""
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Channel 9 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png"
+#EXTINF:-1 tvg-name="Channel 9 HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png"
 http://172.16.29.34/ontest1/ontest1/667.m3u8
 #EXTINF:-1 tvg-name="Channel 16" tvg-logo=""
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
@@ -47,13 +47,13 @@ http://172.16.29.34/ontest1/ontest1/550.m3u8
 http://172.16.29.34/ontest1/ontest1/542.m3u8
 #EXTINF:-1 tvg-name="Ekushey TV BD" tvg-logo="https://www.timetvplus.com/uploads/tv_image/ekushey-tv.jpg"
 http://172.16.29.34/ontest1/ontest1/529.m3u8
-#EXTINF:-1 tvg-name="Ekhon TV HD" tvg-logo=""
+#EXTINF:-1 tvg-name="Ekhon TV HD" tvg-logo="http://100.100.100.100/live/assets/images/ekhon.png"
 http://172.16.29.34/ontest1/ontest1/553.m3u8
-#EXTINF:-1 tvg-name="Gazi TV HD" tvg-logo=""
+#EXTINF:-1 tvg-name="Gazi TV HD" tvg-logo="http://100.100.100.100/live/assets/images/gazi.jpg"
 http://172.16.29.34/ontest1/ontest1/541.m3u8
-#EXTINF:-1 tvg-name="Global TV BD" tvg-logo=""
+#EXTINF:-1 tvg-name="Global TV BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png"
 http://172.16.29.34/ontest1/ontest1/691.m3u8
-#EXTINF:-1 tvg-name="Green TV HD" tvg-logo=""
+#EXTINF:-1 tvg-name="Green TV HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="INDEPENDENT TV" tvg-logo=""
 http://172.16.29.34/ontest1/ontest1/539.m3u8
@@ -61,7 +61,7 @@ http://172.16.29.34/ontest1/ontest1/539.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-video=2202800.m3u8
 #EXTINF:-1 tvg-name="JAMUNA TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png"
 http://172.16.29.34/ontest1/ontest1/545.m3u8
-#EXTINF:-1 tvg-name="Maasranga HD" tvg-logo=""
+#EXTINF:-1 tvg-name="Maasranga HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png"
 http://172.16.29.34/ontest1/ontest1/554.m3u8
 #EXTINF:-1 tvg-name="Madani TV HD" tvg-logo=""
 http://172.16.29.34/ontest1/ontest1/690.m3u8
@@ -69,25 +69,25 @@ http://172.16.29.34/ontest1/ontest1/690.m3u8
 http://172.16.29.34/ontest1/ontest1/537.m3u8
 #EXTINF:-1 tvg-name="MYTV HD" tvg-logo=""
 http://172.16.29.34/ontest1/ontest1/535.m3u8
-#EXTINF:-1 tvg-name="Nagorik TV HD" tvg-logo=""
+#EXTINF:-1 tvg-name="Nagorik TV HD" tvg-logo="http://100.100.100.100/live/assets/images/nagorik.jpg"
 http://172.16.29.34/ontest1/ontest1/551.m3u8
 #EXTINF:-1 tvg-name="News 21 HD" tvg-logo=""
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
-#EXTINF:-1 tvg-name="News 24 HD" tvg-logo=""
+#EXTINF:-1 tvg-name="News 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png"
 http://172.16.29.34/ontest1/ontest1/548.m3u8
-#EXTINF:-1 tvg-name="Nexus TV HD" tvg-logo="https://www.timetvplus.com/uploads/tv_image/newus-tv.jpg"
+#EXTINF:-1 tvg-name="Nexus TV HD" tvg-logo="http://100.100.100.100/live/assets/images/nexustelevision.png"
 http://172.16.29.34/ontest1/ontest1/692.m3u8
 #EXTINF:-1 tvg-name="NTV HD" tvg-logo=""
 http://172.16.29.34/ontest1/ontest1/530.m3u8
 #EXTINF:-1 tvg-name="Rajdhani TV" tvg-logo=""
 https://edge2.roarzone.net:8447/roarzone/edge3/rajdhani_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="RTV HD" tvg-logo=""
+#EXTINF:-1 tvg-name="RTV HD" tvg-logo="http://100.100.100.100/live/assets/images/rtv.png"
 http://172.16.29.34/ontest1/ontest1/531.m3u8
-#EXTINF:-1 tvg-name="SATV HD" tvg-logo=""
+#EXTINF:-1 tvg-name="SATV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770187361105.png"
 http://172.16.29.34/ontest1/ontest1/544.m3u8
 #EXTINF:-1 tvg-name="Somoy TV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png"
 http://172.16.29.34/ontest1/ontest1/538.m3u8
-#EXTINF:-1 tvg-name="Star News HD" tvg-logo=""
+#EXTINF:-1 tvg-name="Star News HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png"
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo=""
 http://172.16.29.34/ontest1/ontest1/578.m3u8
