@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", Anando TV
+#EXTINF:-1 tvg-name="Anando TV" tvg-logo="https://anandatv.tv/wp-content/uploads/2023/08/cropped-Atv_Web_Logo.jpg"
 http://172.16.29.34/ontest1/ontest1/552.m3u8
-#EXTINF:0 type="stream" channelId="-1", Asian TV HD
+#EXTINF:-1 tvg-name="Asian TV HD" tvg-logo="https://image.pngaaa.com/914/2898914-middle.png"
 http://172.16.29.34/ontest1/ontest1/543.m3u8
 #EXTINF:-1 tvg-name="ATN Bangla HD" tvg-logo="https://www.timetvplus.com/uploads/tv_image/atn-bangla.jpg"
 http://172.16.29.34/ontest1/ontest1/526.m3u8
