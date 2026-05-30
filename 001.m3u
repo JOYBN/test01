@@ -39,7 +39,7 @@ http://172.16.29.34/ontest1/ontest1/540.m3u8
 http://172.16.29.34/ontest1/ontest1/547.m3u8
 #EXTINF:-1 tvg-name="Deepto TV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png"
 http://172.16.29.34/ontest1/ontest1/546.m3u8
-#EXTINF:-1 tvg-name="Desh TV HD" tvg-logo="https://i.postimg.cc/wvBbd56q/Desh-TV.jpg"
+#EXTINF:-1 tvg-name="Desh TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbLdlkAGY_wL3-OCoMIVOAeoRlb9BlHHqi0g&s"
 http://172.16.29.34/ontest1/ontest1/534.m3u8
 #EXTINF:-1 tvg-name="Duronto TV HD" tvg-logo="https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b"
 http://172.16.29.34/ontest1/ontest1/550.m3u8
@@ -341,7 +341,7 @@ https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
 #EXTINF:-1 tvg-name="TV9 Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/80/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A7%AF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg"
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-name="ZEE 24 Ghanta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYy4jJoltvhvpRSuk8i6Wm03s40xqEpsla9Q&s"
+#EXTINF:-1 tvg-name="ZEE 24 Ghanta" tvg-logo="https://static.vidgyor.com/live/midroll/assets/ZEE_24-GHANTA.png"
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-name="Rongeen TV HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/f6/Rongeen_TV_logo_%282019-present%29.png/revision/latest/scale-to-width-down/247?cb=20210423103847"
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
@@ -355,3 +355,5 @@ https://tvsen6.aynaott.com/GreenTvHD" tvg-logo=""/tracks-v1a1/mono.ts.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_7.m3u8
 #EXTINF:-1 tvg-name="DD Bangla" tvg-logo="https://yt3.googleusercontent.com/jJxkTYCjjCHI1_OB6NK8G1n4vu-EIOj8gaPTxbnFA9tO_jkWJdCfUZy23fVCQtthdW9Nf8Et=s900-c-k-c0x00ffffff-no-rj"
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
+#EXTINF:-1 tvg-name="NEWS 18 Assam" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/News18_Assam_North_East_Logo.svg/1280px-News18_Assam_North_East_Logo.svg.png"
+https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/News18_Assam_North_East_NW18_MOB-audio_98835_eng=98800-video=2293600.m3u8
