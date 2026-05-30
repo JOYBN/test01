@@ -17,7 +17,7 @@ http://172.16.29.34/ontest1/ontest1/672.m3u8
 http://172.16.29.34/ontest1/ontest1/532.m3u8
 #EXTINF:-1 tvg-name="BTV Chattagram" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193167149_3.png&w=1920&q=75"
 http://172.16.29.34/ontest1/ontest1/527.m3u8
-#EXTINF:-1 tvg-name="BTV National HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"
+#EXTINF:-1 tvg-id="BTV.bd" tvg-name="BTV National HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"
 http://172.16.29.34/ontest1/ontest1/524.m3u8
 #EXTINF:-1 tvg-name="BTV News HD" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1735648543857_Poster.jpg&w=1920&q=75"
 http://172.16.29.34/ontest1/ontest1/673.m3u8
@@ -77,11 +77,11 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 http://172.16.29.34/ontest1/ontest1/548.m3u8
 #EXTINF:-1 tvg-name="Nexus TV HD" tvg-logo="http://100.100.100.100/live/assets/images/nexustelevision.png"
 http://172.16.29.34/ontest1/ontest1/692.m3u8
-#EXTINF:-1 tvg-name="NTV HD" tvg-logo=""
+#EXTINF:-1 tvg-id="NTV.bd" tvg-name="NTV HD" tvg-logo=""
 http://172.16.29.34/ontest1/ontest1/530.m3u8
 #EXTINF:-1 tvg-name="Rajdhani TV" tvg-logo=""
 https://edge2.roarzone.net:8447/roarzone/edge3/rajdhani_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="RTV HD" tvg-logo="http://100.100.100.100/live/assets/images/rtv.png"
+#EXTINF:-1 tvg-id="RTV.bd" tvg-name="RTV HD" tvg-logo="http://100.100.100.100/live/assets/images/rtv.png"
 http://172.16.29.34/ontest1/ontest1/531.m3u8
 #EXTINF:-1 tvg-name="SATV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770187361105.png"
 http://172.16.29.34/ontest1/ontest1/544.m3u8
