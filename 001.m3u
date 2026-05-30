@@ -1,359 +1,357 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Anando TV" tvg-logo="https://s3.aynaott.com/storage/897698f593fc07974fc46881a440733d"
+#EXTINF:0 type="stream" channelId="-1", Anando TV
 http://172.16.29.34/ontest1/ontest1/552.m3u8
-#EXTINF:-1 tvg-name="Asian TV HD" tvg-logo="https://image.pngaaa.com/914/2898914-middle.png"
+#EXTINF:0 type="stream" channelId="-1", Asian TV HD
 http://172.16.29.34/ontest1/ontest1/543.m3u8
-#EXTINF:-1 tvg-name="ATN Bangla HD" tvg-logo="https://www.timetvplus.com/uploads/tv_image/atn-bangla.jpg"
+#EXTINF:0 type="stream" channelId="-1", ATN Bangla HD
 http://172.16.29.34/ontest1/ontest1/526.m3u8
-#EXTINF:-1 tvg-name="ATN News HD" tvg-logo="https://www.timetvplus.com/uploads/tv_image/atn-news.jpg"
+#EXTINF:0 type="stream" channelId="-1", ATN News HD
 http://172.16.29.34/ontest1/ontest1/536.m3u8
-#EXTINF:-1 tvg-name="Bangla TV  HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"
+#EXTINF:0 type="stream" channelId="-1", Bangla TV  HD
 http://172.16.29.34/ontest1/ontest1/549.m3u8
-#EXTINF:-1 tvg-name="Banglavision HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png"
+#EXTINF:0 type="stream" channelId="-1", Banglavision HD
 http://172.16.29.34/ontest1/ontest1/533.m3u8
-#EXTINF:-1 tvg-name="Bijoy TV HD" tvg-logo="http://100.100.100.100/live/assets/images/bijoytv.png"
+#EXTINF:0 type="stream" channelId="-1", Bijoy TV HD
 http://172.16.29.34/ontest1/ontest1/672.m3u8
-#EXTINF:-1 tvg-name="Boishakhi TV HD" tvg-logo="https://s3.aynaott.com/storage/58658d4594ca1ff3c5031c9d8e3d9fc0"
+#EXTINF:0 type="stream" channelId="-1", Boishakhi TV HD
 http://172.16.29.34/ontest1/ontest1/532.m3u8
-#EXTINF:-1 tvg-name="BTV Chattagram" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193167149_3.png&w=1920&q=75"
+#EXTINF:0 type="stream" channelId="-1", BTV Chattagram
 http://172.16.29.34/ontest1/ontest1/527.m3u8
-#EXTINF:-1 tvg-name="BTV National HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"
+#EXTINF:0 type="stream" channelId="-1", BTV National HD
 http://172.16.29.34/ontest1/ontest1/524.m3u8
-#EXTINF:-1 tvg-name="BTV News HD" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1735648543857_Poster.jpg&w=1920&q=75"
+#EXTINF:0 type="stream" channelId="-1", BTV News HD
 http://172.16.29.34/ontest1/ontest1/673.m3u8
-#EXTINF:-1 tvg-name="Test_01" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Test_01
 http://172.16.29.34/ontest1/ontest1/525.m3u8
-#EXTINF:-1 tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png"
+#EXTINF:0 type="stream" channelId="-1", Channel I HD
 http://172.16.29.34/ontest1/ontest1/528.m3u8
-#EXTINF:-1 tvg-name="Channel S HD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/chsbd.jpg"
+#EXTINF:0 type="stream" channelId="-1", Channel S HD
 http://172.16.29.34/ontest1/ontest1/686.m3u8
-#EXTINF:-1 tvg-name="Channel 1 4K" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Channel%201.png"
+#EXTINF:0 type="stream" channelId="-1", Channel 1 4K
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Channel 9 HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png"
+#EXTINF:0 type="stream" channelId="-1", Channel 9 HD
 http://172.16.29.34/ontest1/ontest1/667.m3u8
-#EXTINF:-1 tvg-name="Channel 16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Channel_16_Bangladesh_Logo.png"
+#EXTINF:0 type="stream" channelId="-1", Channel 16
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
-#EXTINF:-1 tvg-name="Channel 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png"
+#EXTINF:0 type="stream" channelId="-1", Channel 24 HD
 http://172.16.29.34/ontest1/ontest1/540.m3u8
-#EXTINF:-1 tvg-name="DBC News HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png"
+#EXTINF:0 type="stream" channelId="-1", DBC News HD
 http://172.16.29.34/ontest1/ontest1/547.m3u8
-#EXTINF:-1 tvg-name="Deepto TV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png"
+#EXTINF:0 type="stream" channelId="-1", Deepto TV HD
 http://172.16.29.34/ontest1/ontest1/546.m3u8
-#EXTINF:-1 tvg-name="Desh TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbLdlkAGY_wL3-OCoMIVOAeoRlb9BlHHqi0g&s"
+#EXTINF:0 type="stream" channelId="-1", Desh TV HD
 http://172.16.29.34/ontest1/ontest1/534.m3u8
-#EXTINF:-1 tvg-name="Duronto TV HD" tvg-logo="https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b"
+#EXTINF:0 type="stream" channelId="-1", Duronto TV HD
 http://172.16.29.34/ontest1/ontest1/550.m3u8
-#EXTINF:-1 tvg-name="Ekattor TV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png"
+#EXTINF:0 type="stream" channelId="-1", Ekattor TV HD
 http://172.16.29.34/ontest1/ontest1/542.m3u8
-#EXTINF:-1 tvg-name="Ekushey TV BD" tvg-logo="https://www.timetvplus.com/uploads/tv_image/ekushey-tv.jpg"
+#EXTINF:0 type="stream" channelId="-1", Ekushey TV BD
 http://172.16.29.34/ontest1/ontest1/529.m3u8
-#EXTINF:-1 tvg-name="Ekhon TV HD" tvg-logo="http://100.100.100.100/live/assets/images/ekhon.png"
+#EXTINF:0 type="stream" channelId="-1", Ekhon TV HD
 http://172.16.29.34/ontest1/ontest1/553.m3u8
-#EXTINF:-1 tvg-name="Gazi TV HD" tvg-logo="http://100.100.100.100/live/assets/images/gazi.jpg"
+#EXTINF:0 type="stream" channelId="-1", Gazi TV HD
 http://172.16.29.34/ontest1/ontest1/541.m3u8
-#EXTINF:-1 tvg-name="Global TV BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png"
+#EXTINF:0 type="stream" channelId="-1", Global TV BD
 http://172.16.29.34/ontest1/ontest1/691.m3u8
-#EXTINF:-1 tvg-name="Green TV HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"
+#EXTINF:0 type="stream" channelId="-1", Green TV HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="INDEPENDENT TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/inds.png"
+#EXTINF:0 type="stream" channelId="-1", INDEPENDENT TV
 http://172.16.29.34/ontest1/ontest1/539.m3u8
-#EXTINF:-1 tvg-name="ISLAMIC TV" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", ISLAMIC TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-video=2202800.m3u8
-#EXTINF:-1 tvg-name="JAMUNA TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png"
+#EXTINF:0 type="stream" channelId="-1", JAMUNA TV
 http://172.16.29.34/ontest1/ontest1/545.m3u8
-#EXTINF:-1 tvg-name="Maasranga HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png"
+#EXTINF:0 type="stream" channelId="-1", Maasranga HD
 http://172.16.29.34/ontest1/ontest1/554.m3u8
-#EXTINF:-1 tvg-name="Madani TV HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Madani TV HD
 http://172.16.29.34/ontest1/ontest1/690.m3u8
-#EXTINF:-1 tvg-name="Mohona TV HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Mohona TV HD
 http://172.16.29.34/ontest1/ontest1/537.m3u8
-#EXTINF:-1 tvg-name="MYTV HD" tvg-logo="https://i.postimg.cc/HxGF4V2b/20250529_103226.png"
+#EXTINF:0 type="stream" channelId="-1", MYTV HD
 http://172.16.29.34/ontest1/ontest1/535.m3u8
-#EXTINF:-1 tvg-name="Nagorik TV HD" tvg-logo="http://100.100.100.100/live/assets/images/nagorik.jpg"
+#EXTINF:0 type="stream" channelId="-1", Nagorik TV HD
 http://172.16.29.34/ontest1/ontest1/551.m3u8
-#EXTINF:-1 tvg-name="News 21 HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", News 21 HD
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
-#EXTINF:-1 tvg-name="News 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png"
+#EXTINF:0 type="stream" channelId="-1", News 24 HD
 http://172.16.29.34/ontest1/ontest1/548.m3u8
-#EXTINF:-1 tvg-name="Nexus TV HD" tvg-logo="http://100.100.100.100/live/assets/images/nexustelevision.png"
+#EXTINF:0 type="stream" channelId="-1", Nexus TV HD
 http://172.16.29.34/ontest1/ontest1/692.m3u8
-#EXTINF:-1 tvg-name="NTV HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", NTV HD
 http://172.16.29.34/ontest1/ontest1/530.m3u8
-#EXTINF:-1 tvg-name="Rajdhani TV" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Rajdhani TV
 https://edge2.roarzone.net:8447/roarzone/edge3/rajdhani_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="RTV HD" tvg-logo="http://100.100.100.100/live/assets/images/rtv.png"
+#EXTINF:0 type="stream" channelId="-1", RTV HD
 http://172.16.29.34/ontest1/ontest1/531.m3u8
-#EXTINF:-1 tvg-name="SATV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770187361105.png"
+#EXTINF:0 type="stream" channelId="-1", SATV HD
 http://172.16.29.34/ontest1/ontest1/544.m3u8
-#EXTINF:-1 tvg-name="Somoy TV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png"
+#EXTINF:0 type="stream" channelId="-1", Somoy TV HD
 http://172.16.29.34/ontest1/ontest1/538.m3u8
-#EXTINF:-1 tvg-name="Star News HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png"
+#EXTINF:0 type="stream" channelId="-1", Star News HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
-#EXTINF:-1 tvg-name="T Sports HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", T Sports HD
 http://172.16.29.34/ontest1/ontest1/578.m3u8
-#EXTINF:-1 tvg-name="T Sports-1 HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", T Sports HD_1
 http://172.16.29.34/ontest1/ontest1/579.m3u8
-#EXTINF:-1 tvg-name="T Sports-2" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", T Sports 2
 http://100.100.100.98:4518/T-Sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Colors Bangla HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Colors Bangla HD
 http://172.16.29.34/ontest1/ontest1/557.m3u8
-#EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Star Jalsha HD
 http://172.16.29.34/ontest1/ontest1/555.m3u8
-#EXTINF:-1 tvg-name="Sun Bangla HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Sun Bangla HD
 http://172.16.29.34/ontest1/ontest1/559.m3u8
-#EXTINF:-1 tvg-name="Sony Auth" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Sony Auth
 http://172.16.29.34/ontest1/ontest1/558.m3u8
-#EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Zee Bangla HD
 http://172.16.29.34/ontest1/ontest1/556.m3u8
-#EXTINF:-1 tvg-name="Aakash Aath" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Aakash Aath
 http://172.16.29.34/ontest1/ontest1/671.m3u8
-#EXTINF:-1 tvg-name="Enter 10 Bangla" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Enter 10 Bangla
 http://172.16.29.34/ontest1/ontest1/560.m3u8
-#EXTINF:-1 tvg-name="KHUSHBOO BANGLA" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", KHUSHBOO BANGLA
 http://172.16.29.34/ontest1/ontest1/561.m3u8
-#EXTINF:-1 tvg-name="Colors Bangla Cinema" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Colors Bangla Cinema
 http://100.100.100.98:4518/Colors-Bangla-Cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Jalsha Movies HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Jalsha Movies HD
 http://172.16.29.34/ontest1/ontest1/562.m3u8
-#EXTINF:-1 tvg-name="Zee Bangla Cinema" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Zee Bangla Cinema
 http://172.16.29.34/ontest1/ontest1/563.m3u8
-#EXTINF:-1 tvg-name="Republic Bangla" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Republic Bangla
 http://172.16.29.34/ontest1/ontest1/669.m3u8
-#EXTINF:-1 tvg-name="ZEE 24 Ghanta" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", ZEE 24 Ghanta
 http://172.16.29.34/ontest1/ontest1/613.m3u8
-#EXTINF:-1 tvg-name="Sangeet Bangla" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Sangeet Bangla
 http://172.16.29.34/ontest1/ontest1/657.m3u8
-#EXTINF:-1 tvg-name="Colors HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Colors HD
 http://172.16.29.34/ontest1/ontest1/567.m3u8
-#EXTINF:-1 tvg-name="SONY Entertainment HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", SONY Entertainment HD
 http://172.16.29.34/ontest1/ontest1/565.m3u8
-#EXTINF:-1 tvg-name="Star Bharat HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Star Bharat HD
 http://172.16.29.34/ontest1/ontest1/568.m3u8
-#EXTINF:-1 tvg-name="Star Plus HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Star Plus HD
 http://172.16.29.34/ontest1/ontest1/564.m3u8
-#EXTINF:-1 tvg-name="ZEE TV HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", ZEE TV HD
 http://172.16.29.34/ontest1/ontest1/566.m3u8
-#EXTINF:-1 tvg-name="&TV HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", &TV HD
 http://172.16.29.34/ontest1/ontest1/569.m3u8
-#EXTINF:-1 tvg-name="ARY Digital HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", ARY Digital HD
 http://172.16.29.34/ontest1/ontest1/570.m3u8
-#EXTINF:-1 tvg-name="Star Gold HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Star Gold HD
 http://172.16.29.34/ontest1/ontest1/571.m3u8
-#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Zee Cinema HD
 http://172.16.29.34/ontest1/ontest1/572.m3u8
-#EXTINF:-1 tvg-name="&pictures HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", &pictures HD
 http://172.16.29.34/ontest1/ontest1/573.m3u8
-#EXTINF:-1 tvg-name="Sony Max HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Sony Max HD
 http://172.16.29.34/ontest1/ontest1/574.m3u8
-#EXTINF:-1 tvg-name="Colors Cineplex HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Colors Cineplex HD
 http://172.16.29.34/ontest1/ontest1/575.m3u8
-#EXTINF:-1 tvg-name="Star Gold-2 HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Star Gold HD2
 http://172.16.29.34/ontest1/ontest1/576.m3u8
-#EXTINF:-1 tvg-name="Star Gold Select HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Star Gold Select HD
 http://172.16.29.34/ontest1/ontest1/577.m3u8
-#EXTINF:-1 tvg-name="Sony Sports 1 HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Sony Sports 1 HD
 http://172.16.29.34/ontest1/ontest1/580.m3u8
-#EXTINF:-1 tvg-name="Sony Sports 2 HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Sony Sports 2 HD
 http://172.16.29.34/ontest1/ontest1/581.m3u8
-#EXTINF:-1 tvg-name="Sony Sports 3 HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Sony Sports 3 HD
 http://172.16.29.34/ontest1/ontest1/582.m3u8
-#EXTINF:-1 tvg-name="Sony Sports 5 HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Sony Sports 5 HD
 http://172.16.29.34/ontest1/ontest1/583.m3u8
-#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Star Sports 1 HD
 http://172.16.29.34/ontest1/ontest1/584.m3u8
-#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Star Sports 2 HD
 http://172.16.29.34/ontest1/ontest1/585.m3u8
-#EXTINF:-1 tvg-name="Star Sports 2Hindi HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Star Sports 2 HD Hindi
 http://172.16.29.34/ontest1/ontest1/586.m3u8
-#EXTINF:-1 tvg-name="Star Sports Select 1 HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Star Sports Select 1 HD
 http://172.16.29.34/ontest1/ontest1/587.m3u8
-#EXTINF:-1 tvg-name="Star Sports Select 2 HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Star Sports Select 2 HD
 http://172.16.29.34/ontest1/ontest1/588.m3u8
-#EXTINF:-1 tvg-name="Star Sports 3" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Star Sports 3
 http://172.16.29.34/ontest1/ontest1/589.m3u8
-#EXTINF:-1 tvg-name="Eurosport HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Eurosport HD
 http://172.16.29.34/ontest1/ontest1/590.m3u8
-#EXTINF:-1 tvg-name="A Sports HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", A Sports HD
 http://172.16.29.34/ontest1/ontest1/591.m3u8
-#EXTINF:-1 tvg-name="PTV Sports HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", PTV Sports HD
 http://172.16.29.34/ontest1/ontest1/592.m3u8
-#EXTINF:-1 tvg-name="TEN Cricket" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", TEN Cricket
 http://100.100.100.98:4518/Ten-Cricket/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", TNT Sports 1
 http://172.16.29.34/ontest1/ontest1/593.m3u8
-#EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", TNT Sports 2
 http://172.16.29.34/ontest1/ontest1/594.m3u8
-#EXTINF:-1 tvg-name="TNT Sports 3" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", TNT Sports 3
 http://172.16.29.34/ontest1/ontest1/595.m3u8
-#EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", TNT Sports 4
 http://172.16.29.34/ontest1/ontest1/596.m3u8
-#EXTINF:-1 tvg-name="WILLOW_1 HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", WILLOW HD
 http://172.16.29.34/ontest1/ontest1/601.m3u8
-#EXTINF:-1 tvg-name="WILLOW_2 HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", WILLOW HD_1
 http://172.16.29.34/ontest1/ontest1/602.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Sky Sports Cricket
 http://172.16.29.34/ontest1/ontest1/603.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Golf" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Sky Sports Golf
 http://172.16.29.34/ontest1/ontest1/604.m3u8
-#EXTINF:-1 tvg-name="GOLF Channel" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", GOLF Channel
 http://172.16.29.34/ontest1/ontest1/605.m3u8
-#EXTINF:-1 tvg-name="BEIN Sports 1" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", BEIN Sports 1
 http://172.16.29.34/ontest1/ontest1/610.m3u8
-#EXTINF:-1 tvg-name="BEIN Sports 2" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", BEIN Sports 2
 http://172.16.29.34/ontest1/ontest1/611.m3u8
-#EXTINF:-1 tvg-name="ZEE News" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", ZEE News
 http://172.16.29.34/ontest1/ontest1/614.m3u8
-#EXTINF:-1 tvg-name="ABP News" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", ABP News
 http://172.16.29.34/ontest1/ontest1/615.m3u8
-#EXTINF:-1 tvg-name="GEO News" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", GEO News
 http://172.16.29.34/ontest1/ontest1/616.m3u8
-#EXTINF:-1 tvg-name="ARY News" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", ARY News
 http://172.16.29.34/ontest1/ontest1/617.m3u8
-#EXTINF:-1 tvg-name="ALJAZEERA" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", ALJAZEERA
 http://172.16.29.34/ontest1/ontest1/618.m3u8
-#EXTINF:-1 tvg-name="BBC News" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", BBC News
 http://172.16.29.34/ontest1/ontest1/619.m3u8
-#EXTINF:-1 tvg-name="CNN News" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", CNN News
 http://172.16.29.34/ontest1/ontest1/620.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", CGTN
 http://172.16.29.34/ontest1/ontest1/621.m3u8
-#EXTINF:-1 tvg-name="DW English HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", DW English HD
 http://172.16.29.34/ontest1/ontest1/622.m3u8
-#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Animal Planet HD
 http://172.16.29.34/ontest1/ontest1/626.m3u8
-#EXTINF:-1 tvg-name="Discovery HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Discovery HD
 http://172.16.29.34/ontest1/ontest1/623.m3u8
-#EXTINF:-1 tvg-name="National Geographic HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", National Geographic HD
 http://172.16.29.34/ontest1/ontest1/624.m3u8
-#EXTINF:-1 tvg-name="National Geographic WILD  HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", National Geographic WILD  HD
 http://172.16.29.34/ontest1/ontest1/625.m3u8
-#EXTINF:-1 tvg-name="Sony BBC Earth" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Sony BBC Earth
 http://172.16.29.34/ontest1/ontest1/628.m3u8
-#EXTINF:-1 tvg-name="Travelxp HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Travelxp HD
 http://172.16.29.34/ontest1/ontest1/629.m3u8
-#EXTINF:-1 tvg-name="History HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", History HD
 http://172.16.29.34/ontest1/ontest1/630.m3u8
-#EXTINF:-1 tvg-name="TLC HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", TLC HD
 http://172.16.29.34/ontest1/ontest1/631.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Cartoon Network HD
 http://172.16.29.34/ontest1/ontest1/632.m3u8
-#EXTINF:-1 tvg-name="Nick HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Nick HD
 http://172.16.29.34/ontest1/ontest1/633.m3u8
-#EXTINF:-1 tvg-name="Disnep Intertainment HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Disnep Intertainment HD
 http://172.16.29.34/ontest1/ontest1/634.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Cartoon Network
 http://172.16.29.34/ontest1/ontest1/635.m3u8
-#EXTINF:-1 tvg-name="Nick Bangla" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Nick Bangla
 http://172.16.29.34/ontest1/ontest1/636.m3u8
-#EXTINF:-1 tvg-name="Sonic Bangla" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Sonic Bangla
 http://172.16.29.34/ontest1/ontest1/637.m3u8
-#EXTINF:-1 tvg-name="POGO" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", POGO
 http://172.16.29.34/ontest1/ontest1/638.m3u8
-#EXTINF:-1 tvg-name="Nick jr." tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Nick jr.
 http://172.16.29.34/ontest1/ontest1/639.m3u8
-#EXTINF:-1 tvg-name="Hangama" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Hangama
 http://172.16.29.34/ontest1/ontest1/641.m3u8
-#EXTINF:-1 tvg-name="DK" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", DK
 http://172.16.29.34/ontest1/ontest1/642.m3u8
-#EXTINF:-1 tvg-name="Disnep Junior" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Disnep Junior
 http://172.16.29.34/ontest1/ontest1/643.m3u8
-#EXTINF:-1 tvg-name="Sony PIX HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Sony PIX HD
 http://172.16.29.34/ontest1/ontest1/644.m3u8
-#EXTINF:-1 tvg-name="&FLIX" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", &FLIX
 http://172.16.29.34/ontest1/ontest1/645.m3u8
-#EXTINF:-1 tvg-name="Colors Infinity HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Colors Infinity HD
 http://172.16.29.34/ontest1/ontest1/647.m3u8
-#EXTINF:-1 tvg-name="Star Movies HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Star Movies HD
 http://172.16.29.34/ontest1/ontest1/648.m3u8
-#EXTINF:-1 tvg-name="Star Movies Select HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Star Movies Select HD
 http://172.16.29.34/ontest1/ontest1/649.m3u8
-#EXTINF:-1 tvg-name="MN+" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", MN+
 http://172.16.29.34/ontest1/ontest1/650.m3u8
-#EXTINF:-1 tvg-name="Movies Now HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Movies Now HD
 http://172.16.29.34/ontest1/ontest1/651.m3u8
-#EXTINF:-1 tvg-name="Zee Cafe HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Zee Cafe HD
 http://172.16.29.34/ontest1/ontest1/652.m3u8
-#EXTINF:-1 tvg-name="& Prive HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", & Prive HD
 http://172.16.29.34/ontest1/ontest1/653.m3u8
-#EXTINF:-1 tvg-name="Item 134" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Item 134
 http://172.16.29.34/ontest1/ontest1/654.m3u8
-#EXTINF:-1 tvg-name="Romedy Now
+#EXTINF:0 type="stream" channelId="-1", Romedy Now
 http://172.16.29.34/ontest1/ontest1/655.m3u8
-#EXTINF:-1 tvg-name="MNX" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", MNX
 http://172.16.29.34/ontest1/ontest1/656.m3u8
-#EXTINF:-1 tvg-name="9XM" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", 9XM
 http://172.16.29.34/ontest1/ontest1/658.m3u8
-#EXTINF:-1 tvg-name="B4U Music" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", B4U Music
 http://172.16.29.34/ontest1/ontest1/659.m3u8
-#EXTINF:-1 tvg-name="MTV HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", MTV HD
 http://172.16.29.34/ontest1/ontest1/660.m3u8
-#EXTINF:-1 tvg-name="Peace TV" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Peace TV
 http://172.16.29.34/ontest1/ontest1/661.m3u8
-#EXTINF:-1 tvg-name="Saudi Quran" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Saudi Quran
 http://172.16.29.34/ontest1/ontest1/662.m3u8
-#EXTINF:-1 tvg-name="Saudi Sunnah" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Saudi Sunnah
 http://172.16.29.34/ontest1/ontest1/663.m3u8
-#EXTINF:-1 tvg-name="Disnep Channel" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Disnep Channel
 http://172.16.29.34/ontest1/ontest1/664.m3u8
-#EXTINF:-1 tvg-name="Sony SAB HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Sony SAB HD
 http://172.16.29.34/ontest1/ontest1/670.m3u8
-#EXTINF:-1 tvg-name="GEO Super" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", GEO Super
 http://172.16.29.34/ontest1/ontest1/674.m3u8
-#EXTINF:-1 tvg-name="Samaa TV" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Samaa TV
 http://172.16.29.34/ontest1/ontest1/676.m3u8
-#EXTINF:-1 tvg-name="HUM TV HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", HUM TV HD
 http://172.16.29.34/ontest1/ontest1/677.m3u8
-#EXTINF:-1 tvg-name="AAJ TAK HD" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", AAJ TAK HD
 http://172.16.29.34/ontest1/ontest1/678.m3u8
-#EXTINF:-1 tvg-name="NDTV" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", NDTV
 http://172.16.29.34/ontest1/ontest1/679.m3u8
-#EXTINF:-1 tvg-name="NDTV India" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", NDTV India
 http://172.16.29.34/ontest1/ontest1/680.m3u8
-#EXTINF:-1 tvg-name="Discovery Science" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", Discovery Science
 http://172.16.29.34/ontest1/ontest1/688.m3u8
-#EXTINF:-1 tvg-name="ID" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", ID
 http://172.16.29.34/ontest1/ontest1/689.m3u8
-#EXTINF:-1 tvg-name="IPL_2026_Bangla" tvg-logo=""
+#EXTINF:0 type="stream" channelId="-1", IPL_2026_Bangla
 http://premimum.online/live/jen12345/jen54321/705160.ts
-#EXTINF:-1 tvg-name="ABP Ananda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ABP_Ananda_logo.svg"
+#EXTINF:0 type="stream" channelId="-1", ABP Ananda
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master_1280.m3u8
-#EXTINF:-1 tvg-name="Calcutta News" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/8f/%E0%A6%95%E0%A6%B2%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A6%BE_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png"
+#EXTINF:0 type="stream" channelId="-1", Calcutta News
 https://akdnetwork.co.in/live/cnnew/index.m3u8
-#EXTINF:-1 tvg-name="Calcutta News TV" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/8f/%E0%A6%95%E0%A6%B2%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A6%BE_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png"
+#EXTINF:0 type="stream" channelId="-1", Calcutta News TV
 https://cdn-2.pishow.tv/live/237/master.m3u8
-#EXTINF:-1 tvg-name="CTVN AKD PLUS" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/CTVN_AKD_Plus_logo_%282006-2012%29.png/revision/latest?cb=20210914101352"
+#EXTINF:0 type="stream" channelId="-1", CTVN AKD PLUS
 https://live.legitpro.co.in/ctvnakdplus/index.m3u8
-#EXTINF:-1 tvg-name="Jago Bangla" tvg-logo="https://banglajagotv.com/wp-content/themes/BANGLAJAGOTV/images/BJ_LOGO_900x600_ZOOM_copy.jpg"
+#EXTINF:0 type="stream" channelId="-1", Jago Bangla
 https://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8
-#EXTINF:-1 tvg-name="Kolkata TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Kolkata_TV_2010.png"
+#EXTINF:0 type="stream" channelId="-1", Kolkata TV
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
-#EXTINF:-1 tvg-name="KTV Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/KTV_DP.jpg"
+#EXTINF:0 type="stream" channelId="-1", KTV Bangla
 https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
-#EXTINF:-1 tvg-name="News 18 Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg"
+#EXTINF:0 type="stream" channelId="-1", News 18 Bangla
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-name="News Time Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/News_Time_new_logo.png"
+#EXTINF:0 type="stream" channelId="-1", News Time Bangla
 https://cdn-2.pishow.tv/live/1494/1494_1.m3u8
-#EXTINF:-1 tvg-name="Republic Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Republic_Bangla_logo.png/960px-Republic_Bangla_logo.png"
-https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/709c151c-f8f9-4e10-87ac-6839a60019e6/3.m3u8
-#EXTINF:-1 tvg-name="R Plus News" tvg-logo="https://i.imgur.com/XUnWcZF.png"
+#EXTINF:0 type="stream" channelId="-1", Republic Bangla
+http://premimum.online/live/jen12345/jen54321/376278.ts
+#EXTINF:0 type="stream" channelId="-1", R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Samay Kolkata" tvg-logo="https://yt3.googleusercontent.com/ncA0LAgyfSe4g3rjUufobGO3UzOspZRYeti4rVvgeO7z2fv0BoedKpA3CvkU4sCDEr6ujzMi=s900-c-k-c0x00ffffff-no-rj"
+#EXTINF:0 type="stream" channelId="-1", Samay Kolkata
 https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
-#EXTINF:-1 tvg-name="TV9 Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/80/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A7%AF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg"
+#EXTINF:0 type="stream" channelId="-1", TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-name="ZEE 24 Ghanta" tvg-logo="https://static.vidgyor.com/live/midroll/assets/ZEE_24-GHANTA.png"
+#EXTINF:0 type="stream" channelId="-1", ZEE 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-name="Rongeen TV HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/f6/Rongeen_TV_logo_%282019-present%29.png/revision/latest/scale-to-width-down/247?cb=20210423103847"
+#EXTINF:0 type="stream" channelId="-1", Rongeen TV HD
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Gopal Bhar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2n6ovBg6JrOQA6NIUWexBXcZ_yXes2mLPQ&s"
+#EXTINF:0 type="stream" channelId="-1", Gopal Bhar
 http://100.100.100.98:4518/Gopalvar/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Jungle Book" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png"
+#EXTINF:0 type="stream" channelId="-1", Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
-#EXTINF:-1 tvg-name="Green TV HD" tvg-logo=""
-https://tvsen6.aynaott.com/GreenTvHD" tvg-logo=""/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="DD Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/DD_Sports_logo.svg/1280px-DD_Sports_logo.svg.png"
+#EXTINF:0 type="stream" channelId="-1", Green TV HD
+https://tvsen6.aynaott.com/GreenTvHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 type="stream" channelId="-1", DD Sports HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_7.m3u8
-#EXTINF:-1 tvg-name="DD Bangla" tvg-logo="https://yt3.googleusercontent.com/jJxkTYCjjCHI1_OB6NK8G1n4vu-EIOj8gaPTxbnFA9tO_jkWJdCfUZy23fVCQtthdW9Nf8Et=s900-c-k-c0x00ffffff-no-rj"
+#EXTINF:0 type="stream" channelId="-1", DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
-#EXTINF:-1 tvg-name="NEWS 18 Assam" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/News18_Assam_North_East_Logo.svg/1280px-News18_Assam_North_East_Logo.svg.png"
-https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/News18_Assam_North_East_NW18_MOB-audio_98835_eng=98800-video=2293600.m3u8
