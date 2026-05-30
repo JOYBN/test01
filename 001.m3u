@@ -355,9 +355,7 @@ https://tvsen6.aynaott.com/GreenTvHD/tracks-v1a1/mono.ts.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_7.m3u8
 #EXTINF:0 type="stream" channelId="-1", DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
-#EXTM3U
-
-#EXTINF:-1 tvg-id="atnbangla.bd" tvg-name="ATN Bangla" tvg-logo="https://freekaj.com/image/atn-bangla-tv-logo/106",ATN Bangla
+#EXTINF:-1 tvg-id="atnbangla.bd" tvg-name="ATN Bangla" tvg-logo="https://freekaj.com/assets/images/stock/image/2024/01/14/65a42a3f397ef1705257535.jpg",ATN Bangla
 http://100.100.100.98:4518/ATN-Bangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="atnnews.bd" tvg-name="ATN News" tvg-logo="LOGO_URL",ATN News
