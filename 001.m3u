@@ -3,9 +3,9 @@
 http://172.16.29.34/ontest1/ontest1/552.m3u8
 #EXTINF:0 type="stream" channelId="-1", Asian TV HD
 http://172.16.29.34/ontest1/ontest1/543.m3u8
-#EXTINF:0 type="stream" channelId="-1", ATN Bangla HD
+#EXTINF:-1 tvg-name="ATN Bangla HD" tvg-logo="https://www.timetvplus.com/uploads/tv_image/atn-bangla.jpg"
 http://172.16.29.34/ontest1/ontest1/526.m3u8
-#EXTINF:0 type="stream" channelId="-1", ATN News HD
+#EXTINF:-1 tvg-name="ATN News HD" tvg-logo="https://www.timetvplus.com/uploads/tv_image/atn-news.jpg"
 http://172.16.29.34/ontest1/ontest1/536.m3u8
 #EXTINF:0 type="stream" channelId="-1", Bangla TV  HD
 http://172.16.29.34/ontest1/ontest1/549.m3u8
