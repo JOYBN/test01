@@ -15,23 +15,23 @@ http://172.16.29.34/ontest1/ontest1/533.m3u8
 http://172.16.29.34/ontest1/ontest1/672.m3u8
 #EXTINF:-1 tvg-name="Boishakhi TV HD" tvg-logo="https://s3.aynaott.com/storage/58658d4594ca1ff3c5031c9d8e3d9fc0"
 http://172.16.29.34/ontest1/ontest1/532.m3u8
-#EXTINF:-1 tvg-name="BTV Chattagram" tvg-logo=""
+#EXTINF:-1 tvg-name="BTV Chattagram" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193167149_3.png&w=1920&q=75"
 http://172.16.29.34/ontest1/ontest1/527.m3u8
 #EXTINF:-1 tvg-name="BTV National HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"
 http://172.16.29.34/ontest1/ontest1/524.m3u8
-#EXTINF:-1 tvg-name="BTV News HD" tvg-logo=""
+#EXTINF:-1 tvg-name="BTV News HD" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1735648543857_Poster.jpg&w=1920&q=75"
 http://172.16.29.34/ontest1/ontest1/673.m3u8
 #EXTINF:-1 tvg-name="Test_01" tvg-logo=""
 http://172.16.29.34/ontest1/ontest1/525.m3u8
 #EXTINF:-1 tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png"
 http://172.16.29.34/ontest1/ontest1/528.m3u8
-#EXTINF:-1 tvg-name="Channel S HD" tvg-logo=""
+#EXTINF:-1 tvg-name="Channel S HD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/chsbd.jpg"
 http://172.16.29.34/ontest1/ontest1/686.m3u8
-#EXTINF:-1 tvg-name="Channel 1 4K" tvg-logo=""
+#EXTINF:-1 tvg-name="Channel 1 4K" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Channel%201.png"
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Channel 9 HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png"
 http://172.16.29.34/ontest1/ontest1/667.m3u8
-#EXTINF:-1 tvg-name="Channel 16" tvg-logo=""
+#EXTINF:-1 tvg-name="Channel 16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Channel_16_Bangladesh_Logo.png"
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF:-1 tvg-name="Channel 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png"
 http://172.16.29.34/ontest1/ontest1/540.m3u8
@@ -39,9 +39,9 @@ http://172.16.29.34/ontest1/ontest1/540.m3u8
 http://172.16.29.34/ontest1/ontest1/547.m3u8
 #EXTINF:-1 tvg-name="Deepto TV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png"
 http://172.16.29.34/ontest1/ontest1/546.m3u8
-#EXTINF:-1 tvg-name="Desh TV HD" tvg-logo=""
+#EXTINF:-1 tvg-name="Desh TV HD" tvg-logo="https://i.postimg.cc/wvBbd56q/Desh-TV.jpg"
 http://172.16.29.34/ontest1/ontest1/534.m3u8
-#EXTINF:-1 tvg-name="Duronto TV HD" tvg-logo=""
+#EXTINF:-1 tvg-name="Duronto TV HD" tvg-logo="https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b"
 http://172.16.29.34/ontest1/ontest1/550.m3u8
 #EXTINF:-1 tvg-name="Ekattor TV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png"
 http://172.16.29.34/ontest1/ontest1/542.m3u8
@@ -55,7 +55,7 @@ http://172.16.29.34/ontest1/ontest1/541.m3u8
 http://172.16.29.34/ontest1/ontest1/691.m3u8
 #EXTINF:-1 tvg-name="Green TV HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="INDEPENDENT TV" tvg-logo=""
+#EXTINF:-1 tvg-name="INDEPENDENT TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/inds.png"
 http://172.16.29.34/ontest1/ontest1/539.m3u8
 #EXTINF:-1 tvg-name="ISLAMIC TV" tvg-logo=""
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-video=2202800.m3u8
@@ -67,7 +67,7 @@ http://172.16.29.34/ontest1/ontest1/554.m3u8
 http://172.16.29.34/ontest1/ontest1/690.m3u8
 #EXTINF:-1 tvg-name="Mohona TV HD" tvg-logo=""
 http://172.16.29.34/ontest1/ontest1/537.m3u8
-#EXTINF:-1 tvg-name="MYTV HD" tvg-logo=""
+#EXTINF:-1 tvg-name="MYTV HD" tvg-logo="https://i.postimg.cc/HxGF4V2b/20250529_103226.png"
 http://172.16.29.34/ontest1/ontest1/535.m3u8
 #EXTINF:-1 tvg-name="Nagorik TV HD" tvg-logo="http://100.100.100.100/live/assets/images/nagorik.jpg"
 http://172.16.29.34/ontest1/ontest1/551.m3u8
@@ -315,43 +315,43 @@ http://172.16.29.34/ontest1/ontest1/688.m3u8
 http://172.16.29.34/ontest1/ontest1/689.m3u8
 #EXTINF:-1 tvg-name="IPL_2026_Bangla" tvg-logo=""
 http://premimum.online/live/jen12345/jen54321/705160.ts
-#EXTINF:-1 tvg-name="ABP Ananda" tvg-logo=""
+#EXTINF:-1 tvg-name="ABP Ananda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ABP_Ananda_logo.svg"
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master_1280.m3u8
-#EXTINF:-1 tvg-name="Calcutta News" tvg-logo=""
+#EXTINF:-1 tvg-name="Calcutta News" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/8f/%E0%A6%95%E0%A6%B2%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A6%BE_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png"
 https://akdnetwork.co.in/live/cnnew/index.m3u8
-#EXTINF:-1 tvg-name="Calcutta News TV" tvg-logo=""
+#EXTINF:-1 tvg-name="Calcutta News TV" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/8f/%E0%A6%95%E0%A6%B2%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A6%BE_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png"
 https://cdn-2.pishow.tv/live/237/master.m3u8
-#EXTINF:-1 tvg-name="CTVN AKD PLUS" tvg-logo=""
+#EXTINF:-1 tvg-name="CTVN AKD PLUS" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/CTVN_AKD_Plus_logo_%282006-2012%29.png/revision/latest?cb=20210914101352"
 https://live.legitpro.co.in/ctvnakdplus/index.m3u8
-#EXTINF:-1 tvg-name="Jago Bangla" tvg-logo=""
+#EXTINF:-1 tvg-name="Jago Bangla" tvg-logo="https://banglajagotv.com/wp-content/themes/BANGLAJAGOTV/images/BJ_LOGO_900x600_ZOOM_copy.jpg"
 https://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8
-#EXTINF:-1 tvg-name="Kolkata TV" tvg-logo=""
+#EXTINF:-1 tvg-name="Kolkata TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Kolkata_TV_2010.png"
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
-#EXTINF:-1 tvg-name="KTV Bangla" tvg-logo=""
+#EXTINF:-1 tvg-name="KTV Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/KTV_DP.jpg"
 https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
-#EXTINF:-1 tvg-name="News 18 Bangla" tvg-logo=""
+#EXTINF:-1 tvg-name="News 18 Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg"
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-name="News Time Bangla" tvg-logo=""
+#EXTINF:-1 tvg-name="News Time Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/News_Time_new_logo.png"
 https://cdn-2.pishow.tv/live/1494/1494_1.m3u8
-#EXTINF:-1 tvg-name="Republic Bangla" tvg-logo=""
+#EXTINF:-1 tvg-name="Republic Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Republic_Bangla_logo.png/960px-Republic_Bangla_logo.png"
 https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/709c151c-f8f9-4e10-87ac-6839a60019e6/3.m3u8
-#EXTINF:-1 tvg-name="R Plus News" tvg-logo=""
+#EXTINF:-1 tvg-name="R Plus News" tvg-logo="https://i.imgur.com/XUnWcZF.png"
 https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Samay Kolkata" tvg-logo=""
+#EXTINF:-1 tvg-name="Samay Kolkata" tvg-logo="https://yt3.googleusercontent.com/ncA0LAgyfSe4g3rjUufobGO3UzOspZRYeti4rVvgeO7z2fv0BoedKpA3CvkU4sCDEr6ujzMi=s900-c-k-c0x00ffffff-no-rj"
 https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
-#EXTINF:-1 tvg-name="TV9 Bangla" tvg-logo=""
+#EXTINF:-1 tvg-name="TV9 Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/80/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A7%AF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg"
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-name="ZEE 24 Ghanta" tvg-logo=""
+#EXTINF:-1 tvg-name="ZEE 24 Ghanta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYy4jJoltvhvpRSuk8i6Wm03s40xqEpsla9Q&s"
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-name="Rongeen TV HD" tvg-logo=""
+#EXTINF:-1 tvg-name="Rongeen TV HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/f6/Rongeen_TV_logo_%282019-present%29.png/revision/latest/scale-to-width-down/247?cb=20210423103847"
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Gopal Bhar" tvg-logo=""
+#EXTINF:-1 tvg-name="Gopal Bhar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2n6ovBg6JrOQA6NIUWexBXcZ_yXes2mLPQ&s"
 http://100.100.100.98:4518/Gopalvar/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Jungle Book" tvg-logo=""
+#EXTINF:-1 tvg-name="Jungle Book" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png"
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 tvg-name="Green TV HD" tvg-logo=""
 https://tvsen6.aynaott.com/GreenTvHD" tvg-logo=""/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="DD Sports HD" tvg-logo=""
+#EXTINF:-1 tvg-name="DD Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/DD_Sports_logo.svg/1280px-DD_Sports_logo.svg.png"
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_7.m3u8
-#EXTINF:-1 tvg-name="DD Bangla" tvg-logo=""
+#EXTINF:-1 tvg-name="DD Bangla" tvg-logo="https://yt3.googleusercontent.com/jJxkTYCjjCHI1_OB6NK8G1n4vu-EIOj8gaPTxbnFA9tO_jkWJdCfUZy23fVCQtthdW9Nf8Et=s900-c-k-c0x00ffffff-no-rj"
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
