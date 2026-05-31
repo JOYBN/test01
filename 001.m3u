@@ -385,5 +385,7 @@ https://nomawnoijl.gpcdn.net/akash/joy/chunks.m3u8
 https://amg00426-littledotstudio-realwild-tcl-fzsi1.amagi.tv/ts-us-e2-n1/playlist/amg00426-littledotstudio-realwild-tcl/cb563d1e786c678a84cb3978d5f762ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da56852db80148b6f4adafb8c2360625f5c98435ee3b24af2f8b00e10893ea8ac191bc77c58e68314c8c94ebdd3d4469a41d224a31dccc3a68ad746e0bcab538b6798544338701da34d18f9c670b9c09365359d3e7d084e15ae949af04a3391540372ccbf9aef2baf488ebe2c8f3663e0408019d079ca4aba19abe479a5af90d6560e6cf793153271e0ad8ba2cf181ff126f7abe2d8335b9cf51f770e894ed030243595b29a40dc8d45d8e66dd5f45a1c3ec1834cd4c8e1d4a1e3db38e94fa0f0fd96394d59704453d62fc5b4599b788d36f8b4504b3a6a4ba29d59c1fca97d3870408b851e99532cb0d58f8cc81d79ad441e49e374d64b0f0f9d623a9c84d12a158c0a2b9b8e5a3ee38c630d44b2fff3d72e05/166/1920x1080_6046040/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", S F
 https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409/variant/22100007.m3u8
-#EXTINF:-1, Bangla
+#EXTINF:0 type="stream" channelId="-1", S F Bangla
 https://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/705160.ts
+#EXTINF:0 type="stream" channelId="-1", S F Bangla1
+https://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/705160.m3u8
