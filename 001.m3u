@@ -59,6 +59,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 http://172.16.29.34/ontest1/ontest1/539.m3u8
 #EXTINF:0 type="stream" channelId="-1", ISLAMIC TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-video=2202800.m3u8
+#EXTINF:0 type="stream" channelId="-1", Jago News 24
+https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", JAMUNA TV
 http://172.16.29.34/ontest1/ontest1/545.m3u8
 #EXTINF:0 type="stream" channelId="-1", Maasranga HD
@@ -77,6 +79,8 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 http://172.16.29.34/ontest1/ontest1/548.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nexus TV HD
 http://172.16.29.34/ontest1/ontest1/692.m3u8
+#EXTINF:0 type="stream" channelId="-1", NRB TV HD
+https://app.ncare.live/live-orgin/nrb-eu.stream/live-orgin/nrb-eu.stream/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", NTV HD
 http://172.16.29.34/ontest1/ontest1/530.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rajdhani TV
@@ -89,6 +93,10 @@ http://172.16.29.34/ontest1/ontest1/544.m3u8
 http://172.16.29.34/ontest1/ontest1/538.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star News HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
+#EXTINF:0 type="stream" channelId="-1", Time TV HD
+https://app.ncare.live/live-orgin/timetvusa.stream/live-orgin/timetvusa.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", Thikana TV HD
+https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/chunklist_w1163893916.m3u8
 #EXTINF:0 type="stream" channelId="-1", T Sports HD
 http://172.16.29.34/ontest1/ontest1/578.m3u8
 #EXTINF:0 type="stream" channelId="-1", T Sports HD_1
@@ -343,9 +351,10 @@ https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_720p/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", ZEE 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
-https://amg01412-xiaomiasia-zee24ghantaa-xiaomi-cvo5n.amagi.tv/ts-eu-w1-n2/playlist/amg01412-xiaomiasia-zee24ghantaa-xiaomi/cb563d1e786c678a84cb3978d6f262ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da56852db80148b6f4adafb8c2360625f5c98435ee3b24aa3fde35b46d96ea4ac191bc72758e68314c8c94de885804697418e73a3139b9aa5dad415e0bcab538b6798544338701da34d18f9c670b9c09365359d3e7d084e15ae949af04a3391540372ccbf9aef2baf488ebe2c8f3663e0408019d079ca4aba19abe479a5af90d6560e6cf793153271e0ad8ba2cf181ff126f7abe2d8335b9cf51f770e894ed030243595b29a40dc8d45d8e66dd5f45a1c3ec1834cd4c8e1d4a1e3db38e94fa0f0fd96394d59704453d62fc5b4599b788d36f8b4504b3a6a4ba29d59c1fca97d3870408b851e99532cb0d58f8cc81d79ad441e49e374d64b0f0f9d63359c849d3a158c0a40877230cf2c20ad657886439c36bf9c/179/1280x720_3046067/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rongeen TV HD
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", DD Bangla
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 #EXTINF:0 type="stream" channelId="-1", Gopal Bhar
 http://100.100.100.98:4518/Gopalvar/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Jungle Book
@@ -354,5 +363,25 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://tvsen6.aynaott.com/GreenTvHD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 type="stream" channelId="-1", DD Sports HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_7.m3u8
-#EXTINF:0 type="stream" channelId="-1", DD Bangla
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
+#EXTINF:0 type="stream" channelId="-1", Al-Jazeera HD
+https://live-hls-apps-aje-fa.getaj.net/AJE/01.m3u8
+#EXTINF:0 type="stream" channelId="-1", Shemaroo Bollywood HD
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/ts-us-w2-n1/playlist/amg00864-shemarooenterta-shemabollywood-ono/cb563d1e786c678a84cb3978d6f162ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da56852db80148b6f4adafb8c2360625f5c98435ee3b24af5ace45b46d864a5ac191bc72858e68314c8c914b888d6469a128275a3179496a48bd714e0bcab538b6798544338701da34d18f9c670b9c09365359d3e7d084e15ae949af04a3391540372ccbf9aef2baf488ebe2c8f3663e0408019d079ca4aba19abe479a5af90d6560e6cf793153271e0ad8ba2cf181ff126f7abe2d8335b9cf51f770e894ed030243595b29a40dc8d45d8e66dd5f45a1c3ec1834cd4c8e1d4a1e3db38e94fa0f0fd96394d59704453d62fc5b4599b788d36f8b4504b3a6a4ba29d59c1fca97d3870408b851e99532cb0d58f8cc81d79ad441e49e374d64b0f0f9d6d3e9c848b3a158c0a3dd5ef23883f7ce876d0da7ec23fd139/192/1920x1080_6046040/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", WION
+https://amg01412-xiaomiasia-zeewion-xiaomi-nkzot.amagi.tv/ts-eu-w1-n2/playlist/amg01412-xiaomiasia-zeewion-xiaomi/cb563d1e786c678a84cb3978d6f062ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da56852db80148b6f4adafb8c2360625f5c98435ee3b24aa3abe20e13da6ef0ac191bc72758e68314c8c914ed8986469a168274f710989aa58cda46e0bcab538b6798544338701da34d18f9c670b9c09365359d3e7d084e15ae949af04a3391540372ccbf9aef2baf488ebe2c8f3663e0408019d079ca4aba19abe479a5af90d6560e6cf793153271e0ad8ba2cf181ff126f7abe2d8335b9cf51f770e894ed030243595b29a40dc8d45d8e66dd5f45a1c3ec1834cd4c8e1d4a1e3db38e94fa0f0fd96394d59704453d62fc5b4599b788d36f8b4504b3a6a4ba29d59c1fca97d3870408b851e99532cb0d58f8cc81d79ad441e49e374d64b0f0e9a668c1d66ee762a5a098faf72c3808ad5f7dfb83587a95612/62/1280x720_3046450/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", ZEE 24 Ghanta
+https://amg01412-xiaomiasia-zee24ghantaa-xiaomi-cvo5n.amagi.tv/ts-eu-w1-n2/playlist/amg01412-xiaomiasia-zee24ghantaa-xiaomi/cb563d1e786c678a84cb3978d6f262ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da56852db80148b6f4adafb8c2360625f5c98435ee3b24aa3fde35b46d96ea4ac191bc72758e68314c8c94de885804697418e73a3139b9aa5dad415e0bcab538b6798544338701da34d18f9c670b9c09365359d3e7d084e15ae949af04a3391540372ccbf9aef2baf488ebe2c8f3663e0408019d079ca4aba19abe479a5af90d6560e6cf793153271e0ad8ba2cf181ff126f7abe2d8335b9cf51f770e894ed030243595b29a40dc8d45d8e66dd5f45a1c3ec1834cd4c8e1d4a1e3db38e94fa0f0fd96394d59704453d62fc5b4599b788d36f8b4504b3a6a4ba29d59c1fca97d3870408b851e99532cb0d58f8cc81d79ad441e49e374d64b0f0f9d63359c849d3a158c0a40877230cf2c20ad657886439c36bf9c/179/1280x720_3046067/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Sky News HD
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/17501/sde-fast-skynews/stream07/streamPlaylist.m3u8
+#EXTINF:0 type="stream" channelId="-1", WILD EARTH
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:0 type="stream" channelId="-1", DD National HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index_3.m3u8
+#EXTINF:0 type="stream" channelId="-1", W O F
+https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/cb563d1e786c678a84cb3978d5f862ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da56852db80148b6f4adafb8c2360625f5c98435ee3b24aabfbe35d41d96ea0ac191bc77c58e68314c8c915bd8081469f458420f3409995f4ddd243e0bcab538b6798544338701da34d18f9c670b9c09365359d3e7d084e15ae949af04a3391540372ccbf9aef2baf488ebe2c8f3663e0408019d079ca4aba19abe479a5af90d6560e6cf793153271e0ad8ba2cf181ff126f7abe2d8335b9cf51f770e894ed030243595b29a40dc8d45d8e66dd5f45a1c3ec1834cd4c8e1d4a1e3db38e94fa0f0fd96394d59704453d62fc5b4599b788d36f8b4504b3a6a4ba29d59c1fca97d3870408b851e99532cb0d58f8cc81d79ad441e49e374d64b0f0d99d40dfc37a249fcc152656638408744371c9f3f89a53e51/5/1920x1080_6046040/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", JOY
+https://nomawnoijl.gpcdn.net/akash/joy/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", Item 192
+https://amg00426-littledotstudio-realwild-tcl-fzsi1.amagi.tv/ts-us-e2-n1/playlist/amg00426-littledotstudio-realwild-tcl/cb563d1e786c678a84cb3978d5f762ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da56852db80148b6f4adafb8c2360625f5c98435ee3b24af2f8b00e10893ea8ac191bc77c58e68314c8c94ebdd3d4469a41d224a31dccc3a68ad746e0bcab538b6798544338701da34d18f9c670b9c09365359d3e7d084e15ae949af04a3391540372ccbf9aef2baf488ebe2c8f3663e0408019d079ca4aba19abe479a5af90d6560e6cf793153271e0ad8ba2cf181ff126f7abe2d8335b9cf51f770e894ed030243595b29a40dc8d45d8e66dd5f45a1c3ec1834cd4c8e1d4a1e3db38e94fa0f0fd96394d59704453d62fc5b4599b788d36f8b4504b3a6a4ba29d59c1fca97d3870408b851e99532cb0d58f8cc81d79ad441e49e374d64b0f0f9d623a9c84d12a158c0a2b9b8e5a3ee38c630d44b2fff3d72e05/166/1920x1080_6046040/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", S F
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409/variant/22100007.m3u8
