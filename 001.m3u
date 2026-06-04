@@ -387,5 +387,7 @@ https://amg00426-littledotstudio-realwild-tcl-fzsi1.amagi.tv/ts-us-e2-n1/playlis
 https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409/variant/22100007.m3u8
 #EXTINF:0 type="stream" channelId="-1", IPL
 https://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/705160.ts
-#EXTINF:0 type="stream" channelId="-1", SONY LIV
+#EXTINF:0 type="stream" channelId="-1", SONY LIV LIVE_01
 https://dai.google.com/ssai/event/V1tapABJTSOCEfSvJXTwNQ/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", SONY LIV LIVE_02
+https://dai.google.com/ssai/event/RP1mckhwQQChze2hZfnZlA/master.m3u8
