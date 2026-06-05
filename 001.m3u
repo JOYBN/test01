@@ -393,3 +393,5 @@ https://dai.google.com/ssai/event/V1tapABJTSOCEfSvJXTwNQ/master.m3u8
 https://dai.google.com/ssai/event/RP1mckhwQQChze2hZfnZlA/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", T Sports_03
 http://27.124.71.27/T-Sports/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Star Sports 1 HD _1
+https://tvsen7.aynaott.com/sspts1/index.m3u8
