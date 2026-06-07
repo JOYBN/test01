@@ -153,7 +153,7 @@ http://172.16.29.34/ontest1/ontest1/572.m3u8
 http://172.16.29.34/ontest1/ontest1/573.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony Max HD
 http://172.16.29.34/ontest1/ontest1/574.m3u8
-#EXTINF:0 type="stream" channelId="-1", Colors Cineplex HD
+#EXTINF:0 type="stream" channelId="-1", UNITE 8 SPORTS 1 HD
 http://172.16.29.34/ontest1/ontest1/575.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Gold HD2
 http://172.16.29.34/ontest1/ontest1/576.m3u8
@@ -246,7 +246,7 @@ http://172.16.29.34/ontest1/ontest1/631.m3u8
 #EXTINF:0 type="stream" channelId="-1", Cartoon Network HD
 http://172.16.29.34/ontest1/ontest1/632.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nick HD
-http://172.16.29.34/ontest1/ontest1/633.m3u8
+http://172.16.29.3est1/ontest1/633.m3u8
 #EXTINF:0 type="stream" channelId="-1", Disnep Intertainment HD
 http://172.16.29.34/ontest1/ontest1/634.m3u8
 #EXTINF:0 type="stream" channelId="-1", Cartoon Network
@@ -267,7 +267,7 @@ http://172.16.29.34/ontest1/ontest1/642.m3u8
 http://172.16.29.34/ontest1/ontest1/643.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony PIX HD
 http://172.16.29.34/ontest1/ontest1/644.m3u8
-#EXTINF:0 type="stream" channelId="-1", &FLIX
+#EXTINF:0 type="stream" channelId="-1", UNITE 8 SPORTS 2 HD
 http://172.16.29.34/ontest1/ontest1/645.m3u8
 #EXTINF:0 type="stream" channelId="-1", Colors Infinity HD
 http://172.16.29.34/ontest1/ontest1/647.m3u8
