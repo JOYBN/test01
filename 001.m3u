@@ -29,6 +29,7 @@ http://172.16.29.34/ontest1/ontest1/528.m3u8
 http://172.16.29.34/ontest1/ontest1/686.m3u8
 #EXTINF:0 type="stream" channelId="-1", Channel 1 4K
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+http://100.100.100.98:4518/CHANNAL-ONE/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Channel 9 HD
 http://172.16.29.34/ontest1/ontest1/667.m3u8
 #EXTINF:0 type="stream" channelId="-1", Channel 16
