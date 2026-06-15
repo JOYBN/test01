@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1", Anando TV
-#http://172.16.29.34/ontest1/ontest1/552.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/399.ts
 #EXTINF:0 type="stream" channelId="-1", Asian TV HD
 http://172.16.29.34/ontest1/ontest1/543.m3u8
