@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", Toffee_01
+http://sm-monirul.top/tof/live/gervsivo/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Toffee_02
+https://sm-monirul.top/tof/live/toffee4/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Anando TV
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/399.ts
 #EXTINF:0 type="stream" channelId="-1", Asian TV HD
