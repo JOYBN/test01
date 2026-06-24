@@ -4,13 +4,13 @@ http://sm-monirul.top/tof/live/gervsivo/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Toffee_02
 https://sm-monirul.top/tof/live/toffee4/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Anando TV
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/399.ts
+http://100.100.100.98:4518/Nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Asian TV HD
 http://172.16.29.34/ontest1/ontest1/543.m3u8
 #EXTINF:0 type="stream" channelId="-1", ATN Bangla HD
 http://172.16.29.34/ontest1/ontest1/526.m3u8
 #EXTINF:0 type="stream" channelId="-1", ATN News HD
-http://172.16.29.34/ontest1/ontest1/536.m3u8
+http://100.100.100.98:4518/ATN-News/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Bangla TV  HD
 http://172.16.29.34/ontest1/ontest1/549.m3u8
 #EXTINF:0 type="stream" channelId="-1", Banglavision HD
@@ -41,7 +41,7 @@ http://172.16.29.34/ontest1/ontest1/667.m3u8
 #EXTINF:0 type="stream" channelId="-1", Channel 16
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Channel 24 HD
-http://172.16.29.34/ontest1/ontest1/540.m3u8
+http://100.100.100.98:4518/Channel-24/tracks-v1a1/mono.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/391.ts
 #EXTINF:0 type="stream" channelId="-1", DBC News HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
@@ -56,7 +56,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Ekushey TV BD
 http://172.16.29.34/ontest1/ontest1/529.m3u8
 #EXTINF:0 type="stream" channelId="-1", Ekhon TV HD
-http://172.16.29.34/ontest1/ontest1/553.m3u8
+http://100.100.100.98:4518/DBC-News/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Gazi TV HD
 http://172.16.29.34/ontest1/ontest1/541.m3u8
 #EXTINF:0 type="stream" channelId="-1", Global TV BD
@@ -100,7 +100,7 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/401.ts
 #EXTINF:0 type="stream" channelId="-1", SATV HD
 http://172.16.29.34/ontest1/ontest1/544.m3u8
 #EXTINF:0 type="stream" channelId="-1", Somoy TV HD
-http://172.16.29.34/ontest1/ontest1/538.m3u8
+http://100.100.100.98:4518/Somoy/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star News HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
 #EXTINF:0 type="stream" channelId="-1", Time TV HD
