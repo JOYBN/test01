@@ -97,7 +97,7 @@ https://edge2.roarzone.net:8447/roarzone/edge3/rajdhani_tv/tracks-v1a1/mono.m3u8
 http://100.100.100.98:4518/RTV/tracks-v1a1/mono.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/401.ts
 #EXTINF:0 type="stream" channelId="-1", SATV HD
-http://172.16.29.34/ontest1/ontest1/544.m3u8
+http://116.204.149.16/satv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Somoy TV HD
 http://100.100.100.98:4518/Somoy/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star News HD
