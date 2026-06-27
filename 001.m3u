@@ -47,7 +47,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Deepto TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Desh TV HD
-http://172.16.29.34/ontest1/ontest1/534.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Duronto TV HD
 http://172.16.29.34/ontest1/ontest1/550.m3u8
 #EXTINF:0 type="stream" channelId="-1", Ekattor TV HD
