@@ -77,7 +77,7 @@ http://172.16.29.34/ontest1/ontest1/690.m3u8
 #EXTINF:0 type="stream" channelId="-1", Mohona TV HD
 http://172.16.29.34/ontest1/ontest1/537.m3u8
 #EXTINF:0 type="stream" channelId="-1", MYTV HD
-http://116.204.149.16/mytv/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nagorik TV HD
 http://172.16.29.34/ontest1/ontest1/551.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/3802.ts
