@@ -26,7 +26,7 @@ http://172.16.29.34/ontest1/ontest1/527.m3u8
 #EXTINF:0 type="stream" channelId="-1", BTV National HD
 http://100.100.100.98:4518/BTV-National/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", BTV News HD
-http://172.16.29.34/ontest1/ontest1/673.m3u8
+https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
 #EXTINF:0 type="stream" channelId="-1", Test_01
 http://172.16.29.34/ontest1/ontest1/525.m3u8
 #EXTINF:0 type="stream" channelId="-1", Channel I HD
