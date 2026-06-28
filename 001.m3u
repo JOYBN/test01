@@ -19,7 +19,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 http://100.100.100.98:4518/Bijoy-Tv/tracks-v1a1/mono.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/408.ts
 #EXTINF:0 type="stream" channelId="-1", Boishakhi TV HD
-http://172.16.29.34/ontest1/ontest1/532.m3u8
+http://10.20.30.40:8088/211/tracks-v1a1/mono.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/390.ts
 #EXTINF:0 type="stream" channelId="-1", BTV Chattagram
 http://172.16.29.34/ontest1/ontest1/527.m3u8
@@ -94,7 +94,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:0 type="stream" channelId="-1", RTV HD
-http://116.204.149.16/rtvhd/index.m3u8
+http://10.20.30.40:8088/210/tracks-v1a1/mono.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/401.ts
 #EXTINF:0 type="stream" channelId="-1", SATV HD
 http://116.204.149.16/satv/index.m3u8
