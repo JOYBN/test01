@@ -107,7 +107,7 @@ https://app.ncare.live/live-orgin/timetvusa.stream/live-orgin/timetvusa.stream/c
 #EXTINF:0 type="stream" channelId="-1", Thikana TV HD
 https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/chunklist_w1163893916.m3u8
 #EXTINF:0 type="stream" channelId="-1", T Sports HD
-http://172.16.29.34/ontest1/ontest1/578.m3u8
+http://10.20.30.40:8088/102/tracks-v1a1/mono.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 #EXTINF:0 type="stream" channelId="-1", T Sports HD_1
 http://198.195.239.50:8095/tsports/index.m3u8
@@ -193,7 +193,7 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98863.ts
 http://172.16.29.34/ontest1/ontest1/583.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98869.ts
 #EXTINF:0 type="stream" channelId="-1", Star Sports 1 HD
-http://172.16.29.34/ontest1/ontest1/584.m3u8
+http://10.20.30.40:8088/110/tracks-v1a1/mono.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98864.ts
 #EXTINF:0 type="stream" channelId="-1", Star Sports 2 HD
 http://172.16.29.34/ontest1/ontest1/585.m3u8
@@ -201,10 +201,10 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98865.ts
 #EXTINF:0 type="stream" channelId="-1", Star Sports 2 HD Hindi
 http://172.16.29.34/ontest1/ontest1/586.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Sports Select 1 HD
-http://172.16.29.34/ontest1/ontest1/587.m3u8
+http://10.20.30.40:8088/123/tracks-v1a1/mono.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98867.ts
 #EXTINF:0 type="stream" channelId="-1", Star Sports Select 2 HD
-http://172.16.29.34/ontest1/ontest1/588.m3u8
+http://10.20.30.40:8088/124/tracks-v1a1/mono.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98868.ts
 #EXTINF:0 type="stream" channelId="-1", Star Sports 3
 http://172.16.29.34/ontest1/ontest1/589.m3u8
@@ -215,7 +215,7 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/23308.ts
 http://172.16.29.34/ontest1/ontest1/591.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/43447.ts
 #EXTINF:0 type="stream" channelId="-1", PTV Sports HD
-http://172.16.29.34/ontest1/ontest1/592.m3u8
+http://10.20.30.40:8088/134/tracks-v1a1/mono.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/61674.ts
 #EXTINF:0 type="stream" channelId="-1", TEN Cricket
 http://100.100.100.98:4518/Ten-Cricket/tracks-v1a1/mono.m3u8
