@@ -111,7 +111,7 @@ http://10.20.30.40:8088/102/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", T Sports HD_1
 http://198.195.239.50:8095/tsports/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", T Sports 2
-http://100.100.100.98:4518/T-Sports/tracks-v1a1/mono.m3u8
+http://100.100.100.94:4518/T-Sports-HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Colors Bangla HD
 http://172.16.29.34/ontest1/ontest1/557.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/183.ts
