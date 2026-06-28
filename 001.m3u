@@ -116,13 +116,13 @@ http://100.100.100.94:4518/T-Sports-HD/tracks-v1a1/mono.m3u8
 http://172.16.29.34/ontest1/ontest1/557.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/183.ts
 #EXTINF:0 type="stream" channelId="-1", Star Jalsha HD
-http://172.16.29.34/ontest1/ontest1/555.m3u8
+http://10.20.30.40:8088/302/tracks-v1a1/mono.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/198.ts
 #EXTINF:0 type="stream" channelId="-1", Sun Bangla HD
 http://172.16.29.34/ontest1/ontest1/559.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/3753.ts
 #EXTINF:0 type="stream" channelId="-1", Sony Auth
-http://172.16.29.34/ontest1/ontest1/558.m3u8
+http://100.100.100.98:4518/Sony-Aath/tracks-v1a1/mono.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/4083.ts
 #EXTINF:0 type="stream" channelId="-1", Zee Bangla HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
@@ -138,8 +138,7 @@ http://172.16.29.34/ontest1/ontest1/561.m3u8
 http://100.100.100.98:4518/Colors-Bangla-Cinema/tracks-v1a1/mono.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/271038.ts
 #EXTINF:0 type="stream" channelId="-1", Jalsha Movies HD
-http://172.16.29.34/ontest1/ontest1/562.m3u8
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/425.ts
+http://10.20.30.40:8088/303/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Zee Bangla Cinema
 http://172.16.29.34/ontest1/ontest1/563.m3u8
 #EXTINF:0 type="stream" channelId="-1", Republic Bangla
