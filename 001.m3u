@@ -132,7 +132,7 @@ http://172.16.29.34/ontest1/ontest1/669.m3u8
 #EXTINF:0 type="stream" channelId="-1", ZEE 24 Ghanta
 http://172.16.29.34/ontest1/ontest1/613.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sangeet Bangla
-http://172.16.29.34/ontest1/ontest1/657.m3u8
+http://103.175.73.12:8080/live/379/379_0.m3u8
 #EXTINF:0 type="stream" channelId="-1", Colors HD
 http://172.16.29.34/ontest1/ontest1/567.m3u8
 #EXTINF:0 type="stream" channelId="-1", SONY Entertainment HD
