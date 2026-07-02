@@ -127,8 +127,8 @@ http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.fmp4.m3u8
 http://10.20.30.40:8088/303/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
-#EXTINF:0 type="stream" channelId="-1", Republic Bangla
-http://172.16.29.34/ontest1/ontest1/669.m3u8
+#EXTINF:0 type="stream" channelId="-1", Dhoom Music
+http://103.175.73.12:8080/live/378/378_0.m3u8
 #EXTINF:0 type="stream" channelId="-1", ZEE 24 Ghanta
 http://172.16.29.34/ontest1/ontest1/613.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sangeet Bangla
