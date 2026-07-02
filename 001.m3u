@@ -2,25 +2,24 @@
 #EXTINF:0 type="stream" channelId="-1", Anando TV
 http://100.100.100.98:4518/Nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Asian TV HD
-https://sm-monirul.top/toffee/play/asian_tv.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", ATN Bangla HD
 http://10.20.30.40:8088/202/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", ATN News HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Bangla TV  HD
-http://116.204.149.16/banglatv/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Banglavision HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Bijoy TV HD
-http://100.100.100.98:4518/Bijoy-Tv/tracks-v1a1/mono.m3u8
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/408.ts
+
 #EXTINF:0 type="stream" channelId="-1", Boishakhi TV HD
 http://10.20.30.40:8088/211/tracks-v1a1/mono.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/390.ts
 #EXTINF:0 type="stream" channelId="-1", BTV Chattagram
-http://172.16.29.34/ontest1/ontest1/527.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", BTV National HD
-http://100.100.100.98:4518/BTV-National/tracks-v1a1/mono.m3u8
+http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 #EXTINF:0 type="stream" channelId="-1", BTV News HD
 https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
 #EXTINF:0 type="stream" channelId="-1", Test_01
@@ -28,10 +27,9 @@ http://172.16.29.34/ontest1/ontest1/525.m3u8
 #EXTINF:0 type="stream" channelId="-1", Channel I HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Channel S HD
-http://172.16.29.34/ontest1/ontest1/686.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Channel 1 4K
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-http://100.100.100.98:4518/CHANNAL-ONE/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Channel 9 HD
 http://100.100.100.98:4518/Channel-9/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Channel 16
@@ -53,9 +51,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:0 type="stream" channelId="-1", Ekhon TV HD
 http://100.100.100.98:4518/DBC-News/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Gazi TV HD
-http://100.100.100.98:4518/GTV/tracks-v1a1/mono.m3u8
+http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8
 #EXTINF:0 type="stream" channelId="-1", Global TV BD
-http://172.16.29.34/ontest1/ontest1/691.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Green TV HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", INDEPENDENT TV
@@ -63,26 +61,25 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", ISLAMIC TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-video=2202800.m3u8
 #EXTINF:0 type="stream" channelId="-1", Jago News 24
-https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", JAMUNA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Maasranga HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Madani TV HD
-http://172.16.29.34/ontest1/ontest1/690.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Mohona TV HD
-http://172.16.29.34/ontest1/ontest1/537.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", MYTV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nagorik TV HD
 http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/3802.ts
 #EXTINF:0 type="stream" channelId="-1", News 21 HD
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", News 24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nexus TV HD
-http://100.100.100.98:4518/Nexus-Tv/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", NRB TV HD
 https://app.ncare.live/live-orgin/nrb-eu.stream/live-orgin/nrb-eu.stream/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", NTV HD
@@ -92,9 +89,9 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:0 type="stream" channelId="-1", RTV HD
 http://180.94.28.28:8097//RTV/index.fmp4.m3u8
 #EXTINF:0 type="stream" channelId="-1", SATV HD
-http://116.204.149.16/satv/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Somoy TV HD
-http://100.100.100.98:4518/Somoy/tracks-v1a1/mono.m3u8
+http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star News HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
 #EXTINF:0 type="stream" channelId="-1", Time TV HD
@@ -119,18 +116,17 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/4083.ts
 #EXTINF:0 type="stream" channelId="-1", Zee Bangla HD
 http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8
 #EXTINF:0 type="stream" channelId="-1", Aakash Aath
-http://172.16.29.34/ontest1/ontest1/671.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Enter 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/3801.ts
 #EXTINF:0 type="stream" channelId="-1", KHUSHBOO BANGLA
-http://172.16.29.34/ontest1/ontest1/561.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Colors Bangla Cinema
 http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.fmp4.m3u8
 #EXTINF:0 type="stream" channelId="-1", Jalsha Movies HD
 http://10.20.30.40:8088/303/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Zee Bangla Cinema
-http://172.16.29.34/ontest1/ontest1/563.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Republic Bangla
 http://172.16.29.34/ontest1/ontest1/669.m3u8
 #EXTINF:0 type="stream" channelId="-1", ZEE 24 Ghanta
