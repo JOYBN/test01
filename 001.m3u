@@ -130,96 +130,84 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=213
 #EXTINF:0 type="stream" channelId="-1", Dhoom Music
 http://103.175.73.12:8080/live/378/378_0.m3u8
 #EXTINF:0 type="stream" channelId="-1", ZEE 24 Ghanta
-http://172.16.29.34/ontest1/ontest1/613.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Sangeet Bangla
 http://103.175.73.12:8080/live/379/379_0.m3u8
 #EXTINF:0 type="stream" channelId="-1", Colors HD
-http://172.16.29.34/ontest1/ontest1/567.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", SONY Entertainment HD
-http://172.16.29.34/ontest1/ontest1/565.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Star Bharat HD
-http://172.16.29.34/ontest1/ontest1/568.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Star Plus HD
-http://172.16.29.34/ontest1/ontest1/564.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", ZEE TV HD
-http://172.16.29.34/ontest1/ontest1/566.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", &TV HD
-http://172.16.29.34/ontest1/ontest1/569.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", ARY Digital HD
-http://172.16.29.34/ontest1/ontest1/570.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Star Gold HD
-http://172.16.29.34/ontest1/ontest1/571.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Zee Cinema HD
-http://172.16.29.34/ontest1/ontest1/572.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", &pictures HD
-http://172.16.29.34/ontest1/ontest1/573.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Sony Max HD
-http://172.16.29.34/ontest1/ontest1/574.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Star Gold HD2
-http://172.16.29.34/ontest1/ontest1/576.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Star Gold Select HD
-http://172.16.29.34/ontest1/ontest1/577.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", UNITE 8 SPORTS 1 HD
 https://yowaimo.in/Sflex-ArtlPVT0719/ZEE_CAFE_HD.m3u8
 #EXTINF:0 type="stream" channelId="-1", UNITE 8 SPORTS 2 HD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745202.ts
 #EXTINF:0 type="stream" channelId="-1", Sony Sports 1 HD
-http://172.16.29.34/ontest1/ontest1/580.m3u8
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98861.ts
+
 #EXTINF:0 type="stream" channelId="-1", Sony Sports 2 HD
-http://172.16.29.34/ontest1/ontest1/581.m3u8
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98862.ts
+
 #EXTINF:0 type="stream" channelId="-1", Sony Sports 3 HD
-http://172.16.29.34/ontest1/ontest1/582.m3u8
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98863.ts
+
 #EXTINF:0 type="stream" channelId="-1", Sony Sports 5 HD
-http://172.16.29.34/ontest1/ontest1/583.m3u8
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98869.ts
+
 #EXTINF:0 type="stream" channelId="-1", Star Sports 1 HD
 http://10.20.30.40:8088/110/tracks-v1a1/mono.m3u8
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98864.ts
 #EXTINF:0 type="stream" channelId="-1", Star Sports 2 HD
-http://172.16.29.34/ontest1/ontest1/585.m3u8
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98865.ts
+
 #EXTINF:0 type="stream" channelId="-1", Star Sports 2 HD Hindi
-http://172.16.29.34/ontest1/ontest1/586.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Star Sports Select 1 HD
 http://10.20.30.40:8088/123/tracks-v1a1/mono.m3u8
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98867.ts
 #EXTINF:0 type="stream" channelId="-1", Star Sports Select 2 HD
 http://10.20.30.40:8088/124/tracks-v1a1/mono.m3u8
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98868.ts
 #EXTINF:0 type="stream" channelId="-1", Star Sports 3
-http://172.16.29.34/ontest1/ontest1/589.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Eurosport HD
-http://172.16.29.34/ontest1/ontest1/590.m3u8
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/23308.ts
+
 #EXTINF:0 type="stream" channelId="-1", A Sports HD
-http://172.16.29.34/ontest1/ontest1/591.m3u8
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/43447.ts
+
 #EXTINF:0 type="stream" channelId="-1", PTV Sports HD
 http://10.20.30.40:8088/134/tracks-v1a1/mono.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/61674.ts
 #EXTINF:0 type="stream" channelId="-1", TEN Cricket
 http://100.100.100.98:4518/Ten-Cricket/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TNT Sports 1
-http://172.16.29.34/ontest1/ontest1/593.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", TNT Sports 2
-http://172.16.29.34/ontest1/ontest1/594.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", TNT Sports 3
-http://172.16.29.34/ontest1/ontest1/595.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", TNT Sports 4
-http://172.16.29.34/ontest1/ontest1/596.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", WILLOW HD
-http://172.16.29.34/ontest1/ontest1/601.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", WILLOW HD_2
-http://172.16.29.34/ontest1/ontest1/602.m3u8
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/5040.ts
+
 #EXTINF:0 type="stream" channelId="-1", Sky Sports Cricket
-http://172.16.29.34/ontest1/ontest1/603.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Sky Sports Golf
-http://172.16.29.34/ontest1/ontest1/604.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", GOLF Channel
 http://172.16.29.34/ontest1/ontest1/605.m3u8
 #EXTINF:0 type="stream" channelId="-1", BEIN Sports 1
