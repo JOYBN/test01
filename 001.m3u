@@ -49,7 +49,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Ekushey TV BD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Ekhon TV HD
-http://100.100.100.98:4518/DBC-News/tracks-v1a1/mono.m3u8
+https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", Gazi TV HD
 http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8
 #EXTINF:0 type="stream" channelId="-1", Global TV BD
