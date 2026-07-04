@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1", Anando TV
-http://100.100.100.98:4518/Nagorik/tracks-v1a1/mono.m3u8
+http://fastshare1.com:8080/live/25711345/late8airline/399.ts
 #EXTINF:0 type="stream" channelId="-1", Asian TV HD
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", ATN Bangla HD
@@ -8,7 +8,7 @@ http://10.20.30.40:8088/202/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", ATN News HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Bangla TV  HD
-
+http://fastshare1.com:8080/live/25711345/late8airline/3803.ts
 #EXTINF:0 type="stream" channelId="-1", Banglavision HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Bijoy TV HD
@@ -17,7 +17,7 @@ https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 http://10.20.30.40:8088/211/tracks-v1a1/mono.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/390.ts
 #EXTINF:0 type="stream" channelId="-1", BTV Chattagram
-
+http://fastshare1.com:8080/live/25711345/late8airline/3818.ts
 #EXTINF:0 type="stream" channelId="-1", BTV National HD
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 #EXTINF:0 type="stream" channelId="-1", BTV News HD
@@ -53,7 +53,7 @@ https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", Gazi TV HD
 http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8
 #EXTINF:0 type="stream" channelId="-1", Global TV BD
-
+http://fastshare1.com:8080/live/25711345/late8airline/4231.ts
 #EXTINF:0 type="stream" channelId="-1", Green TV HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", INDEPENDENT TV
@@ -69,9 +69,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Madani TV HD
 
 #EXTINF:0 type="stream" channelId="-1", Mohona TV HD
-
+http://fastshare1.com:8080/live/25711345/late8airline/397.ts
 #EXTINF:0 type="stream" channelId="-1", MYTV HD
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
+http://fastshare1.com:8080/live/25711345/late8airline/398.ts
 #EXTINF:0 type="stream" channelId="-1", Nagorik TV HD
 http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8
 #EXTINF:0 type="stream" channelId="-1", News 21 HD
@@ -79,7 +79,7 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", News 24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nexus TV HD
-
+http://fastshare1.com:8080/live/25711345/late8airline/411.ts
 #EXTINF:0 type="stream" channelId="-1", NRB TV HD
 https://app.ncare.live/live-orgin/nrb-eu.stream/live-orgin/nrb-eu.stream/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", NTV HD
