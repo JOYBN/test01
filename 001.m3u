@@ -164,19 +164,19 @@ https://yowaimo.in/Sflex-ArtlPVT0719/ZEE_CAFE_HD.m3u8
 #EXTINF:0 type="stream" channelId="-1", UNITE 8 SPORTS 2 HD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony Sports 1 HD
-
+http://180.94.28.28:8097//Sony-Ten-1/index.fmp4.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony Sports 2 HD
-
+http://180.94.28.28:8097//Sony-Ten-2/index.fmp4.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony Sports 3 HD
-
+http://180.94.28.28:8097//Sony-Ten-3/index.fmp4.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony Sports 5 HD
 
 #EXTINF:0 type="stream" channelId="-1", Star Sports 1 HD
 http://10.20.30.40:8088/110/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Sports 2 HD
-
-#EXTINF:0 type="stream" channelId="-1", Star Sports 2 HD Hindi
-
+http://180.94.28.28:8097//Star-Sports-2/index.fmp4.m3u8
+#EXTINF:0 type="stream" channelId="-1", Star Sports 1 HD Hindi
+http://180.94.28.28:8097//Star-Sports-3/index.fmp4.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Sports Select 1 HD
 http://10.20.30.40:8088/123/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Sports Select 2 HD
