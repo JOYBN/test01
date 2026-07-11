@@ -17,7 +17,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Boishakhi TV HD
 http://10.20.30.40:8088/211/tracks-v1a1/mono.m3u8
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/390.ts
 #EXTINF:0 type="stream" channelId="-1", BTV Chattagram
 http://fastshare1.com:8080/live/25711345/late8airline/3818.ts
 #EXTINF:0 type="stream" channelId="-1", BTV National HD
@@ -136,7 +135,7 @@ http://103.175.73.12:8080/live/378/378_0.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sangeet Bangla
 http://103.175.73.12:8080/live/379/379_0.m3u8
 #EXTINF:0 type="stream" channelId="-1", Colors HD
-
+http://10.20.30.40:8088/405/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", SONY Entertainment HD
 
 #EXTINF:0 type="stream" channelId="-1", Star Bharat HD
@@ -150,17 +149,17 @@ http://103.175.73.12:8080/live/379/379_0.m3u8
 #EXTINF:0 type="stream" channelId="-1", ARY Digital HD
 
 #EXTINF:0 type="stream" channelId="-1", Star Gold HD
-
+vhttp://10.20.30.40:8088/402/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Zee Cinema HD
 http://103.151.60.162:2121/play/a012/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", &pictures HD
-
+http://10.20.30.40:8088/407/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony Max HD
-
+http://10.20.30.40:8088/404/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Gold HD2
 
 #EXTINF:0 type="stream" channelId="-1", Star Gold Select HD
-
+http://10.20.30.40:8088/408/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", UNITE 8 SPORTS 1 HD
 https://yowaimo.in/Sflex-ArtlPVT0719/ZEE_CAFE_HD.m3u8
 #EXTINF:0 type="stream" channelId="-1", UNITE 8 SPORTS 2 HD
@@ -273,13 +272,13 @@ http://180.94.28.28:8097//NAT-GEO-BANGLA/index.fmp4.m3u8
 #EXTINF:0 type="stream" channelId="-1", Disnep Junior
 
 #EXTINF:0 type="stream" channelId="-1", Sony PIX HD
-
+http://10.20.30.40:8088/503/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Colors Infinity HD
 
 #EXTINF:0 type="stream" channelId="-1", Star Movies HD
-
+http://10.20.30.40:8088/501/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Movies Select HD
-
+http://10.20.30.40:8088/502/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", MN+
 
 #EXTINF:0 type="stream" channelId="-1", Movies Now HD
