@@ -405,5 +405,11 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", bein
 http://103.151.60.162:2121/play/a00t/index.m3u8
 
+http://103.159.180.34:5001/live/164.m3u8
+
+http://103.159.180.34:5001/live/165.m3u8
+
+
+
 
 
