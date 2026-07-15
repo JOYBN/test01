@@ -92,7 +92,7 @@ http://180.94.28.28:8097//RTV/index.fmp4.m3u8
 #EXTINF:0 type="stream" channelId="-1", SATV HD
 http://fastshare1.com:8080//live/25711345/late8airline/3814.ts
 #EXTINF:0 type="stream" channelId="-1", Somoy TV HD
-http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star News HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
 #EXTINF:0 type="stream" channelId="-1", Time TV HD
