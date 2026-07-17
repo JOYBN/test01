@@ -20,7 +20,7 @@ http://10.20.30.40:8088/211/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", BTV Chattagram
 http://fastshare1.com:8080/live/25711345/late8airline/3818.ts
 #EXTINF:0 type="stream" channelId="-1", BTV National HD
-http://180.94.28.28:8097//BTV/index.fmp4.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", BTV News HD
 https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
 #EXTINF:0 type="stream" channelId="-1", Test_01
@@ -42,9 +42,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Deepto TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Desh TV HD
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Duronto TV HD
-http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Ekattor TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Ekushey TV BD
@@ -52,7 +52,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:0 type="stream" channelId="-1", Ekhon TV HD
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", Gazi TV HD
-http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Global TV BD
 http://fastshare1.com:8080/live/25711345/late8airline/4231.ts
 #EXTINF:0 type="stream" channelId="-1", Green TV HD
@@ -74,7 +74,7 @@ http://fastshare1.com:8080/live/25711345/late8airline/397.ts
 #EXTINF:0 type="stream" channelId="-1", MYTV HD
 http://fastshare1.com:8080/live/25711345/late8airline/398.ts
 #EXTINF:0 type="stream" channelId="-1", Nagorik TV HD
-http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", News 21 HD
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", News 24 HD
@@ -88,7 +88,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:0 type="stream" channelId="-1", RTV HD
-http://180.94.28.28:8097//RTV/index.fmp4.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", SATV HD
 http://fastshare1.com:8080//live/25711345/late8airline/3814.ts
 #EXTINF:0 type="stream" channelId="-1", Somoy TV HD
@@ -106,16 +106,15 @@ http://10.20.30.40:8088/102/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", T Sports 2
 http://100.100.100.94:4518/T-Sports-HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Colors Bangla HD
-http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Star Jalsha HD
-http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Sun Bangla HD
-http://180.94.28.28:8097//SUN-BANGLA/index.fmp4.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Sony Auth
 http://100.100.100.98:4518/Sony-Aath/tracks-v1a1/mono.m3u8
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/4083.ts
 #EXTINF:0 type="stream" channelId="-1", Zee Bangla HD
-http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Aakash Aath
 https://cdn-4.pishow.tv/live/969/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", Enter 10 Bangla
@@ -123,7 +122,7 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 #EXTINF:0 type="stream" channelId="-1", KHUSHBOO BANGLA
 http://103.175.73.12:8080/live/375/375_0.m3u8
 #EXTINF:0 type="stream" channelId="-1", Colors Bangla Cinema
-http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.fmp4.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Jalsha Movies HD
 http://10.20.30.40:8088/303/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Zee Bangla Cinema
@@ -165,19 +164,19 @@ https://yowaimo.in/Sflex-ArtlPVT0719/ZEE_CAFE_HD.m3u8
 #EXTINF:0 type="stream" channelId="-1", UNITE 8 SPORTS 2 HD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony Sports 1 HD
-http://180.94.28.28:8097//Sony-Ten-1/index.fmp4.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Sony Sports 2 HD
-http://180.94.28.28:8097//Sony-Ten-2/index.fmp4.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Sony Sports 3 HD
-http://180.94.28.28:8097//Sony-Ten-3/index.fmp4.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Sony Sports 5 HD
 
 #EXTINF:0 type="stream" channelId="-1", Star Sports 1 HD
 http://10.20.30.40:8088/110/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Sports 2 HD
-http://180.94.28.28:8097//Star-Sports-2/index.fmp4.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Star Sports 1 HD Hindi
-http://180.94.28.28:8097//Star-Sports-3/index.fmp4.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Star Sports Select 1 HD
 http://10.20.30.40:8088/123/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Sports Select 2 HD
@@ -235,9 +234,9 @@ http://103.175.73.12:8080/live/116/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", Animal Planet HD
 
 #EXTINF:0 type="stream" channelId="-1", Discovery HD
-http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", National Geographic HD
-http://180.94.28.28:8097//NAT-GEO-BANGLA/index.fmp4.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", National Geographic WILD  HD
 
 #EXTINF:0 type="stream" channelId="-1", Sony BBC Earth
