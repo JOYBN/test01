@@ -88,7 +88,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:0 type="stream" channelId="-1", RTV HD
-
+http://10.20.30.40:8088/210/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", SATV HD
 http://fastshare1.com:8080//live/25711345/late8airline/3814.ts
 #EXTINF:0 type="stream" channelId="-1", Somoy TV HD
@@ -106,9 +106,9 @@ https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", T Sports 2
 http://100.100.100.94:4518/T-Sports-HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Colors Bangla HD
-
+http://10.20.30.40:8088/304/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Jalsha HD
-
+http://10.20.30.40:8088/302/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sun Bangla HD
 http://103.159.180.34:5001/live/1669.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony Auth
