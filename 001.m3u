@@ -216,8 +216,8 @@ http://100.100.100.98:4518/Ten-Cricket/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", ZEE News
 
-#EXTINF:0 type="stream" channelId="-1", ABP News
-
+#EXTINF:0 type="stream" channelId="-1", NDTV
+http://103.175.73.12:8080/live/107/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", GEO News
 
 #EXTINF:0 type="stream" channelId="-1", ARY News
@@ -231,7 +231,7 @@ http://100.100.100.98:4518/Ten-Cricket/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", CGTN
 
 #EXTINF:0 type="stream" channelId="-1", DW English HD
-
+http://103.175.73.12:8080/live/116/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", Animal Planet HD
 
 #EXTINF:0 type="stream" channelId="-1", Discovery HD
@@ -317,7 +317,7 @@ http://10.20.30.40:8088/502/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", AAJ TAK HD
 
 #EXTINF:0 type="stream" channelId="-1", NDTV
-
+http://103.175.73.12:8080/live/107/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", NDTV India
 
 #EXTINF:0 type="stream" channelId="-1", Discovery Science
@@ -403,12 +403,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", bein
 http://103.151.60.162:2121/play/a00t/index.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", Star Sports Khel
+http://103.175.73.12:8080/live/151/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", FTV
+http://103.175.73.12:8080/live/144/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", test02
 http://103.159.180.34:5001/live/164.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", test03
 http://103.159.180.34:5001/live/165.m3u8
-
-
-
-
-
