@@ -10,7 +10,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Ayna TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Bangla TV  HD
-http://fastshare1.com:8080/live/25711345/late8airline/3803.ts
+
 #EXTINF:0 type="stream" channelId="-1", Banglavision HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Bijoy TV HD
@@ -18,7 +18,7 @@ https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Boishakhi TV HD
 http://10.20.30.40:8088/211/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", BTV Chattagram
-http://fastshare1.com:8080/live/25711345/late8airline/3818.ts
+
 #EXTINF:0 type="stream" channelId="-1", BTV National HD
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", BTV News HD
@@ -80,7 +80,7 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", News 24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nexus TV HD
-http://fastshare1.com:8080/live/25711345/late8airline/411.ts
+
 #EXTINF:0 type="stream" channelId="-1", NRB TV HD
 https://app.ncare.live/live-orgin/nrb-eu.stream/live-orgin/nrb-eu.stream/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", NTV HD
@@ -90,7 +90,7 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:0 type="stream" channelId="-1", RTV HD
 http://10.20.30.40:8088/210/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", SATV HD
-http://fastshare1.com:8080//live/25711345/late8airline/3814.ts
+
 #EXTINF:0 type="stream" channelId="-1", Somoy TV HD
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star News HD
