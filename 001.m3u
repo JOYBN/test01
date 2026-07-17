@@ -114,7 +114,7 @@ http://100.100.100.94:4518/T-Sports-HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony Auth
 http://100.100.100.98:4518/Sony-Aath/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Zee Bangla HD
-
+http://103.159.180.34:5001/live/625.m3u8
 #EXTINF:0 type="stream" channelId="-1", Aakash Aath
 https://cdn-4.pishow.tv/live/969/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", Enter 10 Bangla
