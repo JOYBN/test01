@@ -110,7 +110,7 @@ http://100.100.100.94:4518/T-Sports-HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Jalsha HD
 
 #EXTINF:0 type="stream" channelId="-1", Sun Bangla HD
-
+http://103.159.180.34:5001/live/1669.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony Auth
 http://100.100.100.98:4518/Sony-Aath/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Zee Bangla HD
@@ -234,9 +234,9 @@ http://103.175.73.12:8080/live/116/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", Animal Planet HD
 
 #EXTINF:0 type="stream" channelId="-1", Discovery HD
-
+http://202.70.146.135:8000/play/a05z/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", National Geographic HD
-
+http://202.70.146.135:8000/play/a05o/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", National Geographic WILD  HD
 
 #EXTINF:0 type="stream" channelId="-1", Sony BBC Earth
