@@ -410,3 +410,5 @@ http://103.175.73.12:8080/live/144/master.m3u8
 http://103.159.180.34:5001/live/164.m3u8
 #EXTINF:0 type="stream" channelId="-1", test03
 http://103.159.180.34:5001/live/165.m3u8
+#EXTINF:0 type="stream" channelId="-1", Vakti Bangla
+http://103.159.180.34:5001/live/1605.m3u8
