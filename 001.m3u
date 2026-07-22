@@ -50,7 +50,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Ekushey TV BD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Ekhon TV HD
-https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
+https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Gazi TV HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Global TV BD
@@ -70,7 +70,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Somoy TV HD_1
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Mohona TV HD
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
+https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", MYTV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nagorik TV HD
@@ -80,7 +80,7 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", News 24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nexus TV HD
-
+https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", NRB TV HD
 https://app.ncare.live/live-orgin/nrb-eu.stream/live-orgin/nrb-eu.stream/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", NTV HD
@@ -136,15 +136,15 @@ http://103.175.73.12:8080/live/379/379_0.m3u8
 #EXTINF:0 type="stream" channelId="-1", Colors HD
 http://10.20.30.40:8088/405/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", SONY Entertainment HD
-
+https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Bharat HD
 
 #EXTINF:0 type="stream" channelId="-1", Star Plus HD
 
 #EXTINF:0 type="stream" channelId="-1", ZEE TV HD
-
+https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", &TV HD
-
+https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", ARY Digital HD
 
 #EXTINF:0 type="stream" channelId="-1", Star Gold HD
@@ -186,7 +186,7 @@ http://10.20.30.40:8088/124/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Eurosport HD
 
 #EXTINF:0 type="stream" channelId="-1", A Sports HD
-
+http://103.151.60.204:881/A-Sports/video.m3u8
 #EXTINF:0 type="stream" channelId="-1", PTV Sports HD
 http://10.20.30.40:8088/134/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TEN Cricket
@@ -260,7 +260,7 @@ http://202.70.146.135:8000/play/a05o/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sonic Bangla
 
 #EXTINF:0 type="stream" channelId="-1", POGO
-
+https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nick jr.
 
 #EXTINF:0 type="stream" channelId="-1", Hangama
@@ -312,7 +312,7 @@ http://10.20.30.40:8088/502/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Samaa TV
 
 #EXTINF:0 type="stream" channelId="-1", HUM TV HD
-
+https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", AAJ TAK HD
 
 #EXTINF:0 type="stream" channelId="-1", NDTV
