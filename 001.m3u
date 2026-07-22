@@ -261,8 +261,8 @@ http://202.70.146.135:8000/play/a05o/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", POGO
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Nick jr.
-
+#EXTINF:0 type="stream" channelId="-1", SONY YAY
+https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", Hangama
 
 #EXTINF:0 type="stream" channelId="-1", DK
