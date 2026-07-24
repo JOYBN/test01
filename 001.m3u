@@ -155,8 +155,8 @@ http://10.20.30.40:8088/406/tracks-v1a1/mono.m3u8
 http://10.20.30.40:8088/407/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony Max HD
 http://10.20.30.40:8088/404/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", Star Gold HD2
-
+#EXTINF:0 type="stream" channelId="-1", Sony Max1 HD
+http://103.159.180.34:5001/live/3418.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Gold Select HD
 http://10.20.30.40:8088/408/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", UNITE 8 SPORTS 1 HD
