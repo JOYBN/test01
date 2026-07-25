@@ -22,9 +22,9 @@ http://10.20.30.40:8088/211/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", BTV Chattagram
 http://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9jf8sm4JqAgGibsGkL1eU4mBNHzsh_iiJ6rzls5YqrpI/m3u8
 #EXTINF:0 type="stream" channelId="-1", BTV National HD
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", BTV News HD
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Test_01
 http://172.16.29.34/ontest1/ontest1/525.m3u8
 #EXTINF:0 type="stream" channelId="-1", Channel I HD
