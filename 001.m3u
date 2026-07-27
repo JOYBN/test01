@@ -114,7 +114,7 @@ http://10.20.30.40:8088/302/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sun Bangla HD
 http://103.159.180.34:5001/live/1669.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony Auth
-http://100.100.100.98:4518/Sony-Aath/tracks-v1a1/mono.m3u8
+https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Zee Bangla HD
 http://103.159.180.34:5001/live/625.m3u8
 #EXTINF:0 type="stream" channelId="-1", Aakash Aath
