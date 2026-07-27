@@ -99,7 +99,7 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:0 type="stream" channelId="-1", RTV HD
 http://10.20.30.40:8088/210/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", SATV HD
-
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Somoy TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star News HD
