@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", Alpona TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/alponatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Anando TV
 https://stream.ottplus.live/live/ananda_tv_abr/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
@@ -24,7 +22,7 @@ https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Boishakhi TV HD
 http://10.20.30.40:8088/211/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", BTV Chattagram
-http://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9jf8sm4JqAgGibsGkL1eU4mBNHzsh_iiJ6rzls5YqrpI/m3u8
+http://mysave23.com/PeH5kPWFfG/infamous7funny/998
 #EXTINF:0 type="stream" channelId="-1", BTV National HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", BTV News HD
@@ -60,6 +58,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", EP TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", Enter TV HD
+https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Gazi TV HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Global TV BD
@@ -279,7 +279,7 @@ https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", Hangama
 
 #EXTINF:0 type="stream" channelId="-1", DK
-
+https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Disnep Junior
 
 #EXTINF:0 type="stream" channelId="-1", Sony PIX HD
