@@ -325,7 +325,7 @@ http://10.20.30.40:8088/502/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", HUM TV HD
 https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", AAJ TAK HD
-
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", NDTV
 http://103.175.73.12:8080/live/107/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", NDTV India
