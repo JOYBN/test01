@@ -392,8 +392,12 @@ https://amg01412-xiaomiasia-zee24ghantaa-xiaomi-cvo5n.amagi.tv/ts-eu-w1-n2/playl
 https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/17501/sde-fast-skynews/stream07/streamPlaylist.m3u8
 #EXTINF:0 type="stream" channelId="-1", WILD EARTH
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:0 type="stream" channelId="-1", DD India HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", DD National HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index_3.m3u8
+#EXTINF:0 type="stream" channelId="-1", DD News HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", W O F
 https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/cb563d1e786c678a84cb3978d5f862ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da56852db80148b6f4adafb8c2360625f5c98435ee3b24aabfbe35d41d96ea0ac191bc77c58e68314c8c915bd8081469f458420f3409995f4ddd243e0bcab538b6798544338701da34d18f9c670b9c09365359d3e7d084e15ae949af04a3391540372ccbf9aef2baf488ebe2c8f3663e0408019d079ca4aba19abe479a5af90d6560e6cf793153271e0ad8ba2cf181ff126f7abe2d8335b9cf51f770e894ed030243595b29a40dc8d45d8e66dd5f45a1c3ec1834cd4c8e1d4a1e3db38e94fa0f0fd96394d59704453d62fc5b4599b788d36f8b4504b3a6a4ba29d59c1fca97d3870408b851e99532cb0d58f8cc81d79ad441e49e374d64b0f0d99d40dfc37a249fcc152656638408744371c9f3f89a53e51/5/1920x1080_6046040/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", JOY
