@@ -121,6 +121,7 @@ http://10.20.30.40:8088/304/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Jalsha HD
 http://10.20.30.40:8088/302/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sun Bangla HD
+http://103.151.61.12/SUN_BANGLA/tracks-v1a1/mono.m3u8
 http://103.159.180.34:5001/live/1669.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony Auth
 http://10.20.30.40:8088/306/tracks-v1a1/mono.m3u8
