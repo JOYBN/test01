@@ -181,7 +181,7 @@ http://212.102.34.8:9080/AndFlixHD/video.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony Sports 1 HD
 http://100.100.100.94:4518/Sony-Ten-1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony Sports 2 HD
-
+http://10.20.30.40:8088/120/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony Sports 3 HD
 
 #EXTINF:0 type="stream" channelId="-1", Sony Sports 5 HD
