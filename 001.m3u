@@ -185,7 +185,7 @@ http://10.20.30.40:8088/120/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony Sports 3 HD
 
 #EXTINF:0 type="stream" channelId="-1", Sony Sports 5 HD
-
+http://66.102.126.10:8000/play/a010/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Sports 1 HD
 http://10.20.30.40:8088/110/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Sports 2 HD
