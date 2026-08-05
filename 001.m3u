@@ -18,7 +18,7 @@ https://stream.ottplus.live/live/bangla_tv_hd_abr/index.m3u8
 http://10.20.30.40:8088/212/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Bartoman TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/bartomantv.stream/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Bijoy TV HD
 https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Boishakhi TV HD
@@ -26,6 +26,7 @@ http://10.20.30.40:8088/211/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", BTV Chattagram
 http://mysave23.com/PeH5kPWFfG/infamous7funny/998
 #EXTINF:0 type="stream" channelId="-1", BTV National HD
+http://100.100.100.98:4518/BTV-National/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", BTV News HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/index.m3u8
