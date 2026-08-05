@@ -8,12 +8,14 @@ https://stream.ottplus.live/live/asian_tv_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", ATN Bangla HD
 http://10.20.30.40:8088/202/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", ATN News HD
+http://10.20.30.40:8088/203/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Ayna TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Bangla TV  HD
 https://stream.ottplus.live/live/bangla_tv_hd_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Banglavision HD
+http://10.20.30.40:8088/212/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Bartoman TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/bartomantv.stream/tracks-v1a1/mono.m3u8
@@ -31,6 +33,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:0 type="stream" channelId="-1", Test_01
 http://172.16.29.34/ontest1/ontest1/525.m3u8
 #EXTINF:0 type="stream" channelId="-1", Channel I HD
+http://10.20.30.40:8088/207/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Channel S HD
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
@@ -43,6 +46,7 @@ http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Channel 24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", DBC News HD
+http://10.20.30.40:8088/204/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Deepto TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
@@ -51,6 +55,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Duronto TV HD
 https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Ekattor TV HD
+http://10.20.30.40:8088/201/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Ekushey TV BD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8
@@ -73,8 +78,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:0 type="stream" channelId="-1", Jago News 24
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jagonews24.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", JAMUNA TV
+http://10.20.30.40:8088/209/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Maasranga HD
+http://10.20.30.40:8088/206/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Somoy TV HD_1
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
@@ -93,6 +100,7 @@ https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", NRB TV HD
 https://app.ncare.live/live-orgin/nrb-eu.stream/live-orgin/nrb-eu.stream/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", NTV HD
+http://10.20.30.40:8088/208/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
@@ -101,6 +109,7 @@ http://10.20.30.40:8088/210/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", SATV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Somoy TV HD
+http://10.20.30.40:8088/205/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star News HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
