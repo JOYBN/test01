@@ -55,6 +55,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 http://10.20.30.40:8088/204/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Deepto TV HD
+http://103.165.93.31:8095/deepto/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Desh TV HD
 https://ag.hridoytvx.workers.dev/live/9bquhoxRwZ32WfYkhOPXUYS578XDxqtaAbC_3vMyFphnwIMbXWdhEsBs2oJcUKT5Z86cauvMTbUqz2y--VoncnbrnCzpS0OXytYHkGSbiO0h0xOK7xwKO_scaDDkUgI3bORxljVxP1JSY-RzwtSNlGB0YtjF2KsVI-laHuWqC6gxefQCjyWsQy0nR-LhtKNb3Xuf9IpfeQgCcaqHEX3YxOZ_dp-BX2wDdMV_JziGxk4QYTGDovr4Ax1sIngqwxV3IDoGTrNAsKhe7jg_0d0ISpp4VHgPmdifcWIJshyEE4-VJYIQP9XMQqxGj7A_DDNTIJrDIU8t50tLr66aYDMadByPtqaibv2nLqVmrNQKrZiPurNzBO5Yij0ouDgzptF1sXjHMcTdV6AI27a2EUplFUwgxhl9BUvLO_2dM2fXME11oT76zsK5eTepMOyNkKgEzjpnYxjtujOhKHXwgiJSrjCIGToUES-sg0-Rhu-yLeiZdQy8AwiuHlWT5cPMYnQufJcWqVaONPaAyZI.m3u8
@@ -155,6 +156,7 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 #EXTINF:0 type="stream" channelId="-1", KHUSHBOO BANGLA
 http://103.175.73.12:8080/live/375/375_0.m3u8
 #EXTINF:0 type="stream" channelId="-1", Colors Bangla Cinema
+http://103.165.93.31:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/271038.ts
 #EXTINF:0 type="stream" channelId="-1", Jalsha Movies HD
 http://10.20.30.40:8088/303/tracks-v1a1/mono.m3u8
