@@ -113,22 +113,26 @@ https://app.ncare.live/live-orgin/timetvusa.stream/live-orgin/timetvusa.stream/c
 #EXTINF:0 type="stream" channelId="-1", Thikana TV HD
 https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/chunklist_w1163893916.m3u8
 #EXTINF:0 type="stream" channelId="-1", T Sports HD
+http://172.19.17.34/live/ontest1/ontest1/54.m3u8
 http://10.20.30.40:8088/102/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", T Sports HD_1
+#EXTINF:0 type="stream" channelId="-1", T Sports_FHD
+http://172.19.17.34/live/ontest1/ontest1/55.m3u8
 http://10.20.30.40:8088/101/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", T Sports 2
 http://100.100.100.94:4518/T-Sports-HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Unmochon TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/unmochon.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Colors Bangla HD
+http://172.19.17.34/live/ontest1/ontest1/33.m3u8
 http://10.20.30.40:8088/304/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Jalsha HD
 http://172.19.17.34/live/ontest1/ontest1/31.m3u8
 http://10.20.30.40:8088/302/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sun Bangla HD
+http://172.19.17.34/live/ontest1/ontest1/35.m3u8
 http://103.151.61.12/SUN_BANGLA/tracks-v1a1/mono.m3u8
-http://103.159.180.34:5001/live/1669.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony Auth
+http://172.19.17.34/live/ontest1/ontest1/34.m3u8
 http://10.20.30.40:8088/306/tracks-v1a1/mono.m3u8
 https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Zee Bangla HD
@@ -136,15 +140,19 @@ http://172.19.17.34/live/ontest1/ontest1/32.m3u8
 #EXTINF:0 type="stream" channelId="-1", Aakash Aath
 https://cdn-4.pishow.tv/live/969/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", Enter 10 Bangla
+http://172.19.17.34/live/ontest1/ontest1/36.m3u8
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", KHUSHBOO BANGLA
+http://172.19.17.34/live/ontest1/ontest1/37.m3u8
 http://103.175.73.12:8080/live/375/375_0.m3u8
 #EXTINF:0 type="stream" channelId="-1", Colors Bangla Cinema
 http://103.165.93.31:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/271038.ts
 #EXTINF:0 type="stream" channelId="-1", Jalsha Movies HD
+http://172.19.17.34/live/ontest1/ontest1/38.m3u8
 http://10.20.30.40:8088/303/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Zee Bangla Cinema
+http://172.19.17.34/live/ontest1/ontest1/39.m3u8
 http://10.20.30.40:8088/305/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Dhoom Music
 http://103.175.73.12:8080/live/378/378_0.m3u8
@@ -154,45 +162,62 @@ http://103.175.73.12:8080/live/664/master.m3u8
 https://cdn-4.pishow.tv/live/1231/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sangeet Bangla
 http://103.175.73.12:8080/live/379/379_0.m3u8
-#EXTINF:0 type="stream" channelId="-1", Colors HD
+#EXTINF:0 type="stream" channelId="-1", Colors HD.
+http://172.19.17.34/live/ontest1/ontest1/43.m3u8
 http://10.20.30.40:8088/405/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", SONY Entertainment HD
-https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
+http://172.19.17.34/live/ontest1/ontest1/41.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Bharat HD
-
+http://172.19.17.34/live/ontest1/ontest1/44.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Plus HD
+http://172.19.17.34/live/ontest1/ontest1/40.m3u8
 http://66.102.126.10:8000/play/a008/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", ZEE TV HD
-https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
+http://172.19.17.34/live/ontest1/ontest1/42.m3u8
 #EXTINF:0 type="stream" channelId="-1", &TV HD
-https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
+http://172.19.17.34/live/ontest1/ontest1/45.m3u8
+#EXTINF:0 type="stream" channelId="-1", ARY DIGITAL HD
+http://172.19.17.34/live/ontest1/ontest1/46.m3u8
 #EXTINF:0 type="stream" channelId="-1", GREEN HD
 https://cdn01.medialive.one:2096/GREENENTFHD/tracks-v2a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Gold HD
+http://172.19.17.34/live/ontest1/ontest1/47.m3u8
+#EXTINF:0 type="stream" channelId="-1", Star Gold 2 HD
+http://172.19.17.34/live/ontest1/ontest1/52.m3u8
 http://10.20.30.40:8088/402/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Zee Cinema HD
+http://172.19.17.34/live/ontest1/ontest1/48.m3u8
 http://10.20.30.40:8088/406/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", &pictures HD
+http://172.19.17.34/live/ontest1/ontest1/49.m3u8
 http://10.20.30.40:8088/407/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony Max HD
+http://172.19.17.34/live/ontest1/ontest1/50.m3u8
 http://10.20.30.40:8088/404/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony Max1 HD
 http://103.159.180.34:5001/live/3418.m3u8
+#EXTINF:0 type="stream" channelId="-1", Colors Cineplex HD
+http://172.19.17.34/live/ontest1/ontest1/51.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Gold Select HD
+http://172.19.17.34/live/ontest1/ontest1/53.m3u8
 http://10.20.30.40:8088/408/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", UNITE 8 SPORTS 1 HD
 https://yowaimo.in/Sflex-ArtlPVT0719/ZEE_CAFE_HD.m3u8
 #EXTINF:0 type="stream" channelId="-1", UNITE 8 SPORTS 2 HD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony Sports 1 HD
+http://172.19.17.34/live/ontest1/ontest1/56.m3u8
 http://100.100.100.94:4518/Sony-Ten-1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony Sports 2 HD
+http://172.19.17.34/live/ontest1/ontest1/57.m3u8
 http://10.20.30.40:8088/120/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony Sports 3 HD
-
+http://172.19.17.34/live/ontest1/ontest1/58.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony Sports 5 HD
+http://172.19.17.34/live/ontest1/ontest1/59.m3u8
 http://66.102.126.10:8000/play/a010/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Sports 1 HD
+http://172.19.17.34/live/ontest1/ontest1/60.m3u8
 http://10.20.30.40:8088/110/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Sports 2 HD
 http://10.20.30.40:8088/115/tracks-v1a1/mono.m3u8
