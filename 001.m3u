@@ -6,23 +6,21 @@
 #EXTINF:0 type="stream" channelId="-1", ATN Bangla HD
 http://172.19.17.34/live/ontest1/ontest1/02.m3u8
 #EXTINF:0 type="stream" channelId="-1", ATN News HD
-http://10.20.30.40:8088/203/tracks-v1a1/mono.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+http://172.19.17.34/live/ontest1/ontest1/12.m3u8
 #EXTINF:0 type="stream" channelId="-1", Ayna TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Bangla TV  HD
 https://stream.ottplus.live/live/bangla_tv_hd_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Banglavision HD
-http://10.20.30.40:8088/212/tracks-v1a1/mono.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+http://172.19.17.34/live/ontest1/ontest1/09.m3u8
 #EXTINF:0 type="stream" channelId="-1", Bartoman TV
 
 #EXTINF:0 type="stream" channelId="-1", Bijoy TV HD
 https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Boishakhi TV HD
-http://10.20.30.40:8088/211/tracks-v1a1/mono.m3u8
+http://172.19.17.34/live/ontest1/ontest1/08.m3u8
 #EXTINF:0 type="stream" channelId="-1", BTV Chattagram
-http://mysave23.com/PeH5kPWFfG/infamous7funny/998
+http://172.19.17.34/live/ontest1/ontest1/03.m3u8
 #EXTINF:0 type="stream" channelId="-1", BTV National HD
 http://100.100.100.98:4518/BTV-National/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
@@ -33,8 +31,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:0 type="stream" channelId="-1", Test_01
 http://172.16.29.34/ontest1/ontest1/525.m3u8
 #EXTINF:0 type="stream" channelId="-1", Channel I HD
-http://10.20.30.40:8088/207/tracks-v1a1/mono.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+http://172.19.17.34/live/ontest1/ontest1/04.m3u8
 #EXTINF:0 type="stream" channelId="-1", Channel S HD
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Channel 1 4K
@@ -56,8 +53,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 http://103.165.93.31:8095/deepto/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Desh TV HD
-https://ag.hridoytvx.workers.dev/live/9bquhoxRwZ32WfYkhOPXUYS578XDxqtaAbC_3vMyFphnwIMbXWdhEsBs2oJcUKT5Z86cauvMTbUqz2y--VoncnbrnCzpS0OXytYHkGSbiO0h0xOK7xwKO_scaDDkUgI3bORxljVxP1JSY-RzwtSNlGB0YtjF2KsVI-laHuWqC6gxefQCjyWsQy0nR-LhtKNb3Xuf9IpfeQgCcaqHEX3YxOZ_dp-BX2wDdMV_JziGxk4QYTGDovr4Ax1sIngqwxV3IDoGTrNAsKhe7jg_0d0ISpp4VHgPmdifcWIJshyEE4-VJYIQP9XMQqxGj7A_DDNTIJrDIU8t50tLr66aYDMadByPtqaibv2nLqVmrNQKrZiPurNzBO5Yij0ouDgzptF1sXjHMcTdV6AI27a2EUplFUwgxhl9BUvLO_2dM2fXME11oT76zsK5eTepMOyNkKgEzjpnYxjtujOhKHXwgiJSrjCIGToUES-sg0-Rhu-yLeiZdQy8AwiuHlWT5cPMYnQufJcWqVaONPaAyZI.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+http://172.19.17.34/live/ontest1/ontest1/10.m3u8
 #EXTINF:0 type="stream" channelId="-1", Duronto TV HD
 http://103.165.93.31:8095/duranta/tracks-v1a1/mono.m3u8
 https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
@@ -65,7 +61,7 @@ https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 http://10.20.30.40:8088/201/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Ekushey TV BD
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8
+http://172.19.17.34/live/ontest1/ontest1/05.m3u8
 #EXTINF:0 type="stream" channelId="-1", Ekhon TV HD
 https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", EP TV HD
@@ -93,9 +89,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Somoy TV HD_1
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Mohona TV HD
-https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
+http://172.19.17.34/live/ontest1/ontest1/13.m3u8
 #EXTINF:0 type="stream" channelId="-1", MYTV HD
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
+http://172.19.17.34/live/ontest1/ontest1/11.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nagorik TV HD
 http://103.151.61.12/Nagorik_TV/video.m3u8
 #EXTINF:0 type="stream" channelId="-1", News 21 HD
@@ -108,12 +104,11 @@ https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", NRB TV HD
 https://app.ncare.live/live-orgin/nrb-eu.stream/live-orgin/nrb-eu.stream/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", NTV HD
-http://10.20.30.40:8088/208/tracks-v1a1/mono.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+http://172.19.17.34/live/ontest1/ontest1/06.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:0 type="stream" channelId="-1", RTV HD
-http://10.20.30.40:8088/210/tracks-v1a1/mono.m3u8
+http://172.19.17.34/live/ontest1/ontest1/07.m3u8
 #EXTINF:0 type="stream" channelId="-1", SATV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Somoy TV HD
