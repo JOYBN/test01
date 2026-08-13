@@ -314,6 +314,7 @@ http://172.19.17.34/live/ontest1/ontest1/97.m3u8
 #EXTINF:0 type="stream" channelId="-1", Cartoon Network HD
 http://172.19.17.34/live/ontest1/ontest1/98.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nick HD
+http://103.165.93.31:8095/nick/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/99.m3u8
 #EXTINF:0 type="stream" channelId="-1", Disney Intertainment HD
 http://172.19.17.34/live/ontest1/ontest1/100.m3u8
@@ -323,6 +324,7 @@ http://172.19.17.34/live/ontest1/ontest1/101.m3u8
 http://172.19.17.34/live/ontest1/ontest1/102.m3u8
 http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sonic Bangla
+http://103.165.93.31:8095/sonic/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/103.m3u8
 http://live.balajibroadband.com:3500/live/1345.m3u8
 #EXTINF:0 type="stream" channelId="-1", POGO
