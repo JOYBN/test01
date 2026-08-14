@@ -4,6 +4,7 @@ http://172.19.17.34/live/ontest1/ontest1/28.m3u8
 #EXTINF:0 type="stream" channelId="-1", Asian TV HD
 http://172.19.17.34/live/ontest1/ontest1/19.m3u8
 #EXTINF:0 type="stream" channelId="-1", ATN Bangla HD
+http://10.20.30.40:8088/202/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/02.m3u8
 #EXTINF:0 type="stream" channelId="-1", ATN News HD
 http://172.19.17.34/live/ontest1/ontest1/12.m3u8
@@ -43,6 +44,7 @@ http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Channel 24 HD
 http://172.19.17.34/live/ontest1/ontest1/16.m3u8
 #EXTINF:0 type="stream" channelId="-1", DBC News HD
+http://10.20.30.40:8088/204/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/23.m3u8
 #EXTINF:0 type="stream" channelId="-1", Deepto TV HD
 http://172.19.17.34/live/ontest1/ontest1/22.m3u8
@@ -95,6 +97,7 @@ http://172.19.17.34/live/ontest1/ontest1/144.m3u8
 #EXTINF:0 type="stream" channelId="-1", NRB TV HD
 https://app.ncare.live/live-orgin/nrb-eu.stream/live-orgin/nrb-eu.stream/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", NTV HD
+http://10.20.30.40:8088/208/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/06.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
