@@ -108,6 +108,7 @@ http://172.19.17.34/live/ontest1/ontest1/150.m3u8
 #EXTINF:0 type="stream" channelId="-1", SATV HD
 http://172.19.17.34/live/ontest1/ontest1/20.m3u8
 #EXTINF:0 type="stream" channelId="-1", Somoy TV HD
+http://10.20.30.40:8088/205/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/14.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star News HD
 http://172.19.17.34/live/ontest1/ontest1/159.m3u8
