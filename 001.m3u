@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="", Anando TV
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/Ananda.png", Anando TV
 http://172.19.17.34/live/ontest1/ontest1/28.m3u8
 #EXTINF:0 type="stream" channelId="-1", Asian TV HD
 http://172.19.17.34/live/ontest1/ontest1/19.m3u8
