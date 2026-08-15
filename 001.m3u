@@ -12,45 +12,45 @@ http://172.19.17.34/live/ontest1/ontest1/12.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/bangla.png", Bangla TV  HD
 http://172.19.17.34/live/ontest1/ontest1/25.m3u8
-#EXTINF:0 type="stream" channelId="-1", Banglavision HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/banglavision.png", Banglavision HD
 http://172.19.17.34/live/ontest1/ontest1/09.m3u8
 #EXTINF:0 type="stream" channelId="-1", Bartoman TV
 
-#EXTINF:0 type="stream" channelId="-1", Bijoy TV HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/bijoy.png", Bijoy TV HD
 http://172.19.17.34/live/ontest1/ontest1/132.m3u8
-#EXTINF:0 type="stream" channelId="-1", Boishakhi TV HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/boishakhi.png", Boishakhi TV HD
 http://172.19.17.34/live/ontest1/ontest1/08.m3u8
-#EXTINF:0 type="stream" channelId="-1", BTV Chattagram
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btvc.png", BTV Chattagram
 http://172.19.17.34/live/ontest1/ontest1/03.m3u8
-#EXTINF:0 type="stream" channelId="-1", BTV National HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btv.png", BTV National HD
 http://100.100.100.98:4518/BTV-National/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", BTV News HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btvn.png", BTV News HD
 http://172.19.17.34/live/ontest1/ontest1/133.m3u8
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Test_01
 http://172.16.29.34/ontest1/ontest1/525.m3u8
-#EXTINF:0 type="stream" channelId="-1", Channel I HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channeli.png", Channel I HD
 http://172.19.17.34/live/ontest1/ontest1/04.m3u8
-#EXTINF:0 type="stream" channelId="-1", Channel S HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channels.png", Channel S HD
 http://172.19.17.34/live/ontest1/ontest1/139.m3u8
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Channel 1 4K
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channel1.png", Channel 1 4K
 http://172.19.17.34/live/ontest1/ontest1/157.m3u8
-#EXTINF:0 type="stream" channelId="-1", Channel 9 HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channel9.png", Channel 9 HD
 http://172.19.17.34/live/ontest1/ontest1/128.m3u8
-#EXTINF:0 type="stream" channelId="-1", Channel 16
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channel16.png", Channel 16
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Channel 24 HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channel24.png", Channel 24 HD
 http://172.19.17.34/live/ontest1/ontest1/16.m3u8
-#EXTINF:0 type="stream" channelId="-1", DBC News HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/dbc.png", DBC News HD
 http://10.20.30.40:8088/204/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/23.m3u8
-#EXTINF:0 type="stream" channelId="-1", Deepto TV HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/dipto.png", Deepto TV HD
 http://172.19.17.34/live/ontest1/ontest1/22.m3u8
-#EXTINF:0 type="stream" channelId="-1", Desh TV HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/desh.png", Desh TV HD
 http://172.19.17.34/live/ontest1/ontest1/10.m3u8
-#EXTINF:0 type="stream" channelId="-1", Duronto TV HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/duronto.png", Duronto TV HD
 http://172.19.17.34/live/ontest1/ontest1/26.m3u8
 #EXTINF:0 type="stream" channelId="-1", Ekattor TV HD
 http://172.19.17.34/live/ontest1/ontest1/18.m3u8
