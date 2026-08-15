@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/Ananda.png", Anando TV
 http://172.19.17.34/live/ontest1/ontest1/28.m3u8
-#EXTINF:0 type="stream" channelId="-1", Asian TV HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/asian.png", Asian TV HD
 http://172.19.17.34/live/ontest1/ontest1/19.m3u8
-#EXTINF:0 type="stream" channelId="-1", ATN Bangla HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/atnbangla.png", ATN Bangla HD
 http://10.20.30.40:8088/202/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/02.m3u8
-#EXTINF:0 type="stream" channelId="-1", ATN News HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/atnnews.png", ATN News HD
 http://172.19.17.34/live/ontest1/ontest1/12.m3u8
 #EXTINF:0 type="stream" channelId="-1", Ayna TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", Bangla TV  HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/bangla.png", Bangla TV  HD
 http://172.19.17.34/live/ontest1/ontest1/25.m3u8
 #EXTINF:0 type="stream" channelId="-1", Banglavision HD
 http://172.19.17.34/live/ontest1/ontest1/09.m3u8
