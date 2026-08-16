@@ -394,11 +394,13 @@ http://172.19.17.34/live/ontest1/ontest1/134.m3u8
 http://172.19.17.34/live/ontest1/ontest1/135.m3u8
 https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", AAJ TAK HD
-http://172.19.17.34/live/ontest1/ontest1/136.m3u8
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+http://172.19.17.34/live/ontest1/ontest1/136.m3u8
 #EXTINF:0 type="stream" channelId="-1", NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 http://172.19.17.34/live/ontest1/ontest1/137.m3u8
 #EXTINF:0 type="stream" channelId="-1", NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 http://172.19.17.34/live/ontest1/ontest1/138.m3u8
 #EXTINF:0 type="stream" channelId="-1", Zee News
 http://172.19.17.34/live/ontest1/ontest1/145.m3u8
