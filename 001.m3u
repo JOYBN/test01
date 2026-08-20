@@ -17,8 +17,6 @@ http://172.19.17.34/live/ontest1/ontest1/25.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/banglavision.png", Banglavision HD
 http://10.20.30.40:8088/212/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/09.m3u8
-#EXTINF:0 type="stream" channelId="-1", Bartoman TV
-
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/bijoy.png", Bijoy TV HD
 http://172.19.17.34/live/ontest1/ontest1/132.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/boishakhi.png", Boishakhi TV HD
@@ -32,8 +30,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btvn.png", BTV News HD
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/133.m3u8
-#EXTINF:0 type="stream" channelId="-1", Test_01
-http://172.16.29.34/ontest1/ontest1/525.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channeli.png", Channel I HD
 http://10.20.30.40:8088/207/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/04.m3u8
