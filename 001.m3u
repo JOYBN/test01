@@ -45,6 +45,7 @@ http://172.19.17.34/live/ontest1/ontest1/128.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channel16.png", Channel 16
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channel24.png", Channel 24 HD
+http://livetv.akr4m.com:8080/bdtv/restrem/14.m3u8
 http://172.19.17.34/live/ontest1/ontest1/16.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/dbc.png", DBC News HD
 http://10.20.30.40:8088/204/tracks-v1a1/mono.m3u8
