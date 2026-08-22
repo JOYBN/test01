@@ -33,8 +33,8 @@ http://172.19.17.34/live/ontest1/ontest1/133.m3u8
 http://10.20.30.40:8088/207/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/04.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channels.png", Channel S HD
-http://172.19.17.34/live/ontest1/ontest1/139.m3u8
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
+http://172.19.17.34/live/ontest1/ontest1/139.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channel1.png", Channel 1 4K
 http://172.19.17.34/live/ontest1/ontest1/157.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channel9.png", Channel 9 HD
