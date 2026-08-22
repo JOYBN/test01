@@ -71,11 +71,13 @@ https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/gtv.png", Gazi TV HD
 http://172.19.17.34/live/ontest1/ontest1/17.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/global.png", Global TV BD
+http://livetv.akr4m.com:8080/bdtv/restrem/22.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
 http://172.19.17.34/live/ontest1/ontest1/143.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/green.png", Green TV HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/independent.png", INDEPENDENT TV
+http://livetv.akr4m.com:8080/bdtv/restrem/23.m3u8
 http://172.19.17.34/live/ontest1/ontest1/15.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/islamic.png", ISLAMIC TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
@@ -93,6 +95,7 @@ http://172.19.17.34/live/ontest1/ontest1/142.m3u8
 https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
 http://172.19.17.34/live/ontest1/ontest1/13.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/mytv.png", MYTV HD
+http://livetv.akr4m.com:8080/bdtv/restrem/26.m3u8
 http://172.19.17.34/live/ontest1/ontest1/11.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/nagorik.png", Nagorik TV HD
 http://172.19.17.34/live/ontest1/ontest1/27.m3u8
