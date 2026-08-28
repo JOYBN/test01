@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/Ananda.png", Anando TV
+http://livetv.akr4m.com:8080/bdtv/restrem/04.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/asian.png", Asian TV HD
 http://livetv.akr4m.com:8080/bdtv/restrem/01.m3u8
@@ -47,9 +48,11 @@ http://172.19.17.34/live/ontest1/ontest1/16.m3u8
 http://10.20.30.40:8088/204/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/23.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/dipto.png", Deepto TV HD
+http://livetv.akr4m.com:8080/bdtv/restrem/17.m3u8
 http://172.19.17.34/live/ontest1/ontest1/22.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/desh.png", Desh TV HD
 http://172.19.17.34/live/ontest1/ontest1/10.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/18.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/duronto.png", Duronto TV HD
 http://172.19.17.34/live/ontest1/ontest1/26.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ekattor.png", Ekattor TV HD
@@ -90,14 +93,16 @@ http://172.19.17.34/live/ontest1/ontest1/142.m3u8
 https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
 http://172.19.17.34/live/ontest1/ontest1/13.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/mytv.png", MYTV HD
-http://172.19.17.34/live/ontest1/ontest1/11.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/26.m3u8
+http://172.19.17.34/live/ontest1/ontest1/11.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/nagorik.png", Nagorik TV HD
+http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8
 http://172.19.17.34/live/ontest1/ontest1/27.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/news21.png", News 21 HD
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/news24.png", News 24 HD
 http://172.19.17.34/live/ontest1/ontest1/24.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/28.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/nexus.png", Nexus TV HD
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 http://172.19.17.34/live/ontest1/ontest1/144.m3u8
@@ -519,10 +524,12 @@ http://103.175.73.12:8080/live/673/master.m3u8
 http://103.175.73.12:8080/live/674/master.m3u8
 #EXTINF:0 type="stream" channelId="-1",test06
 http://103.175.73.12:8080/live/675/master.m3u8
-#EXTINF:0 type="stream" channelId="-1",News Live Bangla
+#EXTINF:0 type="stream" channelId="-1", News Live Bangla
 http://103.175.73.12:8080/live/784/master.m3u8
-#EXTINF:0 type="stream" channelId="-1", Avenues Khabar
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785953420/ei/LChzaqihJuvD4t4PyOeA0QU/ip/103.24.16.86/id/nW2h5wZh8k0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hhpujvh-gwil.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhMbY68GGIwmJRwH1tM_2cer_I3vDhcXQFv24I1q68IPoSzKLF1a61A_qdf_WwQlheMJ5-6UcRT2/spc/KBGBcnspcH6KM-E2yNHNr7ipUJv1YtMmxwdxiKlkb8yPTjsyFA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1051250/met/1785931822,/mh/XE/mip/103.24.16.81/mm/44/mn/sn-n0hhpujvh-gwil/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1785931479/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgKh4sxVPy8eMHpkbFQzcGUwRfyjzoALWfRmj6mmVviJwCIC_ytHkyuywyPRY4upsFjo3dsTREOPau0hyqVZKKzG86/lsparams/hls_chunk_host,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgUwqa2E5IMQ5ZmgOuBuCdIGS1UcpZsjn9WoRYTwbzL_wCID79_9QOuDc7g_qTTqg6WO4zwAUSXx7yEQdwiPDCCVBy/playlist/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", HBO
+http://livetv.akr4m.com:8080/bdtv/restrem/47.m3u8
+#EXTINF:0 type="stream" channelId="-1", HBO HiTS
+http://livetv.akr4m.com:8080/bdtv/restrem/29.m3u8
 #EXTINF:0 type="stream" channelId="-1", Kantipur TV
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8
 
