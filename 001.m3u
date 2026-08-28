@@ -12,7 +12,7 @@ http://172.19.17.34/live/ontest1/ontest1/12.m3u8
 #EXTINF:0 type="stream" channelId="-1", Ayna TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/bangla.png", Bangla TV  HD
-https://cache.devm3u.top/live/banglatv.m3u8
+http://172.19.17.34/live/ontest1/ontest1/25.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/banglavision.png", Banglavision HD
 http://10.20.30.40:8088/212/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/09.m3u8
@@ -27,7 +27,6 @@ http://172.19.17.34/live/ontest1/ontest1/03.m3u8
 http://100.100.100.98:4518/BTV-National/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btvn.png", BTV News HD
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/133.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channeli.png", Channel I HD
 http://10.20.30.40:8088/207/tracks-v1a1/mono.m3u8
@@ -48,7 +47,6 @@ http://172.19.17.34/live/ontest1/ontest1/16.m3u8
 http://10.20.30.40:8088/204/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/23.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/dipto.png", Deepto TV HD
-http://103.165.93.31:8095/deepto/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/22.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/desh.png", Desh TV HD
 http://172.19.17.34/live/ontest1/ontest1/10.m3u8
@@ -92,8 +90,8 @@ http://172.19.17.34/live/ontest1/ontest1/142.m3u8
 https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
 http://172.19.17.34/live/ontest1/ontest1/13.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/mytv.png", MYTV HD
-http://livetv.akr4m.com:8080/bdtv/restrem/26.m3u8
 http://172.19.17.34/live/ontest1/ontest1/11.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/26.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/nagorik.png", Nagorik TV HD
 http://172.19.17.34/live/ontest1/ontest1/27.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/news21.png", News 21 HD
