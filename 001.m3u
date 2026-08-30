@@ -160,7 +160,6 @@ https://cdn-4.pishow.tv/live/969/master.m3u8
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 http://172.19.17.34/live/ontest1/ontest1/36.m3u8
 #EXTINF:0 type="stream" channelId="-1", KHUSHBOO BANGLA
-http://103.175.73.12:8080/live/375/375_0.m3u8
 http://172.19.17.34/live/ontest1/ontest1/37.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/cbanglac.png", Colors Bangla Cinema
 http://172.19.17.34/live/ontest1/ontest1/158.m3u8
@@ -178,7 +177,7 @@ http://103.175.73.12:8080/live/664/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", R PLUS GOLD
 https://cdn-4.pishow.tv/live/1231/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sangeet Bangla
-http://103.175.73.12:8080/live/379/379_0.m3u8
+http://10.20.30.40:8088/702/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Colors HD.
 http://172.19.17.34/live/ontest1/ontest1/43.m3u8
 http://10.20.30.40:8088/405/tracks-v1a1/mono.m3u8
