@@ -10,7 +10,7 @@ http://172.19.17.34/live/ontest1/ontest1/02.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/atnnews.png", ATN News HD
 http://10.20.30.40:8088/203/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/12.m3u8
-#EXTINF:0 type="stream" channelId="-1", Ayna TV
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/Ayna.png", Ayna TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/bangla.png", Bangla TV  HD
 http://172.19.17.34/live/ontest1/ontest1/25.m3u8
@@ -63,8 +63,8 @@ http://172.19.17.34/live/ontest1/ontest1/05.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ekhon.png", Ekhon TV HD
 http://172.19.17.34/live/ontest1/ontest1/29.m3u8
 #EXTINF:0 type="stream" channelId="-1", EP TV HD
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", Enter TV HD
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/entertv.png", Enter TV HD
 https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/gtv.png", Gazi TV HD
 http://172.19.17.34/live/ontest1/ontest1/17.m3u8
@@ -153,10 +153,10 @@ http://172.19.17.34/live/ontest1/ontest1/34.m3u8
 https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/zbangla.png", Zee Bangla HD
 http://172.19.17.34/live/ontest1/ontest1/32.m3u8
-#EXTINF:0 type="stream" channelId="-1", Aakash Aath
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/a8.png", Aakash Aath
 http://172.19.17.34/live/ontest1/ontest1/131.m3u8
 https://cdn-4.pishow.tv/live/969/master.m3u8
-#EXTINF:0 type="stream" channelId="-1", Enter 10 Bangla
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/e10.png", Enter 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 http://172.19.17.34/live/ontest1/ontest1/36.m3u8
 #EXTINF:0 type="stream" channelId="-1", KHUSHBOO BANGLA
@@ -170,13 +170,13 @@ http://10.20.30.40:8088/303/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/zbanglac.png", Zee Bangla Cinema
 http://172.19.17.34/live/ontest1/ontest1/39.m3u8
 http://10.20.30.40:8088/305/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", Dhoom Music
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/dm.png", Dhoom Music
 
-#EXTINF:0 type="stream" channelId="-1", Ruposhi Bangla 
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/rb.png", Ruposhi Bangla 
 
-#EXTINF:0 type="stream" channelId="-1", R PLUS GOLD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/rpg.png", R PLUS GOLD
 https://cdn-4.pishow.tv/live/1231/master.m3u8
-#EXTINF:0 type="stream" channelId="-1", Sangeet Bangla
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sb.png", Sangeet Bangla
 http://10.20.30.40:8088/702/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Colors HD.
 http://172.19.17.34/live/ontest1/ontest1/43.m3u8
