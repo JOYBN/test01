@@ -171,9 +171,9 @@ http://10.20.30.40:8088/303/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/39.m3u8
 http://10.20.30.40:8088/305/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Dhoom Music
-http://103.175.73.12:8080/live/378/378_0.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Ruposhi Bangla 
-http://103.175.73.12:8080/live/664/master.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", R PLUS GOLD
 https://cdn-4.pishow.tv/live/1231/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sangeet Bangla
@@ -286,7 +286,7 @@ http://172.19.17.34/live/ontest1/ontest1/156.m3u8
 #EXTINF:0 type="stream" channelId="-1", ABP News
 http://172.19.17.34/live/ontest1/ontest1/82.m3u8
 #EXTINF:0 type="stream" channelId="-1", NDTV
-http://103.175.73.12:8080/live/107/master.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", GEO News
 http://172.19.17.34/live/ontest1/ontest1/83.m3u8
 #EXTINF:0 type="stream" channelId="-1", ARY News
@@ -301,7 +301,6 @@ http://172.19.17.34/live/ontest1/ontest1/87.m3u8
 http://172.19.17.34/live/ontest1/ontest1/88.m3u8
 #EXTINF:0 type="stream" channelId="-1", DW English HD
 http://172.19.17.34/live/ontest1/ontest1/89.m3u8
-http://103.175.73.12:8080/live/116/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", Animal Planet HD
 http://172.19.17.34/live/ontest1/ontest1/93.m3u8
 http://66.102.126.10:8000/play/a001/index.m3u8
@@ -370,7 +369,7 @@ http://172.19.17.34/live/ontest1/ontest1/116.m3u8
 #EXTINF:0 type="stream" channelId="-1", & Prive HD
 http://172.19.17.34/live/ontest1/ontest1/117.m3u8
 #EXTINF:0 type="stream" channelId="-1", B4U Movies
-http://103.175.73.12:8080/live/43/master.m3u8
+
 http://172.19.17.34/live/ontest1/ontest1/78.m3u8
 #EXTINF:0 type="stream" channelId="-1", Romedy Now
 http://172.19.17.34/live/ontest1/ontest1/118.m3u8
@@ -379,7 +378,6 @@ http://172.19.17.34/live/ontest1/ontest1/119.m3u8
 #EXTINF:0 type="stream" channelId="-1", 9XM
 http://172.19.17.34/live/ontest1/ontest1/121.m3u8
 #EXTINF:0 type="stream" channelId="-1", B4U Music
-http://103.175.73.12:8080/live/157/master.m3u8
 http://172.19.17.34/live/ontest1/ontest1/122.m3u8
 #EXTINF:0 type="stream" channelId="-1", MTV HD
 http://172.19.17.34/live/ontest1/ontest1/123.m3u8
@@ -445,7 +443,6 @@ https://cdn-2.pishow.tv/live/1494/1494_1.m3u8
 https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/rbangla.png", Republic Bangla
 http://172.19.17.34/live/ontest1/ontest1/129.m3u8
-http://103.175.73.12:8080/live/663/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/rpnews.png", R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/skolkata.png", Samay Kolkata
@@ -508,9 +505,9 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", bein
 http://103.151.60.162:2121/play/a00t/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Sports Khel
-http://103.175.73.12:8080/live/151/master.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", FTV
-http://103.175.73.12:8080/live/144/master.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Travel XP
 http://103.159.180.34:5001/live/164.m3u8
 #EXTINF:0 type="stream" channelId="-1", test03
@@ -518,13 +515,13 @@ http://103.159.180.34:5001/live/165.m3u8
 #EXTINF:0 type="stream" channelId="-1", Vakti Bangla
 http://103.159.180.34:5001/live/1605.m3u8
 #EXTINF:0 type="stream" channelId="-1", test04
-http://103.175.73.12:8080/live/673/master.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", test05
-http://103.175.73.12:8080/live/674/master.m3u8
+
 #EXTINF:0 type="stream" channelId="-1",test06
-http://103.175.73.12:8080/live/675/master.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", News Live Bangla
-http://103.175.73.12:8080/live/784/master.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", HBO
 http://livetv.akr4m.com:8080/bdtv/restrem/47.m3u8
 #EXTINF:0 type="stream" channelId="-1", HBO HiTS
