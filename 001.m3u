@@ -27,7 +27,7 @@ http://172.19.17.34/live/ontest1/ontest1/03.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btv.png", BTV National HD
 http://100.100.100.98:4518/BTV-National/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btvn.png", BTV News HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btvcc.png", BTV News HD
 http://172.19.17.34/live/ontest1/ontest1/133.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channeli.png", Channel I HD
 http://10.20.30.40:8088/207/tracks-v1a1/mono.m3u8
