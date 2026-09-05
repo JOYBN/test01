@@ -22,7 +22,7 @@ http://172.19.17.34/live/ontest1/ontest1/132.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/boishakhi.png", Boishakhi TV HD
 http://10.20.30.40:8088/211/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/08.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btvc.png", BTV Chattagram
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btvcc.png", BTV Chattagram
 http://172.19.17.34/live/ontest1/ontest1/03.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btv.png", BTV National HD
 http://100.100.100.98:4518/BTV-National/tracks-v1a1/mono.m3u8
