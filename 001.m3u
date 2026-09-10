@@ -509,8 +509,8 @@ http://103.159.180.34:5001/live/1605.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", test05
 
-#EXTINF:0 type="stream" channelId="-1",test06
-
+#EXTINF:0 type="stream" channelId="-1", Sananda TV
+https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", News Live Bangla
 
 #EXTINF:0 type="stream" channelId="-1", HBO
