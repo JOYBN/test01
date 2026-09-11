@@ -505,15 +505,14 @@ https://amg00426-littledotstudio-realwild-tcl-fzsi1.amagi.tv/ts-us-e2-n1/playlis
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:0 type="stream" channelId="-1", Vakti Bangla
 http://103.159.180.34:5001/live/1605.m3u8
-#EXTINF:0 type="stream" channelId="-1", S F
-
-
-#EXTINF:0 type="stream" channelId="-1", 
-
-#EXTINF:0 type="stream" channelId="-1", bein
-
-#EXTINF:0 type="stream" channelId="-1", Star Sports Khel
-
+#EXTINF:0 type="stream" channelId="-1", Star Jalsha
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281675.m3u8
+#EXTINF:0 type="stream" channelId="-1", Colors Bangla 
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281676.m3u8
+#EXTINF:0 type="stream" channelId="-1", Jalsha Movies
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281674.m3u8
+#EXTINF:0 type="stream" channelId="-1", Zee Bangla 
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281671.m3u8
 #EXTINF:0 type="stream" channelId="-1", FTV
 
 #EXTINF:0 type="stream" channelId="-1", Travel XP
