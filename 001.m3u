@@ -513,8 +513,8 @@ https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281676.m3u8
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281674.m3u8
 #EXTINF:0 type="stream" channelId="-1", Zee Bangla 
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281671.m3u8
-#EXTINF:0 type="stream" channelId="-1", FTV
-http://103.159.180.34:5001/live/1605.m3u8
+#EXTINF:0 type="stream" channelId="-1", National Geographic
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281683.m3u8
 #EXTINF:0 type="stream" channelId="-1", Travel XP
 
 #EXTINF:0 type="stream" channelId="-1", test03
