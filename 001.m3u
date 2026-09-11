@@ -219,7 +219,9 @@ http://10.20.30.40:8088/407/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sm.png", Sony Max HD
 http://10.20.30.40:8088/404/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/50.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sm1.png", Sony Max2 HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sm1.png", Sony Max1 HD
+http://live.balajibroadband.com:3500/live/3418.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sm2.png", Sony Max2 HD
 http://live.balajibroadband.com:3500/live/483.m3u8
 #EXTINF:0 type="stream" channelId="-1", Colors Cineplex HD
 http://172.19.17.34/live/ontest1/ontest1/51.m3u8
