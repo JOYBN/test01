@@ -463,12 +463,12 @@ https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
+#EXTINF:0 type="stream" channelId="-1", Sananda TV
+https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 type="stream" channelId="-1", Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
-#EXTINF:0 type="stream" channelId="-1", Green TV HD
-
 #EXTINF:0 type="stream" channelId="-1", DD Sports HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_7.m3u8
 #EXTINF:0 type="stream" channelId="-1", Al-Jazeera HD
@@ -491,42 +491,44 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", W O F
 https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/cb563d1e786c678a84cb3978d5f862ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da56852db80148b6f4adafb8c2360625f5c98435ee3b24aabfbe35d41d96ea0ac191bc77c58e68314c8c915bd8081469f458420f3409995f4ddd243e0bcab538b6798544338701da34d18f9c670b9c09365359d3e7d084e15ae949af04a3391540372ccbf9aef2baf488ebe2c8f3663e0408019d079ca4aba19abe479a5af90d6560e6cf793153271e0ad8ba2cf181ff126f7abe2d8335b9cf51f770e894ed030243595b29a40dc8d45d8e66dd5f45a1c3ec1834cd4c8e1d4a1e3db38e94fa0f0fd96394d59704453d62fc5b4599b788d36f8b4504b3a6a4ba29d59c1fca97d3870408b851e99532cb0d58f8cc81d79ad441e49e374d64b0f0d99d40dfc37a249fcc152656638408744371c9f3f89a53e51/5/1920x1080_6046040/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", JOY
-https://nomawnoijl.gpcdn.net/akash/joy/chunks.m3u8
-#EXTINF:0 type="stream" channelId="-1", Item 192
-https://amg00426-littledotstudio-realwild-tcl-fzsi1.amagi.tv/ts-us-e2-n1/playlist/amg00426-littledotstudio-realwild-tcl/cb563d1e786c678a84cb3978d5f762ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da56852db80148b6f4adafb8c2360625f5c98435ee3b24af2f8b00e10893ea8ac191bc77c58e68314c8c94ebdd3d4469a41d224a31dccc3a68ad746e0bcab538b6798544338701da34d18f9c670b9c09365359d3e7d084e15ae949af04a3391540372ccbf9aef2baf488ebe2c8f3663e0408019d079ca4aba19abe479a5af90d6560e6cf793153271e0ad8ba2cf181ff126f7abe2d8335b9cf51f770e894ed030243595b29a40dc8d45d8e66dd5f45a1c3ec1834cd4c8e1d4a1e3db38e94fa0f0fd96394d59704453d62fc5b4599b788d36f8b4504b3a6a4ba29d59c1fca97d3870408b851e99532cb0d58f8cc81d79ad441e49e374d64b0f0f9d623a9c84d12a158c0a2b9b8e5a3ee38c630d44b2fff3d72e05/166/1920x1080_6046040/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", S F
-https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409/variant/22100007.m3u8
-#EXTINF:0 type="stream" channelId="-1", Zee Bangla Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
-#EXTINF:0 type="stream" channelId="-1", Somoy
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", bein
-http://103.151.60.162:2121/play/a00t/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Star Sports Khel
-
-#EXTINF:0 type="stream" channelId="-1", FTV
-
-#EXTINF:0 type="stream" channelId="-1", Travel XP
-http://103.159.180.34:5001/live/164.m3u8
-#EXTINF:0 type="stream" channelId="-1", test03
-http://103.159.180.34:5001/live/165.m3u8
-#EXTINF:0 type="stream" channelId="-1", Vakti Bangla
-http://103.159.180.34:5001/live/1605.m3u8
-#EXTINF:0 type="stream" channelId="-1", test04
-
-#EXTINF:0 type="stream" channelId="-1", test05
-
-#EXTINF:0 type="stream" channelId="-1", Sananda TV
-https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", News Live Bangla
-
 #EXTINF:0 type="stream" channelId="-1", HBO
 http://livetv.akr4m.com:8080/bdtv/restrem/47.m3u8
 #EXTINF:0 type="stream" channelId="-1", HBO HiTS
 http://livetv.akr4m.com:8080/bdtv/restrem/29.m3u8
 #EXTINF:0 type="stream" channelId="-1", Kantipur TV
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", JOY
+https://nomawnoijl.gpcdn.net/akash/joy/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", REAL WILD
+https://amg00426-littledotstudio-realwild-tcl-fzsi1.amagi.tv/ts-us-e2-n1/playlist/amg00426-littledotstudio-realwild-tcl/cb563d1e786c678a84cb3978d5f762ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da56852db80148b6f4adafb8c2360625f5c98435ee3b24af2f8b00e10893ea8ac191bc77c58e68314c8c94ebdd3d4469a41d224a31dccc3a68ad746e0bcab538b6798544338701da34d18f9c670b9c09365359d3e7d084e15ae949af04a3391540372ccbf9aef2baf488ebe2c8f3663e0408019d079ca4aba19abe479a5af90d6560e6cf793153271e0ad8ba2cf181ff126f7abe2d8335b9cf51f770e894ed030243595b29a40dc8d45d8e66dd5f45a1c3ec1834cd4c8e1d4a1e3db38e94fa0f0fd96394d59704453d62fc5b4599b788d36f8b4504b3a6a4ba29d59c1fca97d3870408b851e99532cb0d58f8cc81d79ad441e49e374d64b0f0f9d623a9c84d12a158c0a2b9b8e5a3ee38c630d44b2fff3d72e05/166/1920x1080_6046040/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+#EXTINF:0 type="stream" channelId="-1", Vakti Bangla
+http://103.159.180.34:5001/live/1605.m3u8
+#EXTINF:0 type="stream" channelId="-1", S F
+
+
+#EXTINF:0 type="stream" channelId="-1", 
+
+#EXTINF:0 type="stream" channelId="-1", bein
+
+#EXTINF:0 type="stream" channelId="-1", Star Sports Khel
+
+#EXTINF:0 type="stream" channelId="-1", FTV
+
+#EXTINF:0 type="stream" channelId="-1", Travel XP
+
+#EXTINF:0 type="stream" channelId="-1", test03
+
+
+#EXTINF:0 type="stream" channelId="-1", test04
+
+#EXTINF:0 type="stream" channelId="-1", test05
+
+#EXTINF:0 type="stream" channelId="-1", News Live Bangla
+
+#EXTINF:0 type="stream" channelId="-1", Green TV HD
+
 
 
 
