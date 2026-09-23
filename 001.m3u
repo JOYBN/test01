@@ -56,8 +56,8 @@ http://172.19.17.34/live/ontest1/ontest1/23.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/17.m3u8
 http://172.19.17.34/live/ontest1/ontest1/22.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/desh.png", Desh TV HD
-https://playztv-apps.pages.dev/desh-tv/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/18.m3u8
+https://playztv-apps.pages.dev/desh-tv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/duronto.png", Duronto TV HD
 https://playztv-apps.pages.dev/duronto-tv/index.m3u8
 http://172.19.17.34/live/ontest1/ontest1/26.m3u8
@@ -65,6 +65,7 @@ http://172.19.17.34/live/ontest1/ontest1/26.m3u8
 http://10.20.30.40:8088/201/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/18.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ekushey.png", Ekushey TV BD
+http://livetv.akr4m.com:8080/bdtv/restrem/21.m3u8
 http://172.19.17.34/live/ontest1/ontest1/05.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ekhon.png", Ekhon TV HD
 https://playztv-apps.pages.dev/ekhon-tv/index.m3u8
@@ -108,7 +109,6 @@ http://172.19.17.34/live/ontest1/ontest1/27.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/news21.png", News 21 HD
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/news24.png", News 24 HD
-http://172.19.17.34/live/ontest1/ontest1/24.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/28.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/nexus.png", Nexus TV HD
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
@@ -121,9 +121,9 @@ http://172.19.17.34/live/ontest1/ontest1/06.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/rtv.png", RTV HD
-http://172.19.17.34/live/ontest1/ontest1/07.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/44.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btvs.png", Sangsad TV HD
-http://172.19.17.34/live/ontest1/ontest1/150.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/32.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/satv.png", SATV HD
 http://172.19.17.34/live/ontest1/ontest1/20.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/somoy.png", Somoy TV HD
@@ -146,20 +146,19 @@ http://100.100.100.94:4518/T-Sports-HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Unmochon TV
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/cbangla.png", Colors Bangla HD
-http://172.19.17.34/live/ontest1/ontest1/33.m3u8
 http://10.20.30.40:8088/304/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sjalsha.png", Star Jalsha HD
-http://172.19.17.34/live/ontest1/ontest1/31.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/33.m3u8
 http://10.20.30.40:8088/302/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sbangla.png", Sun Bangla HD
-http://172.19.17.34/live/ontest1/ontest1/35.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/52.m3u8
 http://103.151.61.12/SUN_BANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/saath.png", Sony Auth
 http://10.20.30.40:8088/306/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/34.m3u8
 https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/zbangla.png", Zee Bangla HD
-http://172.19.17.34/live/ontest1/ontest1/32.m3u8
+http://10.20.30.40:8088/301/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/a8.png", Aakash Aath
 http://172.19.17.34/live/ontest1/ontest1/131.m3u8
 https://cdn-4.pishow.tv/live/969/master.m3u8
@@ -171,8 +170,7 @@ http://172.19.17.34/live/ontest1/ontest1/37.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/cbanglac.png", Colors Bangla Cinema
 http://198.195.239.50:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sjalsham.png", Jalsha Movies HD
-http://172.19.17.34/live/ontest1/ontest1/38.m3u8
-http://10.20.30.40:8088/303/tracks-v1a1/mono.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/zbanglac.png", Zee Bangla Cinema
 http://172.19.17.34/live/ontest1/ontest1/39.m3u8
 http://10.20.30.40:8088/305/tracks-v1a1/mono.m3u8
@@ -231,7 +229,6 @@ http://172.19.17.34/live/ontest1/ontest1/51.m3u8
 http://100.100.100.94:4518/Sony-Ten-1/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/56.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/st2.png", Sony Sports 2 HD
-http://172.19.17.34/live/ontest1/ontest1/57.m3u8
 http://10.20.30.40:8088/120/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/st3.png", Sony Sports 3 HD
 http://172.19.17.34/live/ontest1/ontest1/58.m3u8
@@ -239,20 +236,16 @@ http://172.19.17.34/live/ontest1/ontest1/58.m3u8
 http://172.19.17.34/live/ontest1/ontest1/59.m3u8
 http://66.102.126.10:8000/play/a010/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ss1.png", Star Sports 1 HD
-http://172.19.17.34/live/ontest1/ontest1/60.m3u8
 http://10.20.30.40:8088/110/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ss2.png", Star Sports 2 HD
-http://172.19.17.34/live/ontest1/ontest1/61.m3u8
 http://10.20.30.40:8088/115/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Sports 1 HD Hindi
 http://172.19.17.34/live/ontest1/ontest1/149.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Sports 2 HD Hindi
 http://172.19.17.34/live/ontest1/ontest1/61.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sss1.png", Star Sports Select 1 HD
-http://172.19.17.34/live/ontest1/ontest1/63.m3u8
 http://10.20.30.40:8088/123/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sss2.png", Star Sports Select 2 HD
-http://172.19.17.34/live/ontest1/ontest1/64.m3u8
 http://10.20.30.40:8088/124/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ss3.png", Star Sports 3
 http://172.19.17.34/live/ontest1/ontest1/65.m3u8
@@ -312,16 +305,13 @@ http://172.19.17.34/live/ontest1/ontest1/88.m3u8
 #EXTINF:0 type="stream" channelId="-1", DW English HD
 http://172.19.17.34/live/ontest1/ontest1/89.m3u8
 #EXTINF:0 type="stream" channelId="-1", Animal Planet HD
-http://172.19.17.34/live/ontest1/ontest1/93.m3u8
 http://66.102.126.10:8000/play/a001/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Discovery HD
-http://172.19.17.34/live/ontest1/ontest1/90.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/51.m3u8
 http://202.70.146.135:8000/play/a05z/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", National Geographic HD
-http://172.19.17.34/live/ontest1/ontest1/91.m3u8
-http://202.70.146.135:8000/play/a05o/index.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/50.m3u8
 #EXTINF:0 type="stream" channelId="-1", National Geographic WILD  HD
-http://172.19.17.34/live/ontest1/ontest1/92.m3u8
 http://10.20.30.40:8088/802/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony BBC Earth
 http://172.19.17.34/live/ontest1/ontest1/94.m3u8
