@@ -56,9 +56,10 @@ http://172.19.17.34/live/ontest1/ontest1/23.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/17.m3u8
 http://172.19.17.34/live/ontest1/ontest1/22.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/desh.png", Desh TV HD
-http://172.19.17.34/live/ontest1/ontest1/10.m3u8
+https://playztv-apps.pages.dev/desh-tv/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/18.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/duronto.png", Duronto TV HD
+https://playztv-apps.pages.dev/duronto-tv/index.m3u8
 http://172.19.17.34/live/ontest1/ontest1/26.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ekattor.png", Ekattor TV HD
 http://10.20.30.40:8088/201/tracks-v1a1/mono.m3u8
@@ -66,6 +67,7 @@ http://172.19.17.34/live/ontest1/ontest1/18.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ekushey.png", Ekushey TV BD
 http://172.19.17.34/live/ontest1/ontest1/05.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ekhon.png", Ekhon TV HD
+https://playztv-apps.pages.dev/ekhon-tv/index.m3u8
 http://172.19.17.34/live/ontest1/ontest1/29.m3u8
 #EXTINF:0 type="stream" channelId="-1", EP TV HD
 
