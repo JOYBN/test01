@@ -81,19 +81,16 @@ https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/26.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/nagorik.png", Nagorik TV HD
 http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8
-http://172.19.17.34/live/ontest1/ontest1/27.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/news21.png", News 21 HD
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/news24.png", News 24 HD
 http://livetv.akr4m.com:8080/bdtv/restrem/28.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/nexus.png", Nexus TV HD
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
-http://172.19.17.34/live/ontest1/ontest1/144.m3u8
 #EXTINF:0 type="stream" channelId="-1", NRB TV HD
 https://app.ncare.live/live-orgin/nrb-eu.stream/live-orgin/nrb-eu.stream/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ntv.png", NTV HD
 http://10.20.30.40:8088/208/tracks-v1a1/mono.m3u8
-http://172.19.17.34/live/ontest1/ontest1/06.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/rtv.png", RTV HD
@@ -192,22 +189,20 @@ http://live.balajibroadband.com:3500/live/483.m3u8
 http://198.195.239.50:8095/COLORS.CINEPLEX.HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/st1.png", Sony Sports 1 HD
 http://100.100.100.94:4518/Sony-Ten-1/tracks-v1a1/mono.m3u8
-http://172.19.17.34/live/ontest1/ontest1/56.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/st2.png", Sony Sports 2 HD
 http://10.20.30.40:8088/120/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/st3.png", Sony Sports 3 HD
-http://172.19.17.34/live/ontest1/ontest1/58.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/st5.png", Sony Sports 5 HD
-http://172.19.17.34/live/ontest1/ontest1/59.m3u8
 http://66.102.126.10:8000/play/a010/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ss1.png", Star Sports 1 HD
 http://10.20.30.40:8088/110/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ss2.png", Star Sports 2 HD
 http://10.20.30.40:8088/115/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Sports 1 HD Hindi
-http://172.19.17.34/live/ontest1/ontest1/149.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Star Sports 2 HD Hindi
-http://172.19.17.34/live/ontest1/ontest1/61.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sss1.png", Star Sports Select 1 HD
 http://10.20.30.40:8088/123/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sss2.png", Star Sports Select 2 HD
@@ -217,58 +212,55 @@ http://198.195.239.50:8095/STAR-SPORTS.3/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Eurosport HD
 http://198.195.239.50:8095/EUROSPORTS.HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", A Sports HD
-http://172.19.17.34/live/ontest1/ontest1/67.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", PTV Sports HD
-http://172.19.17.34/live/ontest1/ontest1/68.m3u8
 http://10.20.30.40:8088/134/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TEN Cricket
 https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
 #EXTINF:0 type="stream" channelId="-1", TEN Sports
 http://66.102.126.10:8000/play/a018/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TNT Sports 1
-http://172.19.17.34/live/ontest1/ontest1/69.m3u8
-#EXTINF:0 type="stream" channelId="-1", TNT Sports 2
-http://172.19.17.34/live/ontest1/ontest1/70.m3u8
-#EXTINF:0 type="stream" channelId="-1", TNT Sports 3
-http://172.19.17.34/live/ontest1/ontest1/71.m3u8
-#EXTINF:0 type="stream" channelId="-1", TNT Sports 4
-http://172.19.17.34/live/ontest1/ontest1/72.m3u8
-#EXTINF:0 type="stream" channelId="-1", WILLOW HD
-http://172.19.17.34/live/ontest1/ontest1/73.m3u8
-#EXTINF:0 type="stream" channelId="-1", WILLOW HD_2
-http://172.19.17.34/live/ontest1/ontest1/74.m3u8
-#EXTINF:0 type="stream" channelId="-1", Sky Sports Cricket
-http://172.19.17.34/live/ontest1/ontest1/75.m3u8
-#EXTINF:0 type="stream" channelId="-1", Sky Sports Golf
-http://172.19.17.34/live/ontest1/ontest1/76.m3u8
-#EXTINF:0 type="stream" channelId="-1", NBC GOLF HD
-http://172.19.17.34/live/ontest1/ontest1/77.m3u8
-#EXTINF:0 type="stream" channelId="-1", BEIN Sports 1
-http://172.19.17.34/live/ontest1/ontest1/79.m3u8
-#EXTINF:0 type="stream" channelId="-1", BEIN Sports 2
-http://172.19.17.34/live/ontest1/ontest1/80.m3u8
 
-http://172.19.17.34/live/ontest1/ontest1/81.m3u8
+#EXTINF:0 type="stream" channelId="-1", TNT Sports 2
+
+#EXTINF:0 type="stream" channelId="-1", TNT Sports 3
+
+#EXTINF:0 type="stream" channelId="-1", TNT Sports 4
+
+#EXTINF:0 type="stream" channelId="-1", WILLOW HD
+
+#EXTINF:0 type="stream" channelId="-1", WILLOW HD_2
+
+#EXTINF:0 type="stream" channelId="-1", Sky Sports Cricket
+
+#EXTINF:0 type="stream" channelId="-1", Sky Sports Golf
+
+#EXTINF:0 type="stream" channelId="-1", NBC GOLF HD
+
+#EXTINF:0 type="stream" channelId="-1", BEIN Sports 1
+
+#EXTINF:0 type="stream" channelId="-1", BEIN Sports 2
+
 #EXTINF:0 type="stream" channelId="-1", BEIN Sports HD USA
-http://172.19.17.34/live/ontest1/ontest1/156.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", ABP News
-http://172.19.17.34/live/ontest1/ontest1/82.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", NDTV
 
 #EXTINF:0 type="stream" channelId="-1", GEO News
-http://172.19.17.34/live/ontest1/ontest1/83.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", ARY News
-http://172.19.17.34/live/ontest1/ontest1/84.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", ALJAZEERA
-http://172.19.17.34/live/ontest1/ontest1/85.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", BBC News
-http://172.19.17.34/live/ontest1/ontest1/86.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", CNN News
-http://172.19.17.34/live/ontest1/ontest1/87.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", CGTN
-http://172.19.17.34/live/ontest1/ontest1/88.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", DW English HD
-http://172.19.17.34/live/ontest1/ontest1/89.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Animal Planet HD
 http://66.102.126.10:8000/play/a001/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Discovery HD
@@ -279,7 +271,7 @@ http://livetv.akr4m.com:8080/bdtv/restrem/50.m3u8
 #EXTINF:0 type="stream" channelId="-1", National Geographic WILD  HD
 http://10.20.30.40:8088/802/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony BBC Earth
-http://172.19.17.34/live/ontest1/ontest1/94.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Travelxp HD
 http://198.195.239.50:8095/travelXp/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", History HD
