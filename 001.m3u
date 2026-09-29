@@ -183,12 +183,11 @@ http://10.20.30.40:8088/405/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", SONY Entertainment HD
 http://172.19.17.34/live/ontest1/ontest1/41.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Bharat HD
-http://172.19.17.34/live/ontest1/ontest1/44.m3u8
+http://198.195.239.50:8095/STAR.BHARAT.HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Plus HD
-http://172.19.17.34/live/ontest1/ontest1/40.m3u8
-http://66.102.126.10:8000/play/a008/index.m3u8
+http://198.195.239.50:8095/STAR.PLUS.HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", ZEE TV HD
-http://172.19.17.34/live/ontest1/ontest1/42.m3u8
+http://198.195.239.50:8095/ZEE.TV.HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", &TV HD
 http://172.19.17.34/live/ontest1/ontest1/45.m3u8
 #EXTINF:0 type="stream" channelId="-1", ARY DIGITAL HD
@@ -196,9 +195,8 @@ http://172.19.17.34/live/ontest1/ontest1/46.m3u8
 #EXTINF:0 type="stream" channelId="-1", GREEN HD
 https://cdn01.medialive.one:2096/GREENENTFHD/tracks-v2a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sg.png", Star Gold HD
-http://172.19.17.34/live/ontest1/ontest1/47.m3u8
+http://198.195.239.50:8095/STAR.GOLD.HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sg2.png", Star Gold 2 HD
-http://172.19.17.34/live/ontest1/ontest1/52.m3u8
 http://10.20.30.40:8088/402/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sgs.png", Star Gold Select HD
 http://172.19.17.34/live/ontest1/ontest1/53.m3u8
@@ -217,7 +215,7 @@ http://live.balajibroadband.com:3500/live/3418.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sm2.png", Sony Max2 HD
 http://live.balajibroadband.com:3500/live/483.m3u8
 #EXTINF:0 type="stream" channelId="-1", Colors Cineplex HD
-http://172.19.17.34/live/ontest1/ontest1/51.m3u8
+http://198.195.239.50:8095/COLORS.CINEPLEX.HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/st1.png", Sony Sports 1 HD
 http://100.100.100.94:4518/Sony-Ten-1/tracks-v1a1/mono.m3u8
 http://172.19.17.34/live/ontest1/ontest1/56.m3u8
@@ -241,9 +239,9 @@ http://10.20.30.40:8088/123/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sss2.png", Star Sports Select 2 HD
 http://10.20.30.40:8088/124/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ss3.png", Star Sports 3
-http://172.19.17.34/live/ontest1/ontest1/65.m3u8
+http://198.195.239.50:8095/STAR-SPORTS.3/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Eurosport HD
-http://172.19.17.34/live/ontest1/ontest1/66.m3u8
+http://198.195.239.50:8095/EUROSPORTS.HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", A Sports HD
 http://172.19.17.34/live/ontest1/ontest1/67.m3u8
 #EXTINF:0 type="stream" channelId="-1", PTV Sports HD
