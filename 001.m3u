@@ -31,7 +31,7 @@ http://10.20.30.40:8088/207/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channels.png", Channel S HD
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channel1.png", Channel 1 4K
-
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channel9.png", Channel 9 HD
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channel16.png", Channel 16
