@@ -465,8 +465,8 @@ http://103.159.180.34:5001/live/1605.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", News Live Bangla
 
-#EXTINF:0 type="stream" channelId="-1", Green TV HD
-
+#EXTINF:0 type="stream" channelId="-1", Star Sports 2 HD
+http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/239.ts
 
 
 
