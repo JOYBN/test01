@@ -37,6 +37,7 @@ https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channel16.png", Channel 16
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channel24.png", Channel 24 HD
+http://198.195.239.50:8095/CHANNEL.24.HD/tracks-v1a1/mono.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/14.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/dbc.png", DBC News HD
 http://10.20.30.40:8088/204/tracks-v1a1/mono.m3u8
@@ -188,37 +189,44 @@ http://live.balajibroadband.com:3500/live/483.m3u8
 #EXTINF:0 type="stream" channelId="-1", Colors Cineplex HD
 http://198.195.239.50:8095/COLORS.CINEPLEX.HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/st1.png", Sony Sports 1 HD
+
 http://100.100.100.94:4518/Sony-Ten-1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/st2.png", Sony Sports 2 HD
+
 http://10.20.30.40:8088/120/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/st3.png", Sony Sports 3 HD
-
+http://198.195.239.50:8095/SONY.SPORTS.3/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/st5.png", Sony Sports 5 HD
+http://198.195.239.50:8095/SONY-SPORTS.5HD/tracks-v1a1/mono.m3u8
 http://66.102.126.10:8000/play/a010/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ss1.png", Star Sports 1 HD
+http://198.195.239.50:8095/STAR.SPORTS1.HD/tracks-v1a1/mono.m3u8
 http://10.20.30.40:8088/110/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ss2.png", Star Sports 2 HD
+http://198.195.239.50:8095/STAR.SPORTS2.HD/tracks-v1a1/mono.m3u8
 http://10.20.30.40:8088/115/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Sports 1 HD Hindi
 
 #EXTINF:0 type="stream" channelId="-1", Star Sports 2 HD Hindi
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sss1.png", Star Sports Select 1 HD
+http://198.195.239.50:8095/STAR.SPORTS-SEL1.HD/tracks-v1a1/mono.m3u8
 http://10.20.30.40:8088/123/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sss2.png", Star Sports Select 2 HD
+http://198.195.239.50:8095/STAR.SPORTS.SEL.2.HD/tracks-v1a1/mono.m3u8
 http://10.20.30.40:8088/124/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ss3.png", Star Sports 3
 http://198.195.239.50:8095/STAR-SPORTS.3/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Eurosport HD
 http://198.195.239.50:8095/EUROSPORTS.HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", A Sports HD
-
+http://198.195.239.50:8095/A.SPORTS.HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", PTV Sports HD
-http://10.20.30.40:8088/134/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TEN Cricket
-https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", TEN Sports
-http://66.102.126.10:8000/play/a018/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", TNT Sports 1
 
 #EXTINF:0 type="stream" channelId="-1", TNT Sports 2
@@ -281,7 +289,7 @@ http://198.195.239.50:8095/TLC.HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Cartoon Network HD
 http://198.195.239.50:8095/cartoonNetwork/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nick HD
-http://103.165.93.31:8095/nick/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Disney Intertainment HD
 
 #EXTINF:0 type="stream" channelId="-1", ETV BAL BHARAT
@@ -303,13 +311,13 @@ http://198.195.239.50:8095/SUPER.HUNGAMA/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Disney Junior
 
 #EXTINF:0 type="stream" channelId="-1", Sony PIX HD
-http://10.20.30.40:8088/503/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/SONY.PIX.HD/tracks-v1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Colors Infinity HD
 
 #EXTINF:0 type="stream" channelId="-1", Star Movies HD
 http://10.20.30.40:8088/501/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Movies Select HD
-http://10.20.30.40:8088/502/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/STAR.MOVIES.SEL.HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", MN+
 
 #EXTINF:0 type="stream" channelId="-1", Movies Now HD
@@ -345,7 +353,7 @@ http://10.20.30.40:8088/502/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Samaa TV
 
 #EXTINF:0 type="stream" channelId="-1", HUM TV HD
-https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", NDTV 24x7
@@ -435,23 +443,16 @@ http://livetv.akr4m.com:8080/bdtv/restrem/29.m3u8
 #EXTINF:0 type="stream" channelId="-1", Kantipur TV
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", JOY
-https://nomawnoijl.gpcdn.net/akash/joy/chunks.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", REAL WILD
 https://amg00426-littledotstudio-realwild-tcl-fzsi1.amagi.tv/ts-us-e2-n1/playlist/amg00426-littledotstudio-realwild-tcl/cb563d1e786c678a84cb3978d5f762ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da56852db80148b6f4adafb8c2360625f5c98435ee3b24af2f8b00e10893ea8ac191bc77c58e68314c8c94ebdd3d4469a41d224a31dccc3a68ad746e0bcab538b6798544338701da34d18f9c670b9c09365359d3e7d084e15ae949af04a3391540372ccbf9aef2baf488ebe2c8f3663e0408019d079ca4aba19abe479a5af90d6560e6cf793153271e0ad8ba2cf181ff126f7abe2d8335b9cf51f770e894ed030243595b29a40dc8d45d8e66dd5f45a1c3ec1834cd4c8e1d4a1e3db38e94fa0f0fd96394d59704453d62fc5b4599b788d36f8b4504b3a6a4ba29d59c1fca97d3870408b851e99532cb0d58f8cc81d79ad441e49e374d64b0f0f9d623a9c84d12a158c0a2b9b8e5a3ee38c630d44b2fff3d72e05/166/1920x1080_6046040/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:0 type="stream" channelId="-1", Vakti Bangla
 http://103.159.180.34:5001/live/1605.m3u8
-#EXTINF:0 type="stream" channelId="-1", Star Jalsha
-https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281675.m3u8
-#EXTINF:0 type="stream" channelId="-1", Colors Bangla 
-https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281676.m3u8
-#EXTINF:0 type="stream" channelId="-1", Jalsha Movies
-https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281674.m3u8
-#EXTINF:0 type="stream" channelId="-1", Zee Bangla 
-https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281671.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", National Geographic
-https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281683.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Travel XP
 
 #EXTINF:0 type="stream" channelId="-1", test03
