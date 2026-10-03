@@ -193,7 +193,7 @@ http://198.195.239.50:8095/COLORS.CINEPLEX.HD/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/SONY-SPORTS.5HD/tracks-v1a1/mono.m3u8
 http://100.100.100.94:4518/Sony-Ten-1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/st2.png", Sony Sports 2 HD
-http://198.195.239.50:8095/SONY.SPORTS2.HD/tracks-v1a1/mono.m3u8
+http://100.100.100.94:4518/Sony-Ten-2/tracks-v1a1/mono.m3u8
 http://10.20.30.40:8088/120/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/st3.png", Sony Sports 3 HD
 http://198.195.239.50:8095/SONY.SPORTS.3/tracks-v1a1/mono.m3u8
