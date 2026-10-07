@@ -149,7 +149,7 @@ https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/rb.png", Ruposhi Bangla 
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/rpg.png", R PLUS GOLD
-https://cdn-4.pishow.tv/live/1231/master.m3u8
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cf883da3-f9f5-4c70-b0ef-b3ac2e2ad1e3/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sb.png", Sangeet Bangla
 http://10.20.30.40:8088/702/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Colors HD.
