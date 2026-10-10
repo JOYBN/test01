@@ -227,6 +227,8 @@ http://198.195.239.50:8095/EUROSPORTS.HD/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/A.SPORTS.HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", PTV Sports HD
 http://198.195.239.50:8095/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", UNITE 8 Sports 1 HD
+http://198.195.239.50:8095/UNITE8.1.HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TEN Cricket
 
 #EXTINF:0 type="stream" channelId="-1", TEN Sports
@@ -325,8 +327,6 @@ http://198.195.239.50:8095/STAR.MOVIES.SEL.HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", MN+
 
 #EXTINF:0 type="stream" channelId="-1", Movies Now HD
-
-#EXTINF:0 type="stream" channelId="-1", UNITE 8 Sports 1 HD
 
 #EXTINF:0 type="stream" channelId="-1", & Prive HD
 
