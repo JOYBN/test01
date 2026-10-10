@@ -176,7 +176,6 @@ http://10.20.30.40:8088/402/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sgs.png", Star Gold Select HD
 http://10.20.30.40:8088/408/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/zc.png", Zee Cinema HD
-
 http://10.20.30.40:8088/406/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ap.png", &pictures HD
 http://10.20.30.40:8088/407/tracks-v1a1/mono.m3u8
