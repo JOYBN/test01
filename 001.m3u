@@ -470,7 +470,8 @@ http://103.159.180.34:5001/live/1605.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Star Sports 2 HD
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/239.ts
-
+#EXTINF:0 type="stream" channelId="-1", Star 4k
+http://198.195.239.50:8095/STAR.SPORTS.4K/tracks-v1a1/mono.m3u8
 
 
 
