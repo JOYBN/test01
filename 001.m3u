@@ -18,7 +18,6 @@ http://10.20.30.40:8088/212/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/bijoy.png", Bijoy TV HD
 https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/boishakhi.png", Boishakhi TV HD
-http://198.195.239.50:8095/BOISAKHI.TV.HD/tracks-v1a1/mono.m3u8
 http://10.20.30.40:8088/211/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btvcc.png", BTV Chattagram
 http://livetv.akr4m.com:8080/bdtv/restrem/11.m3u8
@@ -27,7 +26,6 @@ http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btvn.png", BTV News HD
 http://livetv.akr4m.com:8080/bdtv/restrem/13.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channeli.png", Channel I HD
-http://198.195.239.50:8095/CHANNEL.I.HD/tracks-v1a1/mono.m3u8
 http://10.20.30.40:8088/207/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channels.png", Channel S HD
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
@@ -38,7 +36,6 @@ http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channel16.png", Channel 16
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channel24.png", Channel 24 HD
-http://198.195.239.50:8095/CHANNEL.24.HD/tracks-v1a1/mono.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/14.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/dbc.png", DBC News HD
 http://10.20.30.40:8088/204/tracks-v1a1/mono.m3u8
@@ -47,13 +44,12 @@ http://livetv.akr4m.com:8080/bdtv/restrem/17.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/desh.png", Desh TV HD
 http://livetv.akr4m.com:8080/bdtv/restrem/18.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/duronto.png", Duronto TV HD
-http://198.195.239.50:8095/duranta/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ekattor.png", Ekattor TV HD
 http://10.20.30.40:8088/201/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ekushey.png", Ekushey TV BD
 http://livetv.akr4m.com:8080/bdtv/restrem/21.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ekhon.png", Ekhon TV HD
-http://198.195.239.50:8095/EAKHON.TV.HD/tracks-v1a1/mono.m3u8
 https://playztv-apps.pages.dev/ekhon-tv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", EP TV HD
 
