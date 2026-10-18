@@ -42,9 +42,9 @@ http://livetv.akr4m.com:8080/bdtv/restrem/14.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/dbc.png", DBC News HD
 http://10.20.30.40:8088/204/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/dipto.png", Deepto TV HD
-http://livetv.akr4m.com:8080/bdtv/restrem/17.m3u8
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/desh.png", Desh TV HD
-http://livetv.akr4m.com:8080/bdtv/restrem/18.m3u8
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/duronto.png", Duronto TV HD
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ekattor.png", Ekattor TV HD
@@ -95,7 +95,7 @@ http://10.20.30.40:8088/208/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/rtv.png", RTV HD
-http://livetv.akr4m.com:8080/bdtv/restrem/44.m3u8
+https://playztv-apps.pages.dev/rtv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btvs.png", Sangsad TV HD
 http://livetv.akr4m.com:8080/bdtv/restrem/32.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/satv.png", SATV HD
