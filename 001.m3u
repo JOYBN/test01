@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/Ananda.png", Anando TV
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
-http://livetv.akr4m.com:8080/bdtv/restrem/04.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/asian.png", Asian TV HD
 https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
-http://livetv.akr4m.com:8080/bdtv/restrem/01.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/atnbangla.png", ATN Bangla HD
 http://10.20.30.40:8088/202/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/atnnews.png", ATN News HD
@@ -22,7 +20,7 @@ http://10.20.30.40:8088/211/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btvcc.png", BTV Chattagram
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btv.png", BTV National HD
-http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btvn.png", BTV News HD
 http://10.30.30.30:8088/BTV.HD/tracks-v1a1/mono.m3u8?token=dcaf967a851b22ae8f02a6325f0c0e06a17fc687-194404cb1bf90a72f02a761d2f425fc3-1792339913-1792329113
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channeli.png", Channel I HD
@@ -38,7 +36,6 @@ https://box.bbaria.net:8083/Channel9/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channel24.png", Channel 24 HD
 https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
-http://livetv.akr4m.com:8080/bdtv/restrem/14.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/dbc.png", DBC News HD
 http://10.20.30.40:8088/204/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/dipto.png", Deepto TV HD
@@ -61,7 +58,6 @@ https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 http://10.20.30.40:8088/106/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/global.png", Global TV BD
 https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
-http://livetv.akr4m.com:8080/bdtv/restrem/22.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/green.png", Green TV HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/independent.png", INDEPENDENT TV
@@ -99,7 +95,7 @@ https://playztv-apps.pages.dev/rtv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/samitv.png", Sami TV
 http://103.238.115.159:8080/samitv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btvs.png", Sangsad TV HD
-http://livetv.akr4m.com:8080/bdtv/restrem/32.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/satv.png", SATV HD
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/somoy.png", Somoy TV HD
@@ -272,7 +268,7 @@ http://103.114.11.37:8081/Star-sports-3/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Animal Planet HD
 
 #EXTINF:0 type="stream" channelId="-1", Discovery HD
-http://livetv.akr4m.com:8080/bdtv/restrem/51.m3u8
+
 http://202.70.146.135:8000/play/a05z/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", National Geographic HD
 http://103.135.253.32:8080/NATGEO-HD/index.m3u8
@@ -435,9 +431,9 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/in
 #EXTINF:0 type="stream" channelId="-1", W O F
 https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/cb563d1e786c678a84cb3978d5f862ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da56852db80148b6f4adafb8c2360625f5c98435ee3b24aabfbe35d41d96ea0ac191bc77c58e68314c8c915bd8081469f458420f3409995f4ddd243e0bcab538b6798544338701da34d18f9c670b9c09365359d3e7d084e15ae949af04a3391540372ccbf9aef2baf488ebe2c8f3663e0408019d079ca4aba19abe479a5af90d6560e6cf793153271e0ad8ba2cf181ff126f7abe2d8335b9cf51f770e894ed030243595b29a40dc8d45d8e66dd5f45a1c3ec1834cd4c8e1d4a1e3db38e94fa0f0fd96394d59704453d62fc5b4599b788d36f8b4504b3a6a4ba29d59c1fca97d3870408b851e99532cb0d58f8cc81d79ad441e49e374d64b0f0d99d40dfc37a249fcc152656638408744371c9f3f89a53e51/5/1920x1080_6046040/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", HBO
-http://livetv.akr4m.com:8080/bdtv/restrem/47.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", HBO HiTS
-http://livetv.akr4m.com:8080/bdtv/restrem/29.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Kantipur TV
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", JOY
