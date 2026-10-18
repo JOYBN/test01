@@ -112,8 +112,8 @@ http://10.20.30.40:8088/102/tracks-v1a1/mono.m3u8
 http://10.20.30.40:8088/101/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/tsports.png", T Sports 2
 http://100.100.100.94:4518/T-Sports-HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", Unmochon TV
-
+#EXTINF:0 type="stream" channelId="-1", U Bangla TV
+https://stream.ottlive.co.in/ubangla/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/cbangla.png", Colors Bangla HD
 http://103.114.11.37:8081/Colors-bangla/index.m3u8
 http://10.20.30.40:8088/304/tracks-v1a1/mono.m3u8
@@ -214,7 +214,7 @@ http://103.114.11.37:8081/Star-sports-3/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Eurosport HD
 
 #EXTINF:0 type="stream" channelId="-1", A Sports HD
-
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 type="stream" channelId="-1", PTV Sports HD
 
 #EXTINF:0 type="stream" channelId="-1", UNITE 8 Sports 1 HD
