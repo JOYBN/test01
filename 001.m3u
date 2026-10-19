@@ -20,8 +20,7 @@ http://10.20.30.40:8088/211/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btvcc.png", BTV Chattagram
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btv.png", BTV National HD
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btvn.png", BTV News HD
+https://btv.hridoytv-channel.workers.dev/btv.m3u8#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btvn.png", BTV News HD
 http://10.30.30.30:8088/BTV.HD/tracks-v1a1/mono.m3u8?token=dcaf967a851b22ae8f02a6325f0c0e06a17fc687-194404cb1bf90a72f02a761d2f425fc3-1792339913-1792329113
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channeli.png", Channel I HD
 http://10.20.30.40:8088/207/tracks-v1a1/mono.m3u8
