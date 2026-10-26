@@ -133,7 +133,7 @@ https://cdn-4.pishow.tv/live/969/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/e10.png", Enter 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", KHUSHBOO BANGLA
-
+http://103.175.73.12:8080/live/375/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/cbanglac.png", Colors Bangla Cinema
 http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sjalsham.png", Jalsha Movies HD
@@ -141,14 +141,17 @@ http://10.20.30.40:8088/303/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/zbanglac.png", Zee Bangla Cinema
 http://10.20.30.40:8088/305/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/dm.png", Dhoom Music
+http://103.175.73.12:8080/live/378/master.m3u8
 https://cdn.pishow.tv/ott/live/1456/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/dm.png", KHUS
 https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/rb.png", Ruposhi Bangla 
+http://103.175.73.12:8080/live/664/master.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:rupashibangla.smil/chunklist_b1928000.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/rpg.png", R PLUS GOLD
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cf883da3-f9f5-4c70-b0ef-b3ac2e2ad1e3/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sb.png", Sangeet Bangla
+http://103.175.73.12:8080/live/379/master.m3u8
 http://10.20.30.40:8088/702/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Colors HD.
 http://103.135.253.32:8080/Color-HD/index.m3u8
@@ -265,7 +268,7 @@ https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 type="stream" channelId="-1", CGTN
 
 #EXTINF:0 type="stream" channelId="-1", DW English HD
-
+http://103.175.73.12:8080/live/116/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", Animal Planet HD
 
 #EXTINF:0 type="stream" channelId="-1", Discovery HD
