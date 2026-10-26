@@ -129,7 +129,7 @@ https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/zbangla.png", Zee Bangla HD
 http://10.20.30.40:8088/301/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/a8.png", Aakash Aath
-https://cdn-4.pishow.tv/live/969/master.m3u8
+http://103.175.73.12:8080/live/660/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/e10.png", Enter 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", KHUSHBOO BANGLA
@@ -457,10 +457,10 @@ http://115.187.41.216:8080/hls/bhaktibangla/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", test04
 
-#EXTINF:0 type="stream" channelId="-1", test05
-
+#EXTINF:0 type="stream" channelId="-1", Assam LIVE 24
+http://103.175.73.12:8080/live/862/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", News Live Bangla
-
+http://103.175.73.12:8080/live/784/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Sports 2 HD
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/239.ts
 #EXTINF:0 type="stream" channelId="-1", Star 4k
