@@ -444,8 +444,7 @@ https://amg00426-littledotstudio-realwild-tcl-fzsi1.amagi.tv/ts-us-e2-n1/playlis
 #EXTINF:0 type="stream" channelId="-1", Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:0 type="stream" channelId="-1", Vakti Bangla
-http://103.159.180.34:5001/live/1605.m3u8
-
+http://115.187.41.216:8080/hls/bhaktibangla/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", National Geographic
 
 #EXTINF:0 type="stream" channelId="-1", Travel XP
