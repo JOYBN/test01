@@ -52,16 +52,19 @@ https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/duronto.png", Duronto TV HD
 http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ekattor.png", Ekattor TV HD
+http://103.135.253.32:8080/Ekattor-TV/index.m3u8
 http://10.20.30.40:8088/201/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ekushey.png", Ekushey TV BD
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ekhon.png", Ekhon TV HD
+http://103.135.253.32:8080/Ekhon-TV/index.m3u8
 https://playztv-apps.pages.dev/ekhon-tv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", EP TV HD
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/entertv.png", Enter TV HD
 https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/gtv.png", Gazi TV HD
+http://103.135.253.32:8080/Gazi-TV/index.m3u8
 http://10.20.30.40:8088/106/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/global.png", Global TV BD
 https://prod-linear-media.toffeelive.com/cdn/live/globaltv/playlist.m3u8?edge-cache-token=Expires=1792395018~Starts=1792391418~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=IWvyQpzFANDJJT0UMfB9kdTD_aK1J_XJ-1fmHUZR-Ngn2ELinXr298mbhfNwOSW-0Gs-tL7yH9wquWrAvarhAw
@@ -75,8 +78,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:0 type="stream" channelId="-1", Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/jamuna.png", JAMUNA TV
+http://103.135.253.32:8080/Jamuna-TV/index.m3u8
 http://10.20.30.40:8088/209/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/maasranga.png", Maasranga HD
+https://mtv.sunplex.live/MAASRANGA/index.m3u8
 http://10.20.30.40:8088/206/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
@@ -95,6 +100,7 @@ https://media.hmair.xyz/api/play/Nexus%20TV.m3u8
 #EXTINF:0 type="stream" channelId="-1", NRB TV HD
 https://app.ncare.live/live-orgin/nrb-eu.stream/live-orgin/nrb-eu.stream/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ntv.png", NTV HD
+https://tvsen5.aynaott.com/JHPxHAWonztVucyc4GzF/index.m3u8
 http://10.20.30.40:8088/208/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
@@ -107,6 +113,7 @@ http://103.238.115.159:8080/samitv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/satv.png", SATV HD
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/somoy.png", Somoy TV HD
+https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/index.m3u8
 http://10.20.30.40:8088/205/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/starnews.png", Star News HD
 http://103.135.253.32:8080/Star-News/index.m3u8
@@ -131,9 +138,11 @@ http://10.20.30.40:8088/302/tracks-v1a1/mono.m3u8
 http://103.135.253.32:8080/SUN-BANGLA/index.m3u8
 http://103.151.61.12/SUN_BANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/saath.png", Sony Auth
+http://103.135.253.32:8080/SONY_AATH/index.m3u8
 http://10.20.30.40:8088/306/tracks-v1a1/mono.m3u8
 https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/zbangla.png", Zee Bangla HD
+http://103.135.253.32:8080/ZEE-BANGLA-HD/tracks-v1a1/mono.m3u8
 http://10.20.30.40:8088/301/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/a8.png", Aakash Aath
 http://103.175.73.12:8080/live/660/master.m3u8
@@ -144,8 +153,10 @@ http://103.175.73.12:8080/live/375/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/cbanglac.png", Colors Bangla Cinema
 http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sjalsham.png", Jalsha Movies HD
+http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
 http://10.20.30.40:8088/303/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/zbanglac.png", Zee Bangla Cinema
+http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8
 http://10.20.30.40:8088/305/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/dm.png", Dhoom Music
 http://103.175.73.12:8080/live/378/master.m3u8
