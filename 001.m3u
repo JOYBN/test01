@@ -4,7 +4,6 @@ https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/asian.png", Asian TV HD
 https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/atnbangla.png", ATN Bangla HD
-http://103.135.253.32:8080/ATN-Bangla/index.m3u8
 http://10.20.30.40:8088/202/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/atnnews.png", ATN News HD
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
@@ -27,7 +26,7 @@ https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/tracks-v1a1/mono.ts.m3u8
 https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
 https://btv.hridoytv-channel.workers.dev/btv.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btvn.png", BTV News HD
-https://btv.hridoytv-channel.workers.dev/news.m3u8
+http://100.100.100.98:4518/BTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channeli.png", Channel I HD
 https://nkafmbewiff.gpcdn.net/tile_5/master.m3u8
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
@@ -35,7 +34,7 @@ http://10.20.30.40:8088/207/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channels.png", Channel S HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channel1.png", Channel 1 4K
-https://drk6xq0vhn.gpcdn.net/live/channel_1_hd_abr/index.m3u8
+
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channel9.png", Channel 9 HD
 https://nkafmbewiff.gpcdn.net/tile_7/master.m3u8
@@ -43,7 +42,7 @@ https://box.bbaria.net:8083/Channel9/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channel16.png", Channel 16
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channel24.png", Channel 24 HD
-https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channel.png", Channel 52 HD
 https://tvsen6.aynaott.com/channel52/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/dbc.png", DBC News HD
@@ -55,7 +54,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/desh.png", Desh TV HD
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/duronto.png", Duronto TV HD
-http://103.135.253.32:8080/DORONTU-TV/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ekattor.png", Ekattor TV HD
 https://nkafmbewiff.gpcdn.net/tile_1/master.m3u8
 http://103.135.253.32:8080/Ekattor-TV/index.m3u8
@@ -69,8 +68,7 @@ https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/entertv.png", Enter TV HD
 https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/gtv.png", Gazi TV HD
-http://103.135.253.32:8080/Gazi-TV/index.m3u8
-http://10.20.30.40:8088/106/tracks-v1a1/mono.m3u8
+http://100.100.100.98:4518/GTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/global.png", Global TV BD
 https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/green.png", Green TV HD
