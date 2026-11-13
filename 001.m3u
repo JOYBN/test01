@@ -496,4 +496,7 @@ http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/239.ts
 https://live.playmax.live/matribhumi/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", NEPAL 1
 https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", AKHON KOLKATA
+https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8
+
 
