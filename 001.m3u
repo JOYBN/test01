@@ -137,7 +137,6 @@ http://100.100.100.94:4518/T-Sports-HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", U Bangla TV
 https://stream.ottlive.co.in/ubangla/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/cbangla.png", Colors Bangla HD
-http://103.114.11.37:8081/Colors-bangla/index.m3u8
 http://10.20.30.40:8088/304/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sjalsha.png", Star Jalsha HD
 http://10.20.30.40:8088/302/tracks-v1a1/mono.m3u8
@@ -145,11 +144,9 @@ http://10.20.30.40:8088/302/tracks-v1a1/mono.m3u8
 http://103.135.253.32:8080/SUN-BANGLA/index.m3u8
 http://103.151.61.12/SUN_BANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/saath.png", Sony Auth
-http://103.135.253.32:8080/SONY_AATH/index.m3u8
 http://10.20.30.40:8088/306/tracks-v1a1/mono.m3u8
 https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/zbangla.png", Zee Bangla HD
-http://103.135.253.32:8080/ZEE-BANGLA-HD/tracks-v1a1/mono.m3u8
 http://10.20.30.40:8088/301/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/a8.png", Aakash Aath
 http://103.175.73.12:8080/live/660/master.m3u8
@@ -160,10 +157,8 @@ http://103.175.73.12:8080/live/375/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/cbanglac.png", Colors Bangla Cinema
 http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sjalsham.png", Jalsha Movies HD
-http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
 http://10.20.30.40:8088/303/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/zbanglac.png", Zee Bangla Cinema
-http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8
 http://10.20.30.40:8088/305/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/dm.png", Dhoom Music
 http://103.175.73.12:8080/live/378/master.m3u8
