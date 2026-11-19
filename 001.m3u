@@ -85,7 +85,7 @@ http://10.20.30.40:8088/209/tracks-v1a1/mono.m3u8
 https://nkafmbewiff.gpcdn.net/tile_4/master.m3u8
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
 http://10.20.30.40:8088/206/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", Matribhumi TV IPTV
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/mbh.png", Matribhumi TV IPTV
 https://live.playmax.live/matribhumi/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", ME TV
 
@@ -152,7 +152,7 @@ http://10.20.30.40:8088/301/tracks-v1a1/mono.m3u8
 http://103.175.73.12:8080/live/660/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/e10.png", Enter 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", KHUSHBOO BANGLA
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/khu.png", KHUSHBOO BANGLA
 http://103.175.73.12:8080/live/375/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/cbanglac.png", Colors Bangla Cinema
 http://100.100.100.98:4518/Colors-Bangla-Cinema/tracks-v1a1/mono.m3u8
@@ -389,7 +389,7 @@ https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master_1280.m
 https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/akbangla.png", AK Bangla
 https://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8
-#EXTINF:0 type="stream" channelId="-1", AKHON KOLKATA
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ak.png", AKHON KOLKATA
 https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/colcattanews.png", Calcutta News TV
 https://live.legitpro.co.in/cnnnews/index.m3u8
@@ -403,7 +403,7 @@ https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ktvbangla.png", KTV Bangla
 https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", News Live Bangla
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/nlb.png", News Live Bangla
 http://103.175.73.12:8080/live/784/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/n18bangla.png", News 18 Bangla
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
@@ -421,13 +421,13 @@ https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_720p/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/z24.png", ZEE 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
-#EXTINF:0 type="stream" channelId="-1", DD Bangla
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ddb.png", DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
-#EXTINF:0 type="stream" channelId="-1", Raatdin Bangla
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/rdb.png", Raatdin Bangla
 https://server.playontv.in/raatdinbangla/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rongeen TV HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/rg.png", Rongeen TV HD
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", Vakti Bangla
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/vb.png", Vakti Bangla
 http://115.187.41.216:8080/hls/bhaktibangla/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sananda TV
 https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8
@@ -435,7 +435,7 @@ https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 type="stream" channelId="-1", Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
-#EXTINF:0 type="stream" channelId="-1", DD Sports HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/dds.png", DD Sports HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_7.m3u8
 #EXTINF:0 type="stream" channelId="-1", Al-Jazeera HD
 https://live-hls-apps-aje-fa.getaj.net/AJE/01.m3u8
