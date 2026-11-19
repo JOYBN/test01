@@ -297,7 +297,7 @@ http://202.70.146.135:8000/play/a05z/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", National Geographic HD
 http://10.20.30.40:8088/802/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", National Geographic WILD  HD
-
+http://ms.towkai.com/natgeowild_mimelive/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sony BBC Earth
 
 #EXTINF:0 type="stream" channelId="-1", Travelxp HD
