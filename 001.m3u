@@ -25,7 +25,7 @@ https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btv.png", BTV National HD
 https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
 https://btv.hridoytv-channel.workers.dev/btv.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btvn.png", BTV News HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btvnehd.png", BTV News HD
 http://100.100.100.98:4518/BTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/channeli.png", Channel I HD
 https://nkafmbewiff.gpcdn.net/tile_5/master.m3u8
