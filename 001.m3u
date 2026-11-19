@@ -305,7 +305,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", History HD
 https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", TLC HD
-
+http://ms.towkai.com/tlc_ml/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Cartoon Network HD
 
 #EXTINF:0 type="stream" channelId="-1", Nick HD
