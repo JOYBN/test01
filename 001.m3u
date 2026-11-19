@@ -86,7 +86,7 @@ https://nkafmbewiff.gpcdn.net/tile_4/master.m3u8
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
 http://10.20.30.40:8088/206/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", ME TV
-https://iptvbd.live/metv1080/1080.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/mohona.png", Mohona TV HD
@@ -111,14 +111,14 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/rtv.png", RTV HD
 https://playztv-apps.pages.dev/rtv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/samitv.png", Sami TV
-https://bdix.ottking.top:8082/Sami-TV/tracks-v1a1/mono.m3u8?token=Sami-TV
+
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/btvs.png", Sangsad TV HD
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/satv.png", SATV HD
 https://nkafmbewiff.gpcdn.net/tile_3/master.m3u8
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/somoy.png", Somoy TV HD
-http://116.204.149.16/somoytv/index.m3u8
+http://10.20.30.40:8088/205/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/starnews.png", Star News HD
 http://103.135.253.32:8080/Star-News/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/starnews.png", Star News 4K
@@ -143,8 +143,7 @@ http://10.20.30.40:8088/302/tracks-v1a1/mono.m3u8
 http://103.135.253.32:8080/SUN-BANGLA/index.m3u8
 http://103.151.61.12/SUN_BANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/saath.png", Sony Auth
-http://10.20.30.40:8088/306/tracks-v1a1/mono.m3u8
-https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/zbangla.png", Zee Bangla HD
 http://10.20.30.40:8088/301/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/a8.png", Aakash Aath
@@ -154,7 +153,7 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 #EXTINF:0 type="stream" channelId="-1", KHUSHBOO BANGLA
 http://103.175.73.12:8080/live/375/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/cbanglac.png", Colors Bangla Cinema
-http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8
+http://100.100.100.98:4518/Colors-Bangla-Cinema/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sjalsham.png", Jalsha Movies HD
 http://10.20.30.40:8088/303/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/zbanglac.png", Zee Bangla Cinema
@@ -162,7 +161,7 @@ http://10.20.30.40:8088/305/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/dm.png", Dhoom Music
 http://103.175.73.12:8080/live/378/master.m3u8
 https://cdn.pishow.tv/ott/live/1456/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/dm.png", KHUS
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/d.png", KHUS
 https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/rb.png", Ruposhi Bangla 
 http://103.175.73.12:8080/live/664/master.m3u8
@@ -173,30 +172,29 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 http://103.175.73.12:8080/live/379/master.m3u8
 http://10.20.30.40:8088/702/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Colors HD.
-http://103.135.253.32:8080/Color-HD/index.m3u8
 http://10.20.30.40:8088/405/tracks-v1a1/mono.m3u8
+http://103.135.253.32:8080/Color-HD/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", SONY Entertainment HD
 
 #EXTINF:0 type="stream" channelId="-1", Star Bharat HD
-http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Star Plus HD
-http://103.114.11.37:8081/Star-Plus-HD/index.m3u8?token=dsgdfgsdfgasf
+http://100.100.100.98:4518/Star-Plus/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", ZEE TV HD
 
 #EXTINF:0 type="stream" channelId="-1", &TV HD
-http://10.20.30.40:8088/121/tracks-v1a1/mono.m3u8
+http://100.100.100.98:4518/And-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", ARY DIGITAL HD
 
 #EXTINF:0 type="stream" channelId="-1", GREEN HD
 https://cdn01.medialive.one:2096/GREENENTFHD/tracks-v2a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sg.png", Star Gold HD
-http://103.114.11.37:8081/StarGold/index.m3u8?token=dsgdfgsdfgasf
+http://10.20.30.40:8088/402/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sg2.png", Star Gold 2 HD
 http://10.20.30.40:8088/402/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sgs.png", Star Gold Select HD
 http://10.20.30.40:8088/408/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/zc.png", Zee Cinema HD
-https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8
 http://10.20.30.40:8088/406/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ap.png", &pictures HD
 http://10.20.30.40:8088/407/tracks-v1a1/mono.m3u8
@@ -205,7 +203,7 @@ http://10.20.30.40:8088/404/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sm1.png", Sony Max1 HD
 http://live.balajibroadband.com:3500/live/3418.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sm2.png", Sony Max2 HD
-https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Colors Cineplex HD
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/st1.png", Sony Sports 1 HD
@@ -217,10 +215,9 @@ http://10.20.30.40:8088/121/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/st5.png", Sony Sports 5 HD
 http://10.20.30.40:8088/122/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ss1.png", Star Sports 1 HD
-https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
 http://10.20.30.40:8088/110/tracks-v1a1/mono.m3u8
+https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/ss2.png", Star Sports 2 HD
-http://103.135.253.32:8080/STAR-SPORTS-2-HD/index.m3u8
 http://10.20.30.40:8088/115/tracks-v1a1/mono.m3u8
 https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Sports 1 HD Hindi
@@ -228,7 +225,6 @@ https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 type="stream" channelId="-1", Star Sports 2 HD Hindi
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sss1.png", Star Sports Select 1 HD
-http://103.135.253.32:8080/STAR-SPORTS-SELECT-1/index.m3u8
 http://10.20.30.40:8088/123/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sss2.png", Star Sports Select 2 HD
 http://10.20.30.40:8088/124/tracks-v1a1/mono.m3u8
@@ -330,13 +326,13 @@ https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01
 #EXTINF:0 type="stream" channelId="-1", Disney Junior
 
 #EXTINF:0 type="stream" channelId="-1", Sony PIX HD
-
+http://10.20.30.40:8088/503/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Colors Infinity HD
 
 #EXTINF:0 type="stream" channelId="-1", Star Movies HD
-http://10.20.30.40:8088/501/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", Star Movies Select HD
 
+#EXTINF:0 type="stream" channelId="-1", Star Movies Select HD
+http://10.20.30.40:8088/502/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", MN+
 
 #EXTINF:0 type="stream" channelId="-1", Movies Now HD
