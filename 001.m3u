@@ -285,8 +285,8 @@ https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", CNN News
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", CGTN
-
+#EXTINF:0 type="stream" channelId="-1", TRT WORLD 
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", DW English HD
 http://103.175.73.12:8080/live/116/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", Animal Planet HD
