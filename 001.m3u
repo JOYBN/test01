@@ -145,7 +145,7 @@ http://10.20.30.40:8088/304/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sjalsha.png", Star Jalsha HD
 http://10.20.30.40:8088/302/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/sbangla.png", Sun Bangla HD
-http://103.135.253.32:8080/SUN-BANGLA/index.m3u8
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/522626.ts
 http://103.151.61.12/SUN_BANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/JOYBN/images/main/logos/saath.png", Sony Auth
 
