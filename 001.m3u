@@ -269,13 +269,13 @@ https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 type="stream" channelId="-1", NBC GOLF HD
 
 #EXTINF:0 type="stream" channelId="-1", BEIN Sports 1
-
+http://27.124.71.27/beIN_Sports_1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", BEIN Sports 2
-
-#EXTINF:0 type="stream" channelId="-1", BEIN Sports HD USA
-
-#EXTINF:0 type="stream" channelId="-1", ABP News
-
+http://27.124.71.27/beIN_Sports_2/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", BEIN Sports 3
+http://27.124.71.27/beIN_Sports_3/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", BEIN Sports Xtra
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", NDTV
 
 #EXTINF:0 type="stream" channelId="-1", GEO News
