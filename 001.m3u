@@ -493,10 +493,10 @@ http://103.175.73.12:8080/live/862/master.m3u8
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/239.ts
 #EXTINF:0 type="stream" channelId="-1", SNB Cinema
 http://103.182.83.246/hls/snbcinema.m3u8
-#EXTINF:0 type="stream" channelId="-1", Raatdin Bangla
-
-#EXTINF:0 type="stream" channelId="-1", Raatdin Bangla
-
+#EXTINF:0 type="stream" channelId="-1", Test01
+https://techandeat.online/sliv/stream.m3u8?id=1000009246
+#EXTINF:0 type="stream" channelId="-1", Test Sony 5 HD
+https://techandeat.online/sliv/stream.m3u8?id=1000009275
 #EXTINF:0 type="stream" channelId="-1", Raatdin Bangla
 
 #EXTINF:0 type="stream" channelId="-1", Raatdin Bangla
