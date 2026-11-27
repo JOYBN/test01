@@ -499,8 +499,8 @@ https://techandeat.online/sliv/stream.m3u8?id=1000009246
 https://techandeat.online/sliv/stream.m3u8?id=1000009275
 #EXTINF:0 type="stream" channelId="-1", arirang KOREA
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:0 type="stream" channelId="-1", Raatdin Bangla
-
-#EXTINF:0 type="stream" channelId="-1", Raatdin Bangla
-
+#EXTINF:0 type="stream" channelId="-1", ZODIAK TV
+https://ranacable.duckdns.org/ZodiakTv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", SONY AUTH
+http://27.124.71.27/Sony_Aath/index.m3u8
 
